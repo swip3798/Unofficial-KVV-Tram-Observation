@@ -1,0 +1,1652 @@
+[
+    {
+        "lat": 49.00949583,
+        "lon": 8.404956,
+        "name": "Karlsruhe Marktplatz",
+        "stop_id": "de:8212:1"
+    },
+    {
+        "lat": 49.0093644,
+        "lon": 8.40912665,
+        "name": "Karlsruhe Kronenplatz (Kaiserstr)",
+        "stop_id": "de:8212:2"
+    },
+    {
+        "lat": 49.009255,
+        "lon": 8.413622,
+        "name": "Karlsruhe Durlacher Tor",
+        "stop_id": "de:8212:3"
+    },
+    {
+        "lat": 49.0177632,
+        "lon": 8.3850749,
+        "name": "Karlsruhe Synagoge",
+        "stop_id": "de:8212:5"
+    },
+    {
+        "lat": 49.00772929,
+        "lon": 8.42363479,
+        "name": "Karlsruhe Gottesauer Platz/BGV",
+        "stop_id": "de:8212:6"
+    },
+    {
+        "lat": 49.00625912,
+        "lon": 8.43179805,
+        "name": "Karlsruhe Tullastra\u00dfe / VBK",
+        "stop_id": "de:8212:7"
+    },
+    {
+        "lat": 49.02234124,
+        "lon": 8.38527828,
+        "name": "Karlsruhe Lilienthalstra\u00dfe",
+        "stop_id": "de:8212:8"
+    },
+    {
+        "lat": 49.00432947,
+        "lon": 8.44175644,
+        "name": "Karlsruhe Weinweg",
+        "stop_id": "de:8212:9"
+    },
+    {
+        "lat": 49.00208021,
+        "lon": 8.45465601,
+        "name": "Karlsruhe Unterm\u00fchlstra\u00dfe",
+        "stop_id": "de:8212:10"
+    },
+    {
+        "lat": 49.00044903,
+        "lon": 8.46347515,
+        "name": "Durlach Auer Str/Dr. Schwabe",
+        "stop_id": "de:8212:11"
+    },
+    {
+        "lat": 49.02693241,
+        "lon": 8.38626094,
+        "name": "Karlsruhe Duale Hochschule",
+        "stop_id": "de:8212:12"
+    },
+    {
+        "lat": 49.03623923,
+        "lon": 8.38796542,
+        "name": "Neureut-Heide",
+        "stop_id": "de:8212:13"
+    },
+    {
+        "lat": 48.99926183,
+        "lon": 8.4692551,
+        "name": "Durlach Friedrichschule",
+        "stop_id": "de:8212:16"
+    },
+    {
+        "lat": 48.99911152,
+        "lon": 8.47373924,
+        "name": "Durlach Schlossplatz",
+        "stop_id": "de:8212:17"
+    },
+    {
+        "lat": 49.00003111,
+        "lon": 8.47822584,
+        "name": "Durlach Turmberg",
+        "stop_id": "de:8212:18"
+    },
+    {
+        "lat": 48.9986128,
+        "lon": 8.47677838,
+        "name": "Durlach Karl-Weysser-Str.",
+        "stop_id": "de:8212:19"
+    },
+    {
+        "lat": 49.03531983,
+        "lon": 8.38585688,
+        "name": "Neureut Rosmarinweg",
+        "stop_id": "de:8212:23"
+    },
+    {
+        "lat": 49.01427565,
+        "lon": 8.40071587,
+        "name": "Karlsruhe Schlossgartenbahn",
+        "stop_id": "de:8212:24"
+    },
+    {
+        "lat": 49.02140112,
+        "lon": 8.41370115,
+        "name": "Karlsruhe Wildparkstadtion KSC",
+        "stop_id": "de:8212:25"
+    },
+    {
+        "lat": 49.01790369,
+        "lon": 8.33112552,
+        "name": "Karlsruhe Rheinhafen Nord",
+        "stop_id": "de:8212:26"
+    },
+    {
+        "lat": 49.00653425,
+        "lon": 8.41311029,
+        "name": "Karlsruhe Kapellenstra\u00dfe",
+        "stop_id": "de:8212:29"
+    },
+    {
+        "lat": 49.00994599,
+        "lon": 8.39640733,
+        "name": "Karlsruhe Europaplatz (Kaiserstr)",
+        "stop_id": "de:8212:31"
+    },
+    {
+        "lat": 49.001115,
+        "lon": 8.50378517,
+        "name": "Gr\u00f6tzingen Paul-Rein-Stra\u00dfe",
+        "stop_id": "de:8212:32"
+    },
+    {
+        "lat": 49.00159669,
+        "lon": 8.50707413,
+        "name": "Gr\u00f6tzingen Fikentscherstra\u00dfe",
+        "stop_id": "de:8212:33"
+    },
+    {
+        "lat": 49.00076142,
+        "lon": 8.501028,
+        "name": "Gr\u00f6tzingen Am Schwalbenloch",
+        "stop_id": "de:8212:34"
+    },
+    {
+        "lat": 48.99977529,
+        "lon": 8.49964388,
+        "name": "Gr\u00f6tzingen Vogelsang",
+        "stop_id": "de:8212:35"
+    },
+    {
+        "lat": 49.01031721,
+        "lon": 8.38835158,
+        "name": "Karlsruhe Kaiserplatz",
+        "stop_id": "de:8212:36"
+    },
+    {
+        "lat": 49.01025377,
+        "lon": 8.37983634,
+        "name": "Karlsruhe Schillerstra\u00dfe",
+        "stop_id": "de:8212:40"
+    },
+    {
+        "lat": 49.01089621,
+        "lon": 8.37557712,
+        "name": "Karlsruhe Yorckstra\u00dfe",
+        "stop_id": "de:8212:41"
+    },
+    {
+        "lat": 49.01119417,
+        "lon": 8.36918968,
+        "name": "Karlsruhe H\u00e4ndelstra\u00dfe",
+        "stop_id": "de:8212:44"
+    },
+    {
+        "lat": 49.01136626,
+        "lon": 8.3644988,
+        "name": "Karlsruhe Philippstra\u00dfe",
+        "stop_id": "de:8212:45"
+    },
+    {
+        "lat": 49.010596,
+        "lon": 8.383066,
+        "name": "Karlsruhe M\u00fchlburger Tor (Kaiserallee)",
+        "stop_id": "de:8212:49"
+    },
+    {
+        "lat": 49.01056586,
+        "lon": 8.35960165,
+        "name": "Karlsruhe Entenfang",
+        "stop_id": "de:8212:51"
+    },
+    {
+        "lat": 49.01319976,
+        "lon": 8.35461926,
+        "name": "Karlsruhe Lameyplatz",
+        "stop_id": "de:8212:58"
+    },
+    {
+        "lat": 49.01000137,
+        "lon": 8.39324906,
+        "name": "Karlsruhe Europaplatz (Spark.)",
+        "stop_id": "de:8212:59"
+    },
+    {
+        "lat": 49.00827448,
+        "lon": 8.39488296,
+        "name": "Karlsruhe Europaplatz (Karlstr.)",
+        "stop_id": "de:8212:60"
+    },
+    {
+        "lat": 49.00580067,
+        "lon": 8.39469425,
+        "name": "Karlsruhe Karlstor",
+        "stop_id": "de:8212:61"
+    },
+    {
+        "lat": 49.00231931,
+        "lon": 8.3944221,
+        "name": "Karlsruhe Mathystra\u00dfe",
+        "stop_id": "de:8212:62"
+    },
+    {
+        "lat": 48.99746937,
+        "lon": 8.39381127,
+        "name": "Karlsruhe Kolpingplatz",
+        "stop_id": "de:8212:63"
+    },
+    {
+        "lat": 49.00359063,
+        "lon": 8.38656151,
+        "name": "Karlsruhe Arbeitsagentur",
+        "stop_id": "de:8212:64"
+    },
+    {
+        "lat": 48.99965887,
+        "lon": 8.38614514,
+        "name": "Karlsruhe ZKM",
+        "stop_id": "de:8212:65"
+    },
+    {
+        "lat": 49.00501929,
+        "lon": 8.40350587,
+        "name": "Karlsruhe Ettlinger Tor",
+        "stop_id": "de:8212:71"
+    },
+    {
+        "lat": 49.00381654,
+        "lon": 8.40393026,
+        "name": "Karlsruhe Volkswohnung",
+        "stop_id": "de:8212:72"
+    },
+    {
+        "lat": 49.00265296,
+        "lon": 8.40323345,
+        "name": "Karlsruhe Kongresszentrum",
+        "stop_id": "de:8212:73"
+    },
+    {
+        "lat": 48.99963174,
+        "lon": 8.40325588,
+        "name": "Karlsruhe Augartenstra\u00dfe",
+        "stop_id": "de:8212:74"
+    },
+    {
+        "lat": 49.00892899,
+        "lon": 8.41014331,
+        "name": "Karlsruhe Kronenplatz (Erler-Str)",
+        "stop_id": "de:8212:80"
+    },
+    {
+        "lat": 49.0011891,
+        "lon": 8.41059006,
+        "name": "Karlsruhe Werderstra\u00dfe",
+        "stop_id": "de:8212:83"
+    },
+    {
+        "lat": 48.99655965,
+        "lon": 8.410877,
+        "name": "Karlsruhe Tivoli",
+        "stop_id": "de:8212:84"
+    },
+    {
+        "lat": 49.00646594,
+        "lon": 8.41029542,
+        "name": "Karlsruhe R\u00fcppurrer Tor",
+        "stop_id": "de:8212:85"
+    },
+    {
+        "lat": 48.99168012,
+        "lon": 8.40101427,
+        "name": "Karlsruhe Hauptbahnhof S\u00fcd",
+        "stop_id": "de:8212:88"
+    },
+    {
+        "lat": 48.99449035,
+        "lon": 8.400188,
+        "name": "Karlsruhe Hbf Vorplatz",
+        "stop_id": "de:8212:89"
+    },
+    {
+        "lat": 48.993317,
+        "lon": 8.40107663,
+        "name": "Karlsruhe Hauptbahnhof",
+        "stop_id": "de:8212:90"
+    },
+    {
+        "lat": 48.99449236,
+        "lon": 8.39540521,
+        "name": "Karlsruhe Ebertstra\u00dfe",
+        "stop_id": "de:8212:91"
+    },
+    {
+        "lat": 48.99520111,
+        "lon": 8.40373243,
+        "name": "Karlsruhe Poststra\u00dfe",
+        "stop_id": "de:8212:98"
+    },
+    {
+        "lat": 49.00974138,
+        "lon": 8.4002782,
+        "name": "Karlsruhe Herrenstra\u00dfe",
+        "stop_id": "de:8212:99"
+    },
+    {
+        "lat": 49.01714702,
+        "lon": 8.35296869,
+        "name": "Karlsruhe Starckstra\u00dfe",
+        "stop_id": "de:8212:101"
+    },
+    {
+        "lat": 49.00905968,
+        "lon": 8.35556126,
+        "name": "Karlsruhe Vogesenbr\u00fccke",
+        "stop_id": "de:8212:102"
+    },
+    {
+        "lat": 49.02037979,
+        "lon": 8.35058884,
+        "name": "Karlsruhe M\u00fchlburg West",
+        "stop_id": "de:8212:103"
+    },
+    {
+        "lat": 49.02518447,
+        "lon": 8.34632856,
+        "name": "Knielingen Siemens",
+        "stop_id": "de:8212:104"
+    },
+    {
+        "lat": 49.03056764,
+        "lon": 8.34104788,
+        "name": "Knielingen Herweghstra\u00dfe",
+        "stop_id": "de:8212:105"
+    },
+    {
+        "lat": 49.03343822,
+        "lon": 8.33827482,
+        "name": "Knielingen Eggensteiner Str.",
+        "stop_id": "de:8212:106"
+    },
+    {
+        "lat": 49.03525161,
+        "lon": 8.33618565,
+        "name": "Knielingen Rheinbergstra\u00dfe",
+        "stop_id": "de:8212:107"
+    },
+    {
+        "lat": 49.03478217,
+        "lon": 8.33586367,
+        "name": "Knielingen Rheinbergstr. Wende",
+        "stop_id": "de:8212:108"
+    },
+    {
+        "lat": 49.00562917,
+        "lon": 8.34994693,
+        "name": "Karlsruhe Eckenerstra\u00dfe",
+        "stop_id": "de:8212:201"
+    },
+    {
+        "lat": 49.00162738,
+        "lon": 8.34511989,
+        "name": "Karlsruhe Rheinhafenstra\u00dfe",
+        "stop_id": "de:8212:203"
+    },
+    {
+        "lat": 48.99878104,
+        "lon": 8.341112,
+        "name": "Daxlanden Thomas-Mann-Str.",
+        "stop_id": "de:8212:204"
+    },
+    {
+        "lat": 48.99610276,
+        "lon": 8.33820924,
+        "name": "Daxlanden Karl-Delisle-Str.",
+        "stop_id": "de:8212:205"
+    },
+    {
+        "lat": 48.99295734,
+        "lon": 8.33539499,
+        "name": "Daxlanden Dornr\u00f6schenweg",
+        "stop_id": "de:8212:206"
+    },
+    {
+        "lat": 48.99143811,
+        "lon": 8.33391213,
+        "name": "Daxlanden Hamm\u00e4cker",
+        "stop_id": "de:8212:208"
+    },
+    {
+        "lat": 48.98886885,
+        "lon": 8.33278498,
+        "name": "Daxlanden Nu\u00dfbaumweg",
+        "stop_id": "de:8212:209"
+    },
+    {
+        "lat": 48.98135665,
+        "lon": 8.32748898,
+        "name": "Messe (Messe-Express)",
+        "stop_id": "de:8212:211"
+    },
+    {
+        "lat": 49.02448229,
+        "lon": 8.44958459,
+        "name": "Hagsfeld S\u00fcd",
+        "stop_id": "de:8212:231"
+    },
+    {
+        "lat": 49.03264748,
+        "lon": 8.4553613,
+        "name": "Hagsfeld Gerolds\u00e4cker",
+        "stop_id": "de:8212:233"
+    },
+    {
+        "lat": 49.00772632,
+        "lon": 8.33921704,
+        "name": "Daxlanden Mauerweg",
+        "stop_id": "de:8212:302"
+    },
+    {
+        "lat": 49.00655795,
+        "lon": 8.33462626,
+        "name": "Daxlanden Ankerstra\u00dfe",
+        "stop_id": "de:8212:303"
+    },
+    {
+        "lat": 49.00524077,
+        "lon": 8.33232024,
+        "name": "Daxlanden Kirchplatz",
+        "stop_id": "de:8212:304"
+    },
+    {
+        "lat": 49.00366727,
+        "lon": 8.3276943,
+        "name": "Daxlanden Hammweg",
+        "stop_id": "de:8212:305"
+    },
+    {
+        "lat": 49.00419516,
+        "lon": 8.32263013,
+        "name": "Daxlanden Waidweg",
+        "stop_id": "de:8212:306"
+    },
+    {
+        "lat": 49.00089528,
+        "lon": 8.31202842,
+        "name": "Daxlanden Altrheinbr\u00fccke",
+        "stop_id": "de:8212:307"
+    },
+    {
+        "lat": 48.99880916,
+        "lon": 8.29564396,
+        "name": "Daxlanden Rappenw\u00f6rt",
+        "stop_id": "de:8212:308"
+    },
+    {
+        "lat": 49.00331813,
+        "lon": 8.31876045,
+        "name": "Daxlanden Tierheim",
+        "stop_id": "de:8212:309"
+    },
+    {
+        "lat": 49.011461,
+        "lon": 8.435868,
+        "name": "Dunantstra\u00dfe",
+        "stop_id": "de:8212:310"
+    },
+    {
+        "lat": 49.01176121,
+        "lon": 8.43158506,
+        "name": "Karlsruhe Rintheimer Str.",
+        "stop_id": "de:8212:311"
+    },
+    {
+        "lat": 49.01411528,
+        "lon": 8.4422622,
+        "name": "Rintheim Forststra\u00dfe",
+        "stop_id": "de:8212:313"
+    },
+    {
+        "lat": 49.01661359,
+        "lon": 8.44382013,
+        "name": "Rintheim",
+        "stop_id": "de:8212:314"
+    },
+    {
+        "lat": 49.0071043,
+        "lon": 8.34366754,
+        "name": "Karlsruhe Stadtwerke",
+        "stop_id": "de:8212:315"
+    },
+    {
+        "lat": 49.01125569,
+        "lon": 8.34790524,
+        "name": "Karlsruhe Pfannkuchstra\u00dfe",
+        "stop_id": "de:8212:316"
+    },
+    {
+        "lat": 49.010814,
+        "lon": 8.384552,
+        "name": "Karlsruhe M\u00fchlburger Tor (Grashofstr.)",
+        "stop_id": "de:8212:321"
+    },
+    {
+        "lat": 49.01128824,
+        "lon": 8.42325197,
+        "name": "Karlsruhe Karl-Wilhelm-Platz",
+        "stop_id": "de:8212:401"
+    },
+    {
+        "lat": 49.01362951,
+        "lon": 8.42934921,
+        "name": "Karlsruhe Hauptfriedhof",
+        "stop_id": "de:8212:402"
+    },
+    {
+        "lat": 49.01771743,
+        "lon": 8.43965173,
+        "name": "Karlsruhe Hirtenweg/Techn.park",
+        "stop_id": "de:8212:403"
+    },
+    {
+        "lat": 49.02068252,
+        "lon": 8.44475919,
+        "name": "Rintheim Sinsheimer Stra\u00dfe",
+        "stop_id": "de:8212:404"
+    },
+    {
+        "lat": 49.02532898,
+        "lon": 8.4480028,
+        "name": "Hagsfeld F\u00e4cherbad",
+        "stop_id": "de:8212:405"
+    },
+    {
+        "lat": 49.02942085,
+        "lon": 8.44810796,
+        "name": "Waldstadt Im Eichb\u00e4umle",
+        "stop_id": "de:8212:406"
+    },
+    {
+        "lat": 49.03186393,
+        "lon": 8.44192706,
+        "name": "Waldstadt Glogauer Stra\u00dfe",
+        "stop_id": "de:8212:407"
+    },
+    {
+        "lat": 49.03507182,
+        "lon": 8.44518713,
+        "name": "Waldstadt Zentrum",
+        "stop_id": "de:8212:408"
+    },
+    {
+        "lat": 49.03678881,
+        "lon": 8.44695967,
+        "name": "Waldstadt J\u00e4gerhaus",
+        "stop_id": "de:8212:409"
+    },
+    {
+        "lat": 49.04335282,
+        "lon": 8.44692792,
+        "name": "Waldstadt Osteroder Stra\u00dfe",
+        "stop_id": "de:8212:411"
+    },
+    {
+        "lat": 49.01559506,
+        "lon": 8.34723337,
+        "name": "Karlsruhe Rheinhafen",
+        "stop_id": "de:8212:501"
+    },
+    {
+        "lat": 49.00789868,
+        "lon": 8.36347677,
+        "name": "Karlsruhe M\u00fchlburger Feld",
+        "stop_id": "de:8212:503"
+    },
+    {
+        "lat": 49.0056807,
+        "lon": 8.36730478,
+        "name": "Karlsruhe K\u00fchler Krug",
+        "stop_id": "de:8212:504"
+    },
+    {
+        "lat": 49.00551839,
+        "lon": 8.37215901,
+        "name": "Karlsruhe H\u00fcbschstra\u00dfe",
+        "stop_id": "de:8212:505"
+    },
+    {
+        "lat": 49.00436102,
+        "lon": 8.3843242,
+        "name": "Karlsruhe Lessingstra\u00dfe",
+        "stop_id": "de:8212:507"
+    },
+    {
+        "lat": 49.00345241,
+        "lon": 8.38932404,
+        "name": "Karlsruhe Otto-Sachs-Str.",
+        "stop_id": "de:8212:508"
+    },
+    {
+        "lat": 49.00336242,
+        "lon": 8.39958943,
+        "name": "Karlsruhe Konzerthaus",
+        "stop_id": "de:8212:510"
+    },
+    {
+        "lat": 49.01684147,
+        "lon": 8.36924136,
+        "name": "Karlsruhe Ku\u00dfmaulstra\u00dfe",
+        "stop_id": "de:8212:521"
+    },
+    {
+        "lat": 49.0197471,
+        "lon": 8.3645425,
+        "name": "Karlsruhe Hertzstra\u00dfe",
+        "stop_id": "de:8212:522"
+    },
+    {
+        "lat": 49.02175938,
+        "lon": 8.36093467,
+        "name": "Karlsruhe Feierabendweg",
+        "stop_id": "de:8212:523"
+    },
+    {
+        "lat": 49.02343292,
+        "lon": 8.35787784,
+        "name": "Karlsruhe Neureuter Str.",
+        "stop_id": "de:8212:524"
+    },
+    {
+        "lat": 49.02766089,
+        "lon": 8.35015223,
+        "name": "Knielingen Siemensallee",
+        "stop_id": "de:8212:525"
+    },
+    {
+        "lat": 49.02932623,
+        "lon": 8.34728622,
+        "name": "Knielingen Lassallestra\u00dfe",
+        "stop_id": "de:8212:526"
+    },
+    {
+        "lat": 49.00751661,
+        "lon": 8.37917323,
+        "name": "Karlsruhe Sophienstra\u00dfe",
+        "stop_id": "de:8212:602"
+    },
+    {
+        "lat": 49.00561279,
+        "lon": 8.37796677,
+        "name": "Karlsruhe Weinbrennerplatz",
+        "stop_id": "de:8212:603"
+    },
+    {
+        "lat": 49.00170776,
+        "lon": 8.37750972,
+        "name": "Karlsruhe Landesbausparkasse",
+        "stop_id": "de:8212:604"
+    },
+    {
+        "lat": 48.99783426,
+        "lon": 8.3762324,
+        "name": "Karlsruhe Europahalle/-bad",
+        "stop_id": "de:8212:605"
+    },
+    {
+        "lat": 48.99530742,
+        "lon": 8.37290229,
+        "name": "Karlsruhe Bannwaldallee",
+        "stop_id": "de:8212:606"
+    },
+    {
+        "lat": 48.99254192,
+        "lon": 8.368701,
+        "name": "Karlsruhe Hardecksiedlung",
+        "stop_id": "de:8212:607"
+    },
+    {
+        "lat": 48.98922394,
+        "lon": 8.36381035,
+        "name": "Oberreut Albert-Braun-Str.",
+        "stop_id": "de:8212:608"
+    },
+    {
+        "lat": 48.98499834,
+        "lon": 8.36230662,
+        "name": "Oberreut Zentrum",
+        "stop_id": "de:8212:609"
+    },
+    {
+        "lat": 48.98344799,
+        "lon": 8.36489487,
+        "name": "Oberreut Wilhelm-Leuschner-Str",
+        "stop_id": "de:8212:610"
+    },
+    {
+        "lat": 48.98210004,
+        "lon": 8.36832742,
+        "name": "Oberreut Badeniaplatz",
+        "stop_id": "de:8212:611"
+    },
+    {
+        "lat": 48.98589969,
+        "lon": 8.36759625,
+        "name": "Oberreut Eva-Maria-Buch-Str",
+        "stop_id": "de:8212:612"
+    },
+    {
+        "lat": 49.00452517,
+        "lon": 8.41235484,
+        "name": "Karlsruhe Philipp-Reis-Str./die neue welle",
+        "stop_id": "de:8212:621"
+    },
+    {
+        "lat": 49.00496035,
+        "lon": 8.41660044,
+        "name": "Karlsruhe Ostendstra\u00dfe",
+        "stop_id": "de:8212:622"
+    },
+    {
+        "lat": 49.00351797,
+        "lon": 8.42302735,
+        "name": "Karlsruhe Wolfartsweierer Str",
+        "stop_id": "de:8212:623"
+    },
+    {
+        "lat": 49.00367429,
+        "lon": 8.42733083,
+        "name": "Karlsruhe Schl. Gottesaue/HfM",
+        "stop_id": "de:8212:624"
+    },
+    {
+        "lat": 49.00240748,
+        "lon": 8.4630851,
+        "name": "Karlsruhe-Durlach",
+        "stop_id": "de:8212:801"
+    },
+    {
+        "lat": 49.02310461,
+        "lon": 8.33484321,
+        "name": "Karlsruhe Betriebshof West",
+        "stop_id": "de:8212:990"
+    },
+    {
+        "lat": 49.01514539,
+        "lon": 8.37482677,
+        "name": "Karlsruhe St. Klinikum Moltk.",
+        "stop_id": "de:8212:1101"
+    },
+    {
+        "lat": 49.01920439,
+        "lon": 8.37548687,
+        "name": "Karlsruhe Knielinger Allee",
+        "stop_id": "de:8212:1103"
+    },
+    {
+        "lat": 49.02426857,
+        "lon": 8.37579267,
+        "name": "Karlsruhe August-Bebel-Str.",
+        "stop_id": "de:8212:1104"
+    },
+    {
+        "lat": 49.03026034,
+        "lon": 8.37636044,
+        "name": "Karlsruhe Kurt-Schumacher-Str.",
+        "stop_id": "de:8212:1105"
+    },
+    {
+        "lat": 49.03385898,
+        "lon": 8.37669838,
+        "name": "Karlsruhe Haus Bethlehem",
+        "stop_id": "de:8212:1106"
+    },
+    {
+        "lat": 49.04431909,
+        "lon": 8.37381823,
+        "name": "Neureut Welschneureuter Str.",
+        "stop_id": "de:8212:1110"
+    },
+    {
+        "lat": 49.04715169,
+        "lon": 8.37883039,
+        "name": "Neureut B\u00e4renweg",
+        "stop_id": "de:8212:1111"
+    },
+    {
+        "lat": 49.0511549,
+        "lon": 8.38588074,
+        "name": "Neureut Adolf-Ehrmann-Bad",
+        "stop_id": "de:8212:1114"
+    },
+    {
+        "lat": 49.05293377,
+        "lon": 8.38897811,
+        "name": "Neureut Kirchfeld",
+        "stop_id": "de:8212:1115"
+    },
+    {
+        "lat": 48.99365987,
+        "lon": 8.39612585,
+        "name": "Karlsruhe Albtalbahnhof",
+        "stop_id": "de:8212:1201"
+    },
+    {
+        "lat": 48.98457191,
+        "lon": 8.403627,
+        "name": "Karlsruhe Dammerstock",
+        "stop_id": "de:8212:1206"
+    },
+    {
+        "lat": 48.98102159,
+        "lon": 8.40392893,
+        "name": "Karlsruhe Schloss R\u00fcppurr",
+        "stop_id": "de:8212:1207"
+    },
+    {
+        "lat": 48.97584712,
+        "lon": 8.40664066,
+        "name": "R\u00fcppurr Ostendorfplatz",
+        "stop_id": "de:8212:1208"
+    },
+    {
+        "lat": 48.97104117,
+        "lon": 8.4040889,
+        "name": "R\u00fcppurr Tulpenstra\u00dfe",
+        "stop_id": "de:8212:1209"
+    },
+    {
+        "lat": 48.96536138,
+        "lon": 8.40471652,
+        "name": "R\u00fcppurr Battstra\u00dfe",
+        "stop_id": "de:8212:1210"
+    },
+    {
+        "lat": 48.98274602,
+        "lon": 8.40877198,
+        "name": "Karlsruhe Erlenweg",
+        "stop_id": "de:8212:1211"
+    },
+    {
+        "lat": 48.96631809,
+        "lon": 8.4071498,
+        "name": "R\u00fcppurr H.-Heine-Ring",
+        "stop_id": "de:8212:1213"
+    },
+    {
+        "lat": 48.96666625,
+        "lon": 8.41192578,
+        "name": "R\u00fcppurr Hegaustra\u00dfe",
+        "stop_id": "de:8212:1214"
+    },
+    {
+        "lat": 48.96863069,
+        "lon": 8.41451135,
+        "name": "R\u00fcppurr Prinzenweg",
+        "stop_id": "de:8212:1215"
+    },
+    {
+        "lat": 48.97024912,
+        "lon": 8.41625433,
+        "name": "R\u00fcppurr M\u00e4rchenring",
+        "stop_id": "de:8212:1216"
+    },
+    {
+        "lat": 49.0068899,
+        "lon": 8.4718257,
+        "name": "Durlach Hubstra\u00dfe",
+        "stop_id": "de:8212:1510"
+    },
+    {
+        "lat": 49.00597032,
+        "lon": 8.49334912,
+        "name": "Gr\u00f6tzingen Bahnhof",
+        "stop_id": "de:8212:1521"
+    },
+    {
+        "lat": 49.005313,
+        "lon": 8.503676,
+        "name": "Gr\u00f6tzingen Oberausstra\u00dfe",
+        "stop_id": "de:8212:1525"
+    },
+    {
+        "lat": 49.0044428,
+        "lon": 8.50395712,
+        "name": "Gr\u00f6tzingen Hl.-Kreuz-Kirche",
+        "stop_id": "de:8212:1527"
+    },
+    {
+        "lat": 49.005908,
+        "lon": 8.512669,
+        "name": "Gr\u00f6tzingen Krappm\u00fchlenweg",
+        "stop_id": "de:8212:1600"
+    },
+    {
+        "lat": 48.59865801,
+        "lon": 8.38388761,
+        "name": "Gr\u00f6tzingen Im Sonnental",
+        "stop_id": "de:8212:1644"
+    },
+    {
+        "lat": 49.035948,
+        "lon": 8.307243,
+        "name": "Karlsruhe Maxau",
+        "stop_id": "de:8212:1700"
+    },
+    {
+        "lat": 49.00207429,
+        "lon": 8.48265997,
+        "name": "Durlach Friedhof",
+        "stop_id": "de:8212:2002"
+    },
+    {
+        "lat": 49.00440953,
+        "lon": 8.49834002,
+        "name": "Gr\u00f6tzingen Augustenburg",
+        "stop_id": "de:8212:2003"
+    },
+    {
+        "lat": 49.00274819,
+        "lon": 8.48859826,
+        "name": "Durlach Ne\u00dflerstra\u00dfe",
+        "stop_id": "de:8212:2004"
+    },
+    {
+        "lat": 49.00264406,
+        "lon": 8.4955833,
+        "name": "Gr\u00f6tzingen LTZ Augustenberg",
+        "stop_id": "de:8212:2016"
+    },
+    {
+        "lat": 49.02241348,
+        "lon": 8.49670977,
+        "name": "Gr\u00f6tzingen Emil-Arheit-Halle",
+        "stop_id": "de:8212:2102"
+    },
+    {
+        "lat": 49.00766012,
+        "lon": 8.491145,
+        "name": "Gr\u00f6tzingen Fr\u00f6belstra\u00dfe",
+        "stop_id": "de:8212:2103"
+    },
+    {
+        "lat": 49.00743697,
+        "lon": 8.49561689,
+        "name": "Gr\u00f6tzingen Rathaus",
+        "stop_id": "de:8212:2104"
+    },
+    {
+        "lat": 49.01066294,
+        "lon": 8.49511955,
+        "name": "Gr\u00f6tzingen Karl-Leopold-Str.",
+        "stop_id": "de:8212:2105"
+    },
+    {
+        "lat": 49.01462448,
+        "lon": 8.49421824,
+        "name": "Gr\u00f6tzingen Nord",
+        "stop_id": "de:8212:2106"
+    },
+    {
+        "lat": 49.00563,
+        "lon": 8.49571715,
+        "name": "Gr\u00f6tzingen B\u00fcchelbergstra\u00dfe",
+        "stop_id": "de:8212:2107"
+    },
+    {
+        "lat": 49.00272005,
+        "lon": 8.4965119,
+        "name": "Gr\u00f6tzingen Staigstra\u00dfe",
+        "stop_id": "de:8212:2108"
+    },
+    {
+        "lat": 49.00449884,
+        "lon": 8.50653977,
+        "name": "Gr\u00f6tzingen Gustav-Hofmann-Str.",
+        "stop_id": "de:8212:2109"
+    },
+    {
+        "lat": 49.0033048,
+        "lon": 8.50279303,
+        "name": "Gr\u00f6tzingen Ringelberghohl",
+        "stop_id": "de:8212:2110"
+    },
+    {
+        "lat": 49.00506659,
+        "lon": 8.50056129,
+        "name": "Gr\u00f6tzingen Eisenbahnstra\u00dfe",
+        "stop_id": "de:8212:2111"
+    },
+    {
+        "lat": 49.00590914,
+        "lon": 8.50201535,
+        "name": "Gr\u00f6tzingen An der Pfinz",
+        "stop_id": "de:8212:2112"
+    },
+    {
+        "lat": 48.99497632,
+        "lon": 8.4819409,
+        "name": "Durlach D\u00fcrrbachstra\u00dfe",
+        "stop_id": "de:8212:2302"
+    },
+    {
+        "lat": 48.9918203,
+        "lon": 8.48802691,
+        "name": "Durlach Lerchenberg",
+        "stop_id": "de:8212:2303"
+    },
+    {
+        "lat": 48.98862447,
+        "lon": 8.49127056,
+        "name": "Durlach Eisenhafengrund",
+        "stop_id": "de:8212:2304"
+    },
+    {
+        "lat": 48.96712761,
+        "lon": 8.50440932,
+        "name": "Durlach Thomashof",
+        "stop_id": "de:8212:2305"
+    },
+    {
+        "lat": 48.95654705,
+        "lon": 8.50724508,
+        "name": "Stupferich Gerberastra\u00dfe",
+        "stop_id": "de:8212:2306"
+    },
+    {
+        "lat": 48.95397032,
+        "lon": 8.50818527,
+        "name": "Stupferich Karlsbader Str.",
+        "stop_id": "de:8212:2307"
+    },
+    {
+        "lat": 49.01125399,
+        "lon": 8.41822194,
+        "name": "Karlsruhe Studentenhaus",
+        "stop_id": "de:8212:3002"
+    },
+    {
+        "lat": 49.01528523,
+        "lon": 8.4223582,
+        "name": "Karlsruhe Pastor-Felke-Str.",
+        "stop_id": "de:8212:3003"
+    },
+    {
+        "lat": 49.01974922,
+        "lon": 8.42134951,
+        "name": "Karlsruhe B\u00fcchiger Allee",
+        "stop_id": "de:8212:3004"
+    },
+    {
+        "lat": 49.025229,
+        "lon": 8.42387026,
+        "name": "Karlsruhe Rintheimer Querall.",
+        "stop_id": "de:8212:3005"
+    },
+    {
+        "lat": 49.02913969,
+        "lon": 8.43094953,
+        "name": "Waldstadt Breslauer Str.",
+        "stop_id": "de:8212:3008"
+    },
+    {
+        "lat": 49.03429048,
+        "lon": 8.43061726,
+        "name": "Waldstadt Schneidem\u00fchler Str.",
+        "stop_id": "de:8212:3009"
+    },
+    {
+        "lat": 49.03885639,
+        "lon": 8.43569409,
+        "name": "Waldstadt Kolberger Str.",
+        "stop_id": "de:8212:3010"
+    },
+    {
+        "lat": 49.04172244,
+        "lon": 8.43888967,
+        "name": "Waldstadt Elbinger Str. West",
+        "stop_id": "de:8212:3011"
+    },
+    {
+        "lat": 49.04544765,
+        "lon": 8.44686365,
+        "name": "Waldstadt Europ\u00e4ische Schule",
+        "stop_id": "de:8212:3012"
+    },
+    {
+        "lat": 49.04299605,
+        "lon": 8.46084273,
+        "name": "Hagsfeld Reitschulschlag",
+        "stop_id": "de:8212:3013"
+    },
+    {
+        "lat": 49.01337032,
+        "lon": 8.42064424,
+        "name": "Karlsruhe Emil-G\u00f6tt-Str.",
+        "stop_id": "de:8212:3014"
+    },
+    {
+        "lat": 49.04413371,
+        "lon": 8.46184265,
+        "name": "Hagsfeld Reitschul. Wende",
+        "stop_id": "de:8212:3015"
+    },
+    {
+        "lat": 49.04122448,
+        "lon": 8.45127372,
+        "name": "Waldstadt Elbinger Str. (Ost)",
+        "stop_id": "de:8212:3017"
+    },
+    {
+        "lat": 49.02772238,
+        "lon": 8.45399295,
+        "name": "Karlsruhe-Hagsfeld",
+        "stop_id": "de:8212:3102"
+    },
+    {
+        "lat": 49.02823508,
+        "lon": 8.45592908,
+        "name": "Hagsfeld Oberdorfstra\u00dfe",
+        "stop_id": "de:8212:3103"
+    },
+    {
+        "lat": 49.02923862,
+        "lon": 8.45708048,
+        "name": "Hagsfeld Julius-Bender-Str.",
+        "stop_id": "de:8212:3104"
+    },
+    {
+        "lat": 49.02416761,
+        "lon": 8.45337553,
+        "name": "Hagsfeld Pfizer",
+        "stop_id": "de:8212:3105"
+    },
+    {
+        "lat": 49.02076169,
+        "lon": 8.45762388,
+        "name": "Hagsfeld An der Tagweide",
+        "stop_id": "de:8212:3106"
+    },
+    {
+        "lat": 49.02393892,
+        "lon": 8.46211514,
+        "name": "Hagsfeld Printzstra\u00dfe",
+        "stop_id": "de:8212:3107"
+    },
+    {
+        "lat": 49.02172954,
+        "lon": 8.46268585,
+        "name": "Hagsfeld Neue Wiesen",
+        "stop_id": "de:8212:3108"
+    },
+    {
+        "lat": 49.01897117,
+        "lon": 8.46703581,
+        "name": "Hagsfeld Storrenacker S\u00fcd",
+        "stop_id": "de:8212:3109"
+    },
+    {
+        "lat": 49.02218037,
+        "lon": 8.46877898,
+        "name": "Hagsfeld Storrenacker Mitte",
+        "stop_id": "de:8212:3110"
+    },
+    {
+        "lat": 49.02530818,
+        "lon": 8.47042753,
+        "name": "Hagsfeld Storrenacker Nord",
+        "stop_id": "de:8212:3111"
+    },
+    {
+        "lat": 49.02088379,
+        "lon": 8.47825399,
+        "name": "Durlach Breit",
+        "stop_id": "de:8212:3112"
+    },
+    {
+        "lat": 49.00134026,
+        "lon": 8.47345608,
+        "name": "Durlach Ochsentorstra\u00dfe",
+        "stop_id": "de:8212:3114"
+    },
+    {
+        "lat": 49.03418967,
+        "lon": 8.46015838,
+        "name": "Hagsfeld Nord",
+        "stop_id": "de:8212:3115"
+    },
+    {
+        "lat": 49.03103629,
+        "lon": 8.45883867,
+        "name": "Hagsfeld Schwetzinger Str.",
+        "stop_id": "de:8212:3116"
+    },
+    {
+        "lat": 49.01978633,
+        "lon": 8.46056027,
+        "name": "Hagsfeld Elfmorgenbruch",
+        "stop_id": "de:8212:3117"
+    },
+    {
+        "lat": 49.0338298,
+        "lon": 8.47374235,
+        "name": "Gr\u00f6tzingen Weidbruch",
+        "stop_id": "de:8212:3118"
+    },
+    {
+        "lat": 49.02231864,
+        "lon": 8.46951584,
+        "name": "Hagsfeld Mona",
+        "stop_id": "de:8212:3119"
+    },
+    {
+        "lat": 49.0015001,
+        "lon": 8.47104902,
+        "name": "Durlach An der Fayence",
+        "stop_id": "de:8212:3120"
+    },
+    {
+        "lat": 49.01753097,
+        "lon": 8.47852144,
+        "name": "Durlach Am Heegwald",
+        "stop_id": "de:8212:3121"
+    },
+    {
+        "lat": 49.02866918,
+        "lon": 8.46028648,
+        "name": "Hagsfeld Sch\u00e4ferstra\u00dfe",
+        "stop_id": "de:8212:3205"
+    },
+    {
+        "lat": 49.02702313,
+        "lon": 8.46403727,
+        "name": "Hagsfeld Br\u00fcckenstra\u00dfe",
+        "stop_id": "de:8212:3206"
+    },
+    {
+        "lat": 49.03200344,
+        "lon": 8.47155989,
+        "name": "Gr\u00f6tzingen Pfinzhof",
+        "stop_id": "de:8212:3211"
+    },
+    {
+        "lat": 49.02686338,
+        "lon": 8.47229802,
+        "name": "Gr\u00f6tzingen Ohmstra\u00dfe",
+        "stop_id": "de:8212:3212"
+    },
+    {
+        "lat": 49.02959433,
+        "lon": 8.4736913,
+        "name": "Gr\u00f6tzingen Greschbachstr.",
+        "stop_id": "de:8212:3213"
+    },
+    {
+        "lat": 49.03537891,
+        "lon": 8.47231736,
+        "name": "Gr\u00f6tzingen Ro\u00dfweide",
+        "stop_id": "de:8212:3214"
+    },
+    {
+        "lat": 49.03590642,
+        "lon": 8.45617365,
+        "name": "Hagsfeld Jenaer Stra\u00dfe",
+        "stop_id": "de:8212:3301"
+    },
+    {
+        "lat": 49.03494066,
+        "lon": 8.45350366,
+        "name": "Hagsfeld Hallesche Allee",
+        "stop_id": "de:8212:3302"
+    },
+    {
+        "lat": 48.99758489,
+        "lon": 8.45862719,
+        "name": "Durlach Paracelsusklinik",
+        "stop_id": "de:8212:4002"
+    },
+    {
+        "lat": 48.9920443,
+        "lon": 8.45070724,
+        "name": "Durlach S\u00e4uterich",
+        "stop_id": "de:8212:4006"
+    },
+    {
+        "lat": 48.99243928,
+        "lon": 8.44868055,
+        "name": "Durlach Wachhausstra\u00dfe",
+        "stop_id": "de:8212:4007"
+    },
+    {
+        "lat": 48.99307647,
+        "lon": 8.44466978,
+        "name": "Durlach Killisfeld",
+        "stop_id": "de:8212:4008"
+    },
+    {
+        "lat": 48.99223116,
+        "lon": 8.44093512,
+        "name": "Durlach Kieselweg",
+        "stop_id": "de:8212:4009"
+    },
+    {
+        "lat": 48.99675577,
+        "lon": 8.43205647,
+        "name": "Durlach Tiefbauamt",
+        "stop_id": "de:8212:4202"
+    },
+    {
+        "lat": 48.99704216,
+        "lon": 8.43913207,
+        "name": "Durlach Maybachstra\u00dfe",
+        "stop_id": "de:8212:4203"
+    },
+    {
+        "lat": 48.99638781,
+        "lon": 8.4451386,
+        "name": "Durlach Dieselstra\u00dfe",
+        "stop_id": "de:8212:4204"
+    },
+    {
+        "lat": 48.99548835,
+        "lon": 8.45072403,
+        "name": "Durlach Ottostra\u00dfe",
+        "stop_id": "de:8212:4205"
+    },
+    {
+        "lat": 48.99651692,
+        "lon": 8.4552497,
+        "name": "Durlach Gudrunstra\u00dfe",
+        "stop_id": "de:8212:4206"
+    },
+    {
+        "lat": 49.00400918,
+        "lon": 8.42415609,
+        "name": "Karlsruhe Wolfartsweierer Str",
+        "stop_id": "de:8212:4207"
+    },
+    {
+        "lat": 48.98579892,
+        "lon": 8.45919209,
+        "name": "Durlach Schlesier Str. (Ost)",
+        "stop_id": "de:8212:4302"
+    },
+    {
+        "lat": 48.99291235,
+        "lon": 8.46512752,
+        "name": "Durlach Blattwiesenstra\u00dfe",
+        "stop_id": "de:8212:4304"
+    },
+    {
+        "lat": 48.98834409,
+        "lon": 8.46120038,
+        "name": "Durlach Br\u00fchlstr. Mitte",
+        "stop_id": "de:8212:4305"
+    },
+    {
+        "lat": 48.97046611,
+        "lon": 8.47645835,
+        "name": "Hohenwettersbach Medersb.",
+        "stop_id": "de:8212:4307"
+    },
+    {
+        "lat": 48.97347333,
+        "lon": 8.47335352,
+        "name": "Durlach Tiefentalstra\u00dfe",
+        "stop_id": "de:8212:4308"
+    },
+    {
+        "lat": 48.96862119,
+        "lon": 8.47810296,
+        "name": "Hohenwettersbach Mitte",
+        "stop_id": "de:8212:4309"
+    },
+    {
+        "lat": 48.96558654,
+        "lon": 8.47715132,
+        "name": "Hohenwettersbach Rathaus",
+        "stop_id": "de:8212:4310"
+    },
+    {
+        "lat": 48.96614761,
+        "lon": 8.47201031,
+        "name": "Hohenwettersbach Tagl.G\u00e4rten",
+        "stop_id": "de:8212:4312"
+    },
+    {
+        "lat": 48.97154417,
+        "lon": 8.47426166,
+        "name": "Durlach D\u00fcrrenwett. Str.",
+        "stop_id": "de:8212:4407"
+    },
+    {
+        "lat": 48.97151744,
+        "lon": 8.46842965,
+        "name": "Durlach Bergwald",
+        "stop_id": "de:8212:4409"
+    },
+    {
+        "lat": 48.97197344,
+        "lon": 8.46981801,
+        "name": "Bergwald Fridtjof-Nansen-Str.",
+        "stop_id": "de:8212:4412"
+    },
+    {
+        "lat": 48.97358228,
+        "lon": 8.46575779,
+        "name": "Bergwald Hooverstra\u00dfe",
+        "stop_id": "de:8212:4413"
+    },
+    {
+        "lat": 48.97243984,
+        "lon": 8.46179523,
+        "name": "Bergwald Elsa-Br\u00e4ndstr\u00f6m-Str.",
+        "stop_id": "de:8212:4414"
+    },
+    {
+        "lat": 48.97125398,
+        "lon": 8.46784513,
+        "name": "Bergwald Bergwaldschule",
+        "stop_id": "de:8212:4415"
+    },
+    {
+        "lat": 48.98298851,
+        "lon": 8.46006954,
+        "name": "Durlach Z\u00fcndh\u00fctle",
+        "stop_id": "de:8212:4492"
+    },
+    {
+        "lat": 48.98842013,
+        "lon": 8.45252332,
+        "name": "Durlach Schlesier Str. (West)",
+        "stop_id": "de:8212:4493"
+    },
+    {
+        "lat": 48.99131764,
+        "lon": 8.45295615,
+        "name": "Durlach Ostmarkstra\u00dfe",
+        "stop_id": "de:8212:4494"
+    },
+    {
+        "lat": 48.99415054,
+        "lon": 8.45876006,
+        "name": "Durlach Ellmendinger Str.",
+        "stop_id": "de:8212:4495"
+    },
+    {
+        "lat": 48.98588293,
+        "lon": 8.45602144,
+        "name": "Durlach Steierm\u00e4rker Str.",
+        "stop_id": "de:8212:4496"
+    },
+    {
+        "lat": 48.99743086,
+        "lon": 8.46222298,
+        "name": "Durlach Killisfeldstra\u00dfe",
+        "stop_id": "de:8212:4497"
+    },
+    {
+        "lat": 48.99923776,
+        "lon": 8.46404848,
+        "name": "Durlach Gritznerstra\u00dfe",
+        "stop_id": "de:8212:4499"
+    },
+    {
+        "lat": 48.97820427,
+        "lon": 8.45805847,
+        "name": "Wolfartsweier Nord",
+        "stop_id": "de:8212:4500"
+    },
+    {
+        "lat": 48.99530579,
+        "lon": 8.47525518,
+        "name": "Durlach Parkschl\u00f6\u00dfle",
+        "stop_id": "de:8212:4503"
+    },
+    {
+        "lat": 48.99195706,
+        "lon": 8.47247549,
+        "name": "Durlach Rommelstra\u00dfe",
+        "stop_id": "de:8212:4504"
+    },
+    {
+        "lat": 48.98852304,
+        "lon": 8.47072184,
+        "name": "Durlach Max-Liebermann-Str.",
+        "stop_id": "de:8212:4505"
+    },
+    {
+        "lat": 48.97539423,
+        "lon": 8.45519305,
+        "name": "Wolfartsweier Mitte",
+        "stop_id": "de:8212:4508"
+    },
+    {
+        "lat": 48.95777883,
+        "lon": 8.4667732,
+        "name": "Gr\u00fcnwettersbach Rathaus",
+        "stop_id": "de:8212:4509"
+    },
+    {
+        "lat": 48.95577778,
+        "lon": 8.46963465,
+        "name": "Gr\u00fcnwettersbach Mitte",
+        "stop_id": "de:8212:4510"
+    },
+    {
+        "lat": 48.95235966,
+        "lon": 8.47135027,
+        "name": "Gr\u00fcnwettersbach Seniorenresidenz",
+        "stop_id": "de:8212:4511"
+    },
+    {
+        "lat": 48.94670872,
+        "lon": 8.48039297,
+        "name": "Palmbach Kirche",
+        "stop_id": "de:8212:4512"
+    },
+    {
+        "lat": 48.94557088,
+        "lon": 8.48533304,
+        "name": "Palmbach Winterrot",
+        "stop_id": "de:8212:4513"
+    },
+    {
+        "lat": 48.94752474,
+        "lon": 8.4778998,
+        "name": "Palmbach Im Kloth",
+        "stop_id": "de:8212:4514"
+    },
+    {
+        "lat": 48.9459476,
+        "lon": 8.48916531,
+        "name": "Stupferich Auf der R\u00f6merstr.",
+        "stop_id": "de:8212:4517"
+    },
+    {
+        "lat": 48.94361953,
+        "lon": 8.48936653,
+        "name": "Palmbach Rudolf-Link-Str.",
+        "stop_id": "de:8212:4523"
+    },
+    {
+        "lat": 48.99522809,
+        "lon": 8.47794804,
+        "name": "Durlach Lu\u00dfstra\u00dfe",
+        "stop_id": "de:8212:4602"
+    },
+    {
+        "lat": 48.99288503,
+        "lon": 8.47880607,
+        "name": "Durlach K\u00e4the-Kollwitz-Str.",
+        "stop_id": "de:8212:4603"
+    },
+    {
+        "lat": 48.98919944,
+        "lon": 8.47906313,
+        "name": "Durlach Ernst-Barlach-Str.",
+        "stop_id": "de:8212:4604"
+    },
+    {
+        "lat": 48.98799036,
+        "lon": 8.47814663,
+        "name": "Durlach Max-Beckmann-Str.",
+        "stop_id": "de:8212:4605"
+    },
+    {
+        "lat": 48.98650247,
+        "lon": 8.47523832,
+        "name": "Durlach Geigersberg",
+        "stop_id": "de:8212:4606"
+    },
+    {
+        "lat": 48.98823456,
+        "lon": 8.47449597,
+        "name": "Durlach Erich-Heckel-Str.",
+        "stop_id": "de:8212:4607"
+    },
+    {
+        "lat": 48.98692092,
+        "lon": 8.47235104,
+        "name": "Durlach August-Macke-Str.",
+        "stop_id": "de:8212:4608"
+    },
+    {
+        "lat": 48.95125232,
+        "lon": 8.50343337,
+        "name": "Stupferich Rieslingstra\u00dfe",
+        "stop_id": "de:8212:4711"
+    },
+    {
+        "lat": 48.94983377,
+        "lon": 8.50604148,
+        "name": "Stupferich Rebg\u00e4rtenstra\u00dfe",
+        "stop_id": "de:8212:4712"
+    },
+    {
+        "lat": 48.95121323,
+        "lon": 8.50900426,
+        "name": "Stupferich Kirche",
+        "stop_id": "de:8212:4713"
+    },
+    {
+        "lat": 48.95207857,
+        "lon": 8.51161723,
+        "name": "Stupferich Wiesentalstra\u00dfe",
+        "stop_id": "de:8212:4714"
+    },
+    {
+        "lat": 48.95419663,
+        "lon": 8.51065443,
+        "name": "Stupferich Rathaus",
+        "stop_id": "de:8212:4715"
+    },
+    {
+        "lat": 48.9524692,
+        "lon": 8.50411762,
+        "name": "Stupferich Pfeffer\u00e4cker",
+        "stop_id": "de:8212:4717"
+    },
+    {
+        "lat": 48.97407215,
+        "lon": 8.4532405,
+        "name": "Wolfartsweier S\u00fcd",
+        "stop_id": "de:8212:4800"
+    }
+]
