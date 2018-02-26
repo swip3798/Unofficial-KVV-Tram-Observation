@@ -2260,5 +2260,2159 @@
         "lon": 8.42802059,
         "name": "KIT Campus-Nord S\u00fcdtor",
         "stop_id": "de:8212:7619"
+    },
+    {
+        "lat": 49.033771,
+        "lon": 8.703133,
+        "name": "Bretten Stadtmitte",
+        "stop_id": "de:8215:1553"
+    },
+    {
+        "lat": 49.03443345,
+        "lon": 8.69673585,
+        "name": "Bretten Rechbergklinik",
+        "stop_id": "de:8215:14109"
+    },
+    {
+        "lat": 49.03271061,
+        "lon": 8.70157375,
+        "name": "Bretten Rechberg",
+        "stop_id": "de:8215:35082"
+    },
+    {
+        "lat": 49.05239878,
+        "lon": 8.84632225,
+        "name": "Sternenfels Brettener Str.",
+        "stop_id": "de:8236:2403"
+    },
+    {
+        "lat": 49.02850492,
+        "lon": 8.71322205,
+        "name": "Bretten Otto-Hahn-Str.",
+        "stop_id": "de:8215:14604"
+    },
+    {
+        "lat": 49.0378419,
+        "lon": 8.70036685,
+        "name": "Bretten Alte Post",
+        "stop_id": "de:8215:12602"
+    },
+    {
+        "lat": 49.0260781,
+        "lon": 8.71363253,
+        "name": "Bretten Albert-Einstein-Str.",
+        "stop_id": "de:8215:14603"
+    },
+    {
+        "lat": 49.02592205,
+        "lon": 8.70876564,
+        "name": "Bretten Ruiter Str.",
+        "stop_id": "de:8215:14602"
+    },
+    {
+        "lat": 49.030479,
+        "lon": 8.709246,
+        "name": "Bretten Wannenweg",
+        "stop_id": "de:8215:1554"
+    },
+    {
+        "lat": 49.031901,
+        "lon": 8.718488,
+        "name": "Bretten Schulzentrum",
+        "stop_id": "de:8215:1555"
+    },
+    {
+        "lat": 49.00972396,
+        "lon": 8.72192782,
+        "name": "Bretten (Baden) Ruit",
+        "stop_id": "de:8215:35081"
+    },
+    {
+        "lat": 49.03843382,
+        "lon": 8.71393089,
+        "name": "Bretten G\u00f6lsh\u00e4user L\u00fccke",
+        "stop_id": "de:8215:14111"
+    },
+    {
+        "lat": 49.03583787,
+        "lon": 8.71141566,
+        "name": "Bretten Gymnasium",
+        "stop_id": "de:8215:14106"
+    },
+    {
+        "lat": 49.02987288,
+        "lon": 8.71734394,
+        "name": "Bretten Im Gr\u00fcner",
+        "stop_id": "de:8215:14105"
+    },
+    {
+        "lat": 49.04052678,
+        "lon": 8.71669543,
+        "name": "Bretten Anne-Frank-Str.",
+        "stop_id": "de:8215:14108"
+    },
+    {
+        "lat": 49.07416677,
+        "lon": 8.70992082,
+        "name": "B\u00fcchig Rathaus",
+        "stop_id": "de:8215:14107"
+    },
+    {
+        "lat": 49.0371,
+        "lon": 8.693919,
+        "name": "Bretten Bahnhof",
+        "stop_id": "de:8215:1551"
+    },
+    {
+        "lat": 49.0371,
+        "lon": 8.72369,
+        "name": "Bretten Kupferh\u00e4lde",
+        "stop_id": "de:8215:1556"
+    },
+    {
+        "lat": 49.03330118,
+        "lon": 8.71830916,
+        "name": "Bretten Derdinger Str.",
+        "stop_id": "de:8215:14310"
+    },
+    {
+        "lat": 49.04775266,
+        "lon": 8.75434157,
+        "name": "Bretten Schwarzerdhof",
+        "stop_id": "de:8215:14309"
+    },
+    {
+        "lat": 49.02974121,
+        "lon": 8.70427174,
+        "name": "Bretten Pforzheimer Stra\u00dfe",
+        "stop_id": "de:8215:12587"
+    },
+    {
+        "lat": 49.03666,
+        "lon": 8.673819,
+        "name": "Rinklingen",
+        "stop_id": "de:8215:1550"
+    },
+    {
+        "lat": 49.03442875,
+        "lon": 8.68163767,
+        "name": "Rinklingen Kirche",
+        "stop_id": "de:8215:14607"
+    },
+    {
+        "lat": 49.03621201,
+        "lon": 8.67619676,
+        "name": "Rinklingen Jahnstra\u00dfe",
+        "stop_id": "de:8215:14606"
+    },
+    {
+        "lat": 49.02246091,
+        "lon": 8.80788502,
+        "name": "Hohenklingen Wette",
+        "stop_id": "de:8236:2312"
+    },
+    {
+        "lat": 49.13890102,
+        "lon": 8.00759997,
+        "name": "Klingenm\u00fcnster Siedlung",
+        "stop_id": "de:7337:5763"
+    },
+    {
+        "lat": 49.1627319,
+        "lon": 8.0343685,
+        "name": "G\u00f6cklingen Schwanen",
+        "stop_id": "de:7337:2718"
+    },
+    {
+        "lat": 49.14014791,
+        "lon": 8.05768139,
+        "name": "Klingen (Heuchelheim)",
+        "stop_id": "de:7337:4649"
+    },
+    {
+        "lat": 49.14058052,
+        "lon": 8.01261,
+        "name": "Klingenm\u00fcnster Dr. Sommer",
+        "stop_id": "de:7337:8930"
+    },
+    {
+        "lat": 49.14018054,
+        "lon": 8.01842897,
+        "name": "Klingenm\u00fcnster Rathaus",
+        "stop_id": "de:7337:6287"
+    },
+    {
+        "lat": 48.68308548,
+        "lon": 8.35675654,
+        "name": "Forbach Klingenbach",
+        "stop_id": "de:8216:34672"
+    },
+    {
+        "lat": 49.1621202,
+        "lon": 8.04189418,
+        "name": "G\u00f6cklingen Sparkasse",
+        "stop_id": "de:7337:4551"
+    },
+    {
+        "lat": 49.14524567,
+        "lon": 8.05759843,
+        "name": "Heuchelheim Abzw. Klingen",
+        "stop_id": "de:7337:4550"
+    },
+    {
+        "lat": 48.902956,
+        "lon": 8.49735118,
+        "name": "Langensteinbach Klinikum",
+        "stop_id": "de:8215:8701"
+    },
+    {
+        "lat": 48.94076612,
+        "lon": 8.40438117,
+        "name": "Ettlingen Erbprinz / Schloss",
+        "stop_id": "de:8215:1223"
+    },
+    {
+        "lat": 49.26277256,
+        "lon": 8.18702412,
+        "name": "Kleinfischlingen",
+        "stop_id": "de:7337:1691"
+    },
+    {
+        "lat": 48.95510953,
+        "lon": 8.37731146,
+        "name": "Ettlingen Kl. Plom/Assek. Herr",
+        "stop_id": "de:8215:8012"
+    },
+    {
+        "lat": 49.23717827,
+        "lon": 8.14782751,
+        "name": "Kn\u00f6ringen-Essingen Bahnhof",
+        "stop_id": "de:7337:8303"
+    },
+    {
+        "lat": 48.94805842,
+        "lon": 8.38377486,
+        "name": "Ettlingen Liebfrauenkirche",
+        "stop_id": "de:8215:8003"
+    },
+    {
+        "lat": 49.24879943,
+        "lon": 8.34243352,
+        "name": "Lingenfeld Denkmal",
+        "stop_id": "de:7334:32475"
+    },
+    {
+        "lat": 49.02388,
+        "lon": 8.64797,
+        "name": "D\u00fcrrenb\u00fcchig",
+        "stop_id": "de:8215:1548"
+    },
+    {
+        "lat": 49.0209233,
+        "lon": 8.6477757,
+        "name": "D\u00fcrrenb\u00fcchig Ortsmitte",
+        "stop_id": "de:8215:14616"
+    },
+    {
+        "lat": 49.02283038,
+        "lon": 8.65098901,
+        "name": "D\u00fcrrenb\u00fcchig Siedlung",
+        "stop_id": "de:8215:14617"
+    },
+    {
+        "lat": 49.07531729,
+        "lon": 8.70619122,
+        "name": "B\u00fcchig Teich/Wanne",
+        "stop_id": "de:8215:14103"
+    },
+    {
+        "lat": 49.07196923,
+        "lon": 8.71210973,
+        "name": "B\u00fcchig H\u00fcgellandstr.",
+        "stop_id": "de:8215:14104"
+    },
+    {
+        "lat": 49.0477726,
+        "lon": 8.46122883,
+        "name": "B\u00fcchig",
+        "stop_id": "de:8215:1902"
+    },
+    {
+        "lat": 48.67644386,
+        "lon": 8.18796083,
+        "name": "B\u00fchlertal Sch\u00f6nb\u00fcch",
+        "stop_id": "de:8216:32193"
+    },
+    {
+        "lat": 48.81709693,
+        "lon": 8.57785443,
+        "name": "Neuenb\u00fcrg (Enz) Eyachbr\u00fccke",
+        "stop_id": "de:8236:1493"
+    },
+    {
+        "lat": 49.09736277,
+        "lon": 8.5289668,
+        "name": "B\u00fcchenau Pfarrzentrum",
+        "stop_id": "de:8215:32284"
+    },
+    {
+        "lat": 49.09006448,
+        "lon": 7.96551414,
+        "name": "D\u00f6rrenbach Ort",
+        "stop_id": "de:7337:4564"
+    },
+    {
+        "lat": 48.98586803,
+        "lon": 8.75353925,
+        "name": "\u00d6lbronn-D\u00fcrrn",
+        "stop_id": "de:8236:2290"
+    },
+    {
+        "lat": 48.83770035,
+        "lon": 8.5934287,
+        "name": "Neuenb\u00fcrg (Enz) Freibad",
+        "stop_id": "de:8236:1492"
+    },
+    {
+        "lat": 48.5362391,
+        "lon": 8.39916166,
+        "name": "Landau D\u00f6rrenberg",
+        "stop_id": "de:7313:5693"
+    },
+    {
+        "lat": 49.18651598,
+        "lon": 8.11406005,
+        "name": "Landau Abzw. D\u00f6rrenbergstr",
+        "stop_id": "de:7313:7950"
+    },
+    {
+        "lat": 48.59456784,
+        "lon": 8.86262817,
+        "name": "Herrenberg",
+        "stop_id": "de:8115:4512"
+    },
+    {
+        "lat": 48.68630642,
+        "lon": 8.20177767,
+        "name": "B\u00fchlertal Obere B\u00fcchelbach",
+        "stop_id": "de:8216:12003"
+    },
+    {
+        "lat": 49.01036711,
+        "lon": 8.61148974,
+        "name": "W\u00f6ssingen Grundschule",
+        "stop_id": "de:8215:13802"
+    },
+    {
+        "lat": 49.01482615,
+        "lon": 8.60326638,
+        "name": "W\u00f6ssingen Durlacher Allee",
+        "stop_id": "de:8215:13803"
+    },
+    {
+        "lat": 49.01589291,
+        "lon": 8.61021636,
+        "name": "W\u00f6ssingen Ost",
+        "stop_id": "de:8215:1543"
+    },
+    {
+        "lat": 49.01548771,
+        "lon": 8.6047649,
+        "name": "W\u00f6ssingen Bahnhof",
+        "stop_id": "de:8215:1541"
+    },
+    {
+        "lat": 49.23708095,
+        "lon": 8.16653213,
+        "name": "Essingen Trifelsstra\u00dfe",
+        "stop_id": "de:7337:5041"
+    },
+    {
+        "lat": 48.9485594,
+        "lon": 9.13918515,
+        "name": "Bietigheim-Bissingen",
+        "stop_id": "de:8118:1400"
+    },
+    {
+        "lat": 49.23658628,
+        "lon": 8.17026178,
+        "name": "Essingen Turnhalle",
+        "stop_id": "de:7337:4644"
+    },
+    {
+        "lat": 49.23010597,
+        "lon": 8.17693327,
+        "name": "Essingen Abzw.",
+        "stop_id": "de:7337:4624"
+    },
+    {
+        "lat": 48.95492015,
+        "lon": 9.12855261,
+        "name": "Bietigheim-Bissingen Ellental",
+        "stop_id": "de:8118:1910"
+    },
+    {
+        "lat": 49.23547006,
+        "lon": 8.16883866,
+        "name": "Essingen Kirche",
+        "stop_id": "de:7337:4537"
+    },
+    {
+        "lat": 49.2357502,
+        "lon": 8.16280579,
+        "name": "Essingen Raiffeisen",
+        "stop_id": "de:7337:4538"
+    },
+    {
+        "lat": 48.85868782,
+        "lon": 8.19338448,
+        "name": "Rastatt Lessingstra\u00dfe",
+        "stop_id": "de:8216:31049"
+    },
+    {
+        "lat": 49.01992585,
+        "lon": 8.75591411,
+        "name": "Knittlingen Gewgeb. Gr\u00f6ner",
+        "stop_id": "de:8236:2307"
+    },
+    {
+        "lat": 48.953675,
+        "lon": 8.57105,
+        "name": "Wilferdingen-Singen",
+        "stop_id": "de:8236:1794"
+    },
+    {
+        "lat": 48.93559865,
+        "lon": 8.49347479,
+        "name": "Langensteinbach Aussiedlerhf.",
+        "stop_id": "de:8215:8612"
+    },
+    {
+        "lat": 49.20905954,
+        "lon": 8.05080023,
+        "name": "Siebeldingen Waage",
+        "stop_id": "de:7337:4176"
+    },
+    {
+        "lat": 48.930724,
+        "lon": 8.638311,
+        "name": "Ersingen Bahnhof",
+        "stop_id": "de:8236:1791"
+    },
+    {
+        "lat": 48.931479,
+        "lon": 8.633789,
+        "name": "Ersingen West",
+        "stop_id": "de:8236:1795"
+    },
+    {
+        "lat": 48.9393367,
+        "lon": 8.37887269,
+        "name": "Ettlingen Siemensstra\u00dfe",
+        "stop_id": "de:8215:8901"
+    },
+    {
+        "lat": 49.21649066,
+        "lon": 8.7070162,
+        "name": "\u00d6stringen Schulzentrum",
+        "stop_id": "de:8215:32533"
+    },
+    {
+        "lat": 49.03434354,
+        "lon": 8.56946844,
+        "name": "J\u00f6hlingen Weingartener Str.",
+        "stop_id": "de:8215:29998"
+    },
+    {
+        "lat": 49.02965285,
+        "lon": 8.57761797,
+        "name": "J\u00f6hlingen Hirtenbrunnen",
+        "stop_id": "de:8215:29999"
+    },
+    {
+        "lat": 49.03082057,
+        "lon": 8.56997747,
+        "name": "J\u00f6hlingen West",
+        "stop_id": "de:8215:1530"
+    },
+    {
+        "lat": 49.0280976,
+        "lon": 8.5752655,
+        "name": "J\u00f6hlingen Bahnhof",
+        "stop_id": "de:8215:1531"
+    },
+    {
+        "lat": 49.03222167,
+        "lon": 8.57438252,
+        "name": "J\u00f6hlingen Kirchplatz",
+        "stop_id": "de:8215:30163"
+    },
+    {
+        "lat": 49.02765769,
+        "lon": 8.57790834,
+        "name": "J\u00f6hlingen B293",
+        "stop_id": "de:8215:30162"
+    },
+    {
+        "lat": 49.05194377,
+        "lon": 8.53544295,
+        "name": "Weingarten J\u00f6hlinger Str.",
+        "stop_id": "de:8215:32253"
+    },
+    {
+        "lat": 49.26936342,
+        "lon": 8.1755933,
+        "name": "Gro\u00dffischlingen",
+        "stop_id": "de:7337:985"
+    },
+    {
+        "lat": 48.95350284,
+        "lon": 8.38455435,
+        "name": "Ettlingen Josef-St\u00f6hrer-Weg",
+        "stop_id": "de:8215:8009"
+    },
+    {
+        "lat": 48.93224205,
+        "lon": 8.42575989,
+        "name": "Ettlingen Wilhelmsh\u00f6he",
+        "stop_id": "de:8215:8104"
+    },
+    {
+        "lat": 48.92410573,
+        "lon": 8.38761756,
+        "name": "Ettlingenweier Ettlinger Str.",
+        "stop_id": "de:8215:9002"
+    },
+    {
+        "lat": 48.94771011,
+        "lon": 8.40827134,
+        "name": "Ettlingen Am Lindscharren",
+        "stop_id": "de:8215:1224"
+    },
+    {
+        "lat": 48.94768762,
+        "lon": 8.38506274,
+        "name": "Ettlingen Lindenweg",
+        "stop_id": "de:8215:8011"
+    },
+    {
+        "lat": 48.94160043,
+        "lon": 8.37511798,
+        "name": "Ettlingen Zeppelinstra\u00dfe",
+        "stop_id": "de:8215:8405"
+    },
+    {
+        "lat": 48.94573845,
+        "lon": 8.41308641,
+        "name": "Ettlingen Adolf-Kolping-Str.",
+        "stop_id": "de:8215:37210"
+    },
+    {
+        "lat": 49.00975357,
+        "lon": 8.52666358,
+        "name": "Berghausen Hummelberg",
+        "stop_id": "de:8215:1526"
+    },
+    {
+        "lat": 48.84292535,
+        "lon": 8.44853889,
+        "name": "Schielberg Lamm",
+        "stop_id": "de:8215:9306"
+    },
+    {
+        "lat": 48.60126377,
+        "lon": 8.20193904,
+        "name": "Mummelsee Hornisgrinde",
+        "stop_id": "de:8317:41802"
+    },
+    {
+        "lat": 48.5964868,
+        "lon": 8.20167535,
+        "name": "Mummelsee",
+        "stop_id": "de:8317:41801"
+    },
+    {
+        "lat": 48.84673283,
+        "lon": 8.44556775,
+        "name": "Schielberg W\u00e4ssergraben",
+        "stop_id": "de:8215:9309"
+    },
+    {
+        "lat": 49.25044544,
+        "lon": 8.50263699,
+        "name": "Oberhausen Hammels\u00e4cker",
+        "stop_id": "de:8215:33155"
+    },
+    {
+        "lat": 48.89517201,
+        "lon": 8.47192629,
+        "name": "Spielberg Dobelstra\u00dfe",
+        "stop_id": "de:8215:1415"
+    },
+    {
+        "lat": 49.01356235,
+        "lon": 8.82126135,
+        "name": "Maulbronn Scheuelberghof",
+        "stop_id": "de:8236:2223"
+    },
+    {
+        "lat": 48.83715843,
+        "lon": 8.44048337,
+        "name": "Frauenalb Schielberg",
+        "stop_id": "de:8215:1304"
+    },
+    {
+        "lat": 48.82054868,
+        "lon": 8.3078139,
+        "name": "Bad Rotenfels Eichelbergstra\u00dfe",
+        "stop_id": "de:8216:32768"
+    },
+    {
+        "lat": 48.83505831,
+        "lon": 8.29380164,
+        "name": "Bischweier Winkelberg",
+        "stop_id": "de:8216:32834"
+    },
+    {
+        "lat": 49.10005381,
+        "lon": 8.47138553,
+        "name": "Friedrichstal Heidelberg.-Ring",
+        "stop_id": "de:8215:32057"
+    },
+    {
+        "lat": 49.18895368,
+        "lon": 8.81312639,
+        "name": "Eichelberg Brunnen",
+        "stop_id": "de:8215:32524"
+    },
+    {
+        "lat": 48.84443616,
+        "lon": 8.45044331,
+        "name": "Schielberg Rathaus",
+        "stop_id": "de:8215:9307"
+    },
+    {
+        "lat": 49.20280375,
+        "lon": 8.75670311,
+        "name": "Odenheim Schindelberg",
+        "stop_id": "de:8215:32598"
+    },
+    {
+        "lat": 49.02130837,
+        "lon": 8.17252044,
+        "name": "B\u00fcchelberg Rathaus",
+        "stop_id": "de:7334:32349"
+    },
+    {
+        "lat": 48.89761244,
+        "lon": 8.47466922,
+        "name": "Spielberg",
+        "stop_id": "de:8215:1406"
+    },
+    {
+        "lat": 49.12037546,
+        "lon": 8.59349302,
+        "name": "Bruchsal Durlacher Stra\u00dfe",
+        "stop_id": "de:8215:12653"
+    },
+    {
+        "lat": 49.1180888,
+        "lon": 8.12960878,
+        "name": "Steinweiler Bahnhof",
+        "stop_id": "de:7334:33058"
+    },
+    {
+        "lat": 49.12257372,
+        "lon": 8.14133998,
+        "name": "Steinweiler Rathaus",
+        "stop_id": "de:7334:32345"
+    },
+    {
+        "lat": 49.11859995,
+        "lon": 8.14264151,
+        "name": "Steinweiler Friedhof",
+        "stop_id": "de:7334:1761"
+    },
+    {
+        "lat": 49.11931293,
+        "lon": 8.13695766,
+        "name": "Steinweiler Brot\u00e4ckerstr.",
+        "stop_id": "de:7334:1759"
+    },
+    {
+        "lat": 48.73829719,
+        "lon": 8.12917022,
+        "name": "Weitenung Wiesenweg",
+        "stop_id": "de:8216:31010"
+    },
+    {
+        "lat": 49.009759,
+        "lon": 8.431942,
+        "name": "Karlsruhe Essenweinstra\u00dfe",
+        "stop_id": "de:0000:0004"
+    },
+    {
+        "lat": 48.94842571,
+        "lon": 8.37848683,
+        "name": "Ettlingen Kiefernweg",
+        "stop_id": "de:8215:8006"
+    },
+    {
+        "lat": 48.95348091,
+        "lon": 8.38045846,
+        "name": "Ettlingen Buchenweg",
+        "stop_id": "de:8215:8008"
+    },
+    {
+        "lat": 48.95110719,
+        "lon": 8.37715647,
+        "name": "Ettlingen L\u00e4rchenweg",
+        "stop_id": "de:8215:8007"
+    },
+    {
+        "lat": 48.96320956,
+        "lon": 8.33820759,
+        "name": "Forchheim Akazienweg",
+        "stop_id": "de:8215:8408"
+    },
+    {
+        "lat": 49.11345113,
+        "lon": 8.5685514,
+        "name": "Bruchsal Eichenweg",
+        "stop_id": "de:8215:32328"
+    },
+    {
+        "lat": 48.93222202,
+        "lon": 8.21484269,
+        "name": "Elchesheim Hammenweg",
+        "stop_id": "de:8216:31800"
+    },
+    {
+        "lat": 49.1441934,
+        "lon": 8.68845973,
+        "name": "Ober\u00f6wisheim Neuenwegstr.",
+        "stop_id": "de:8215:37226"
+    },
+    {
+        "lat": 49.19658368,
+        "lon": 7.96953725,
+        "name": "Annweiler Schwanenweiher",
+        "stop_id": "de:7337:5786"
+    },
+    {
+        "lat": 48.81959264,
+        "lon": 8.15009548,
+        "name": "Iffezheim Tullastra\u00dfe",
+        "stop_id": "de:8216:31913"
+    },
+    {
+        "lat": 49.27995054,
+        "lon": 8.47497657,
+        "name": "Rheinhausen Tullahalle",
+        "stop_id": "de:8215:32605"
+    },
+    {
+        "lat": 48.85531568,
+        "lon": 8.20503541,
+        "name": "Rastatt Kapellenstra\u00dfe",
+        "stop_id": "de:8216:32020"
+    },
+    {
+        "lat": 48.86286257,
+        "lon": 8.19628856,
+        "name": "Rastatt Schillerstra\u00dfe",
+        "stop_id": "de:8216:31051"
+    },
+    {
+        "lat": 48.85607986,
+        "lon": 8.22081748,
+        "name": "Rastatt Industriestra\u00dfe",
+        "stop_id": "de:8216:31989"
+    },
+    {
+        "lat": 48.83673168,
+        "lon": 8.19642064,
+        "name": "Rastatt Stadionstra\u00dfe",
+        "stop_id": "de:8216:31874"
+    },
+    {
+        "lat": 48.8502767,
+        "lon": 8.20717269,
+        "name": "Rastatt L\u00fctzowerstra\u00dfe",
+        "stop_id": "de:8216:31987"
+    },
+    {
+        "lat": 48.85204185,
+        "lon": 8.20364286,
+        "name": "Rastatt Kehler Stra\u00dfe",
+        "stop_id": "de:8216:31988"
+    },
+    {
+        "lat": 48.86081197,
+        "lon": 8.20793305,
+        "name": "Rastatt Lyzeumstra\u00dfe",
+        "stop_id": "de:8216:33111"
+    },
+    {
+        "lat": 48.85923243,
+        "lon": 8.2110107,
+        "name": "Rastatt Bahnhofstra\u00dfe",
+        "stop_id": "de:8216:33115"
+    },
+    {
+        "lat": 48.86094931,
+        "lon": 8.20177069,
+        "name": "Rastatt Rheintorstra\u00dfe",
+        "stop_id": "de:8216:32018"
+    },
+    {
+        "lat": 48.86885046,
+        "lon": 8.20392137,
+        "name": "Rastatt Zaystra\u00dfe",
+        "stop_id": "de:8216:32015"
+    },
+    {
+        "lat": 48.85307095,
+        "lon": 8.20813694,
+        "name": "Rastatt Josefstra\u00dfe",
+        "stop_id": "de:8216:31830"
+    },
+    {
+        "lat": 48.86500311,
+        "lon": 8.18991641,
+        "name": "Rastatt Carl-Benz-Stra\u00dfe",
+        "stop_id": "de:8216:34622"
+    },
+    {
+        "lat": 48.85590193,
+        "lon": 8.22778382,
+        "name": "Rastatt Lochfeldstra\u00dfe",
+        "stop_id": "de:8216:31826"
+    },
+    {
+        "lat": 48.87296345,
+        "lon": 8.18766129,
+        "name": "Rastatt Akazienstra\u00dfe",
+        "stop_id": "de:8216:31063"
+    },
+    {
+        "lat": 48.74002203,
+        "lon": 8.27573257,
+        "name": "Lichtental Sauersbosch",
+        "stop_id": "de:8211:31866"
+    },
+    {
+        "lat": 48.68225922,
+        "lon": 8.19010812,
+        "name": "B\u00fchlertal Altes Feuerwehrhaus",
+        "stop_id": "de:8216:12027"
+    },
+    {
+        "lat": 48.91307178,
+        "lon": 8.42597964,
+        "name": "Spessart Rotes Haus",
+        "stop_id": "de:8215:8105"
+    },
+    {
+        "lat": 48.66750746,
+        "lon": 8.11151935,
+        "name": "Ottersweier Kirche/Lauferstr.",
+        "stop_id": "de:8216:32096"
+    },
+    {
+        "lat": 49.10242306,
+        "lon": 8.74180149,
+        "name": "Gochsheim Bauerbacher Str.",
+        "stop_id": "de:8215:34502"
+    },
+    {
+        "lat": 48.79279538,
+        "lon": 8.33017628,
+        "name": "Ottenau Badener Br\u00fccke",
+        "stop_id": "de:8216:31966"
+    },
+    {
+        "lat": 48.79482421,
+        "lon": 8.33268087,
+        "name": "Ottenau Sulzbacher Stra\u00dfe",
+        "stop_id": "de:8216:34676"
+    },
+    {
+        "lat": 48.96793445,
+        "lon": 8.26181144,
+        "name": "Neuburgweier Breslauer Str.",
+        "stop_id": "de:8215:6409"
+    },
+    {
+        "lat": 48.89778883,
+        "lon": 8.1898777,
+        "name": "Steinmauern Silberaustra\u00dfe",
+        "stop_id": "de:8216:32010"
+    },
+    {
+        "lat": 48.91139678,
+        "lon": 8.42910929,
+        "name": "Spessart Schottm\u00fcllerstr.",
+        "stop_id": "de:8215:8107"
+    },
+    {
+        "lat": 48.90017922,
+        "lon": 8.19866376,
+        "name": "Steinmauern Rathaus",
+        "stop_id": "de:8216:32012"
+    },
+    {
+        "lat": 48.89977468,
+        "lon": 8.20517617,
+        "name": "Steinmauern Gartenstra\u00dfe",
+        "stop_id": "de:8216:32013"
+    },
+    {
+        "lat": 49.0535157,
+        "lon": 8.04855281,
+        "name": "Steinfeld Abzw. Niederotterb.",
+        "stop_id": "de:7337:4589"
+    },
+    {
+        "lat": 48.87143416,
+        "lon": 8.19398385,
+        "name": "Rastatt Rheinauer Kirchweg",
+        "stop_id": "de:8216:34654"
+    },
+    {
+        "lat": 48.87659923,
+        "lon": 8.19576858,
+        "name": "Rastatt Rheinauer G\u00e4rtle",
+        "stop_id": "de:8216:34652"
+    },
+    {
+        "lat": 48.87548029,
+        "lon": 8.19007442,
+        "name": "Rastatt Rheinauer Ring",
+        "stop_id": "de:8216:34653"
+    },
+    {
+        "lat": 48.79297531,
+        "lon": 8.33797257,
+        "name": "Ottenau Bahnhof",
+        "stop_id": "de:8216:32827"
+    },
+    {
+        "lat": 49.10026549,
+        "lon": 8.06951538,
+        "name": "Barbelroth Lindenplatz",
+        "stop_id": "de:7337:4571"
+    },
+    {
+        "lat": 48.75877488,
+        "lon": 8.24681919,
+        "name": "Baden-Baden Markgrafenplatz",
+        "stop_id": "de:8211:31896"
+    },
+    {
+        "lat": 49.26953341,
+        "lon": 8.3297637,
+        "name": "Schwegenheim Lindenplatz",
+        "stop_id": "de:7334:33083"
+    },
+    {
+        "lat": 48.79540659,
+        "lon": 8.43856595,
+        "name": "Bad Herrenalb S\u00e4gwasenplatz",
+        "stop_id": "de:8235:9742"
+    },
+    {
+        "lat": 49.06906386,
+        "lon": 8.80650108,
+        "name": "Oberderdingen Lindenplatz",
+        "stop_id": "de:8215:14304"
+    },
+    {
+        "lat": 48.62408542,
+        "lon": 8.26234966,
+        "name": "Hundsbach Aschenplatz",
+        "stop_id": "de:8216:32177"
+    },
+    {
+        "lat": 49.18194198,
+        "lon": 8.64520781,
+        "name": "Stettfeld L\u00f6wenplatz",
+        "stop_id": "de:8215:32561"
+    },
+    {
+        "lat": 49.21978366,
+        "lon": 8.36995703,
+        "name": "Germersheim Kirchenplatz",
+        "stop_id": "de:7334:35016"
+    },
+    {
+        "lat": 48.93892811,
+        "lon": 8.27926076,
+        "name": "Durmersheim Raiffeisenplatz",
+        "stop_id": "de:8216:32089"
+    },
+    {
+        "lat": 49.27268324,
+        "lon": 8.27225289,
+        "name": "Freisbach Domherrenplatz",
+        "stop_id": "de:7334:35506"
+    },
+    {
+        "lat": 48.7029275,
+        "lon": 8.36078329,
+        "name": "Langenbrand Steinplatz",
+        "stop_id": "de:8216:34794"
+    },
+    {
+        "lat": 49.0537295,
+        "lon": 8.53676707,
+        "name": "Weingarten Liverdunplatz",
+        "stop_id": "de:8215:32251"
+    },
+    {
+        "lat": 49.14126734,
+        "lon": 9.22854789,
+        "name": "Heilbronn Friedensplatz",
+        "stop_id": "de:8121:3032"
+    },
+    {
+        "lat": 48.76450107,
+        "lon": 8.04837988,
+        "name": "Stollhofen Krone",
+        "stop_id": "de:8216:34644"
+    },
+    {
+        "lat": 48.75792286,
+        "lon": 8.16617897,
+        "name": "Sinzheim Krone",
+        "stop_id": "de:8216:31978"
+    },
+    {
+        "lat": 49.10332824,
+        "lon": 8.75275266,
+        "name": "Gochsheim Krone",
+        "stop_id": "de:8215:34500"
+    },
+    {
+        "lat": 48.91240241,
+        "lon": 8.25402143,
+        "name": "Bietigheim Krone",
+        "stop_id": "de:8216:32085"
+    },
+    {
+        "lat": 49.2030303,
+        "lon": 7.9604424,
+        "name": "Annweiler Storchentor",
+        "stop_id": "de:7337:4184"
+    },
+    {
+        "lat": 48.65889618,
+        "lon": 8.14771022,
+        "name": "Neusatz Rathaus (Drei-Tore)",
+        "stop_id": "de:8216:32212"
+    },
+    {
+        "lat": 49.06838736,
+        "lon": 8.79998955,
+        "name": "Oberderdingen Blanco Werk III",
+        "stop_id": "de:8215:14501"
+    },
+    {
+        "lat": 48.75908431,
+        "lon": 8.23103725,
+        "name": "Baden-Baden Werderstra\u00dfe",
+        "stop_id": "de:8211:31840"
+    },
+    {
+        "lat": 49.05982426,
+        "lon": 8.80895882,
+        "name": "Oberderdingen Sternenf. Str.",
+        "stop_id": "de:8215:30895"
+    },
+    {
+        "lat": 49.06740367,
+        "lon": 8.80314103,
+        "name": "Oberderdingen Blanco Verwalt.",
+        "stop_id": "de:8215:14303"
+    },
+    {
+        "lat": 49.06589063,
+        "lon": 8.8070471,
+        "name": "Oberderdingen Schulzentrum",
+        "stop_id": "de:8215:14407"
+    },
+    {
+        "lat": 49.06074664,
+        "lon": 8.80138852,
+        "name": "Oberderdingen Amthof",
+        "stop_id": "de:8215:32608"
+    },
+    {
+        "lat": 49.08399,
+        "lon": 8.774853,
+        "name": "Oberderdingen-Flehingen",
+        "stop_id": "de:8215:1561"
+    },
+    {
+        "lat": 49.05835686,
+        "lon": 8.79740277,
+        "name": "Oberderdingen Freibad",
+        "stop_id": "de:8215:14311"
+    },
+    {
+        "lat": 49.07140276,
+        "lon": 8.79662436,
+        "name": "Oberderdingen Allmend",
+        "stop_id": "de:8215:14302"
+    },
+    {
+        "lat": 49.06670504,
+        "lon": 8.79439924,
+        "name": "Oberderdingen Langwiesenstr.",
+        "stop_id": "de:8215:14305"
+    },
+    {
+        "lat": 49.06379157,
+        "lon": 8.79946063,
+        "name": "Oberderdingen Ortsmitte",
+        "stop_id": "de:8215:14306"
+    },
+    {
+        "lat": 49.1275782,
+        "lon": 7.87964546,
+        "name": "Vorderweidenthal",
+        "stop_id": "de:7337:3732"
+    },
+    {
+        "lat": 49.14856879,
+        "lon": 7.95675735,
+        "name": "Silz Kinderdorf",
+        "stop_id": "de:7337:2725"
+    },
+    {
+        "lat": 48.76562291,
+        "lon": 8.31532974,
+        "name": "Staufenberg Erdbeerweg",
+        "stop_id": "de:8216:32121"
+    },
+    {
+        "lat": 49.18271711,
+        "lon": 8.62584795,
+        "name": "Weiher Unterdorf",
+        "stop_id": "de:8215:32258"
+    },
+    {
+        "lat": 49.17505107,
+        "lon": 8.61608606,
+        "name": "Weiher Oberdorf",
+        "stop_id": "de:8215:32261"
+    },
+    {
+        "lat": 48.8030852,
+        "lon": 8.32138139,
+        "name": "Gaggenau Rathaus",
+        "stop_id": "de:8216:32156"
+    },
+    {
+        "lat": 48.79499667,
+        "lon": 8.30555224,
+        "name": "Gaggenau Am Wei\u00dfen Stein",
+        "stop_id": "de:8216:34806"
+    },
+    {
+        "lat": 48.79614816,
+        "lon": 8.32531331,
+        "name": "Gaggenau Mercedes-Benz Werk",
+        "stop_id": "de:8216:34829"
+    },
+    {
+        "lat": 48.80341229,
+        "lon": 8.31284157,
+        "name": "Gaggenau Altenheim",
+        "stop_id": "de:8216:34796"
+    },
+    {
+        "lat": 48.7981105,
+        "lon": 8.32719262,
+        "name": "Gaggenau Mercedes-Benz Werk",
+        "stop_id": "de:8216:32158"
+    },
+    {
+        "lat": 48.79472235,
+        "lon": 8.30928537,
+        "name": "Gaggenau Hugo-Junkers-Str.",
+        "stop_id": "de:8216:34802"
+    },
+    {
+        "lat": 48.80127113,
+        "lon": 8.33568539,
+        "name": "Gaggenau Sommerhalde",
+        "stop_id": "de:8216:34808"
+    },
+    {
+        "lat": 48.7981422,
+        "lon": 8.29783184,
+        "name": "Gaggenau Waldseebad",
+        "stop_id": "de:8216:34805"
+    },
+    {
+        "lat": 48.79796625,
+        "lon": 8.31491687,
+        "name": "Gaggenau Zeppelinstra\u00dfe",
+        "stop_id": "de:8216:34803"
+    },
+    {
+        "lat": 48.79973565,
+        "lon": 8.3115442,
+        "name": "Gaggenau Hansjakobstra\u00dfe",
+        "stop_id": "de:8216:34804"
+    },
+    {
+        "lat": 48.80615714,
+        "lon": 8.30719517,
+        "name": "Gaggenau Neuapost. Kirche",
+        "stop_id": "de:8216:34799"
+    },
+    {
+        "lat": 48.80581509,
+        "lon": 8.31314909,
+        "name": "Gaggenau Alois-Degler-Str.",
+        "stop_id": "de:8216:34798"
+    },
+    {
+        "lat": 48.80388009,
+        "lon": 8.31589816,
+        "name": "Gaggenau Schulstra\u00dfe",
+        "stop_id": "de:8216:34797"
+    },
+    {
+        "lat": 48.80048826,
+        "lon": 8.31712856,
+        "name": "Gaggenau Jahnhalle",
+        "stop_id": "de:8216:34795"
+    },
+    {
+        "lat": 48.80356131,
+        "lon": 8.33362678,
+        "name": "Gaggenau Waldfriedhof",
+        "stop_id": "de:8216:32155"
+    },
+    {
+        "lat": 48.80116943,
+        "lon": 8.32745118,
+        "name": "Gaggenau Michelbacher Str.",
+        "stop_id": "de:8216:32157"
+    },
+    {
+        "lat": 48.80548719,
+        "lon": 8.32002846,
+        "name": "Gaggenau Bahnhof",
+        "stop_id": "de:8216:32160"
+    },
+    {
+        "lat": 49.18900583,
+        "lon": 8.08966492,
+        "name": "Landau Haguenauer Str.",
+        "stop_id": "de:7313:5686"
+    },
+    {
+        "lat": 48.87421521,
+        "lon": 8.27421993,
+        "name": "Muggensturm Hauptstra\u00dfe",
+        "stop_id": "de:8216:32104"
+    },
+    {
+        "lat": 48.86723676,
+        "lon": 8.27845088,
+        "name": "Muggensturm Rathaus",
+        "stop_id": "de:8216:3997"
+    },
+    {
+        "lat": 48.90113043,
+        "lon": 8.30957973,
+        "name": "Malsch Neumalsch",
+        "stop_id": "de:8215:8015"
+    },
+    {
+        "lat": 48.88450112,
+        "lon": 8.32585718,
+        "name": "Malsch Hans-Thoma-Schule",
+        "stop_id": "de:8215:8309"
+    },
+    {
+        "lat": 48.89046929,
+        "lon": 8.32539512,
+        "name": "Malsch Linde (Schleife)",
+        "stop_id": "de:8215:8014"
+    },
+    {
+        "lat": 48.90606366,
+        "lon": 8.30450553,
+        "name": "Malsch Hadermark",
+        "stop_id": "de:8215:8024"
+    },
+    {
+        "lat": 48.87739533,
+        "lon": 8.33638204,
+        "name": "Malsch Kesselstra\u00dfe",
+        "stop_id": "de:8215:8013"
+    },
+    {
+        "lat": 48.89813525,
+        "lon": 8.30645678,
+        "name": "Malsch Murgtaler Stra\u00dfe",
+        "stop_id": "de:8215:8026"
+    },
+    {
+        "lat": 48.72456277,
+        "lon": 8.24749334,
+        "name": "Geroldsau Malschbacher Str.",
+        "stop_id": "de:8211:32376"
+    },
+    {
+        "lat": 48.88877928,
+        "lon": 8.30132259,
+        "name": "Malsch Fuchseck",
+        "stop_id": "de:8215:8027"
+    },
+    {
+        "lat": 48.72218165,
+        "lon": 8.24229626,
+        "name": "Baden-Baden Malschbach",
+        "stop_id": "de:8211:31898"
+    },
+    {
+        "lat": 48.88630545,
+        "lon": 8.32995087,
+        "name": "Malsch Am H\u00e4nfig",
+        "stop_id": "de:8215:8305"
+    },
+    {
+        "lat": 48.8894236,
+        "lon": 8.32341827,
+        "name": "Malsch Bahnhof",
+        "stop_id": "de:8215:8306"
+    },
+    {
+        "lat": 48.8744265,
+        "lon": 8.34241954,
+        "name": "Malsch Hecken\u00e4cker",
+        "stop_id": "de:8215:8310"
+    },
+    {
+        "lat": 48.88670262,
+        "lon": 8.32866381,
+        "name": "Malsch Post",
+        "stop_id": "de:8215:8314"
+    },
+    {
+        "lat": 48.88368334,
+        "lon": 8.33368095,
+        "name": "Malsch Adler",
+        "stop_id": "de:8215:8209"
+    },
+    {
+        "lat": 48.88466446,
+        "lon": 8.33696761,
+        "name": "Malsch Mozartstra\u00dfe",
+        "stop_id": "de:8215:8208"
+    },
+    {
+        "lat": 48.88058565,
+        "lon": 8.3344856,
+        "name": "Malsch Kreuzstra\u00dfe",
+        "stop_id": "de:8215:8210"
+    },
+    {
+        "lat": 48.87913353,
+        "lon": 8.33684985,
+        "name": "Malsch Rathaus",
+        "stop_id": "de:8215:8211"
+    },
+    {
+        "lat": 48.8874,
+        "lon": 8.3156,
+        "name": "Malsch S\u00fcd",
+        "stop_id": "de:000000001"
+    },
+    {
+        "lat": 48.88996307,
+        "lon": 8.32647922,
+        "name": "Malsch Linde",
+        "stop_id": "de:8215:8021"
+    },
+    {
+        "lat": 48.90237101,
+        "lon": 8.30802132,
+        "name": "Malsch Durmersheimer Stra\u00dfe",
+        "stop_id": "de:8215:8025"
+    },
+    {
+        "lat": 48.75326185,
+        "lon": 8.23039174,
+        "name": "Baden-Baden Stadelhoferstr.",
+        "stop_id": "de:8211:31854"
+    },
+    {
+        "lat": 49.0001596,
+        "lon": 8.81827535,
+        "name": "Maulbronn Altes Stadtbad",
+        "stop_id": "de:8236:2215"
+    },
+    {
+        "lat": 48.77896474,
+        "lon": 8.20165648,
+        "name": "Baden-Baden Pariser Platz",
+        "stop_id": "de:8211:33088"
+    },
+    {
+        "lat": 48.77999848,
+        "lon": 8.19513604,
+        "name": "Baden-Baden Cit\u00e9",
+        "stop_id": "de:8211:33089"
+    },
+    {
+        "lat": 48.78410786,
+        "lon": 8.19511114,
+        "name": "Baden-Baden Gewerbepark Cit\u00e9",
+        "stop_id": "de:8211:33091"
+    },
+    {
+        "lat": 48.78344786,
+        "lon": 8.19203274,
+        "name": "Baden-Baden Shopping Cit\u00e9",
+        "stop_id": "de:8211:33090"
+    },
+    {
+        "lat": 48.78969493,
+        "lon": 8.19036736,
+        "name": "Baden-Baden Bahnhof",
+        "stop_id": "de:8211:1847"
+    },
+    {
+        "lat": 48.74631613,
+        "lon": 8.2558711,
+        "name": "Baden-Baden Klosterplatz",
+        "stop_id": "de:8211:31908"
+    },
+    {
+        "lat": 48.79182953,
+        "lon": 8.19470182,
+        "name": "Baden-Baden Kuppenheimer Str.",
+        "stop_id": "de:8211:31906"
+    },
+    {
+        "lat": 48.75885621,
+        "lon": 8.23595072,
+        "name": "Baden-Baden Kronprinzenstr.",
+        "stop_id": "de:8211:31907"
+    },
+    {
+        "lat": 48.76581111,
+        "lon": 8.24332684,
+        "name": "Baden-Baden Leopoldstr.",
+        "stop_id": "de:8211:31904"
+    },
+    {
+        "lat": 48.76138199,
+        "lon": 8.24808598,
+        "name": "Baden-Baden Kurf\u00fcrstenstr.",
+        "stop_id": "de:8211:31905"
+    },
+    {
+        "lat": 48.76545203,
+        "lon": 8.25307187,
+        "name": "Baden-Baden Lilienmattstr./DRK",
+        "stop_id": "de:8211:31900"
+    },
+    {
+        "lat": 49.24349697,
+        "lon": 9.136747,
+        "name": "Bad Wimpfen-Hohenstadt",
+        "stop_id": "de:8125:5606"
+    },
+    {
+        "lat": 48.7501116,
+        "lon": 8.24490889,
+        "name": "Baden-Baden Kettenbr\u00fccke",
+        "stop_id": "de:8211:31911"
+    },
+    {
+        "lat": 48.7638751,
+        "lon": 8.23475919,
+        "name": "Baden-Baden Klinik Dr.Dengler",
+        "stop_id": "de:8211:31910"
+    },
+    {
+        "lat": 48.75240837,
+        "lon": 8.2440993,
+        "name": "Baden-Baden Haus Reich",
+        "stop_id": "de:8211:31928"
+    },
+    {
+        "lat": 48.74979135,
+        "lon": 8.23724406,
+        "name": "Baden-Baden Haus Planeck",
+        "stop_id": "de:8211:31929"
+    },
+    {
+        "lat": 48.76668469,
+        "lon": 8.24215744,
+        "name": "Baden-Baden Herrengut",
+        "stop_id": "de:8211:31927"
+    },
+    {
+        "lat": 48.78034885,
+        "lon": 8.20415181,
+        "name": "Baden-Baden Hubertusstra\u00dfe",
+        "stop_id": "de:8211:31921"
+    },
+    {
+        "lat": 49.21805572,
+        "lon": 9.21077221,
+        "name": "Bad Friedrichshall Kochendorf",
+        "stop_id": "de:8125:1120"
+    },
+    {
+        "lat": 49.28661482,
+        "lon": 8.12852898,
+        "name": "Edenkoben Schulzentrum",
+        "stop_id": "de:7337:618"
+    },
+    {
+        "lat": 49.28542721,
+        "lon": 8.1272441,
+        "name": "Edenkoben St. Martiner Str.",
+        "stop_id": "de:7337:614"
+    },
+    {
+        "lat": 49.27872344,
+        "lon": 8.12421514,
+        "name": "Edenkoben Berufsschule",
+        "stop_id": "de:7337:615"
+    },
+    {
+        "lat": 49.29472095,
+        "lon": 8.0558653,
+        "name": "Edenkoben H\u00fcttenbrunnen",
+        "stop_id": "de:7337:4694"
+    },
+    {
+        "lat": 49.28313229,
+        "lon": 8.08741099,
+        "name": "Edenkoben Waldhaus",
+        "stop_id": "de:7337:4692"
+    },
+    {
+        "lat": 49.28700743,
+        "lon": 8.07381353,
+        "name": "Edenkoben Hilschweiher",
+        "stop_id": "de:7337:4693"
+    },
+    {
+        "lat": 49.27921678,
+        "lon": 8.09834077,
+        "name": "Edenkoben Rosengarten",
+        "stop_id": "de:7337:4690"
+    },
+    {
+        "lat": 49.27957014,
+        "lon": 8.09065155,
+        "name": "Edenkoben Villa Ludwigsh\u00f6he",
+        "stop_id": "de:7337:4691"
+    },
+    {
+        "lat": 49.28506896,
+        "lon": 8.13700959,
+        "name": "Edenkoben Realschule",
+        "stop_id": "de:7337:4689"
+    },
+    {
+        "lat": 48.67463618,
+        "lon": 8.18412004,
+        "name": "B\u00fchlertal Buchkopf",
+        "stop_id": "de:8216:32203"
+    },
+    {
+        "lat": 49.12844747,
+        "lon": 8.60045604,
+        "name": "Bruchsal K.-Kollwitz-Sch.",
+        "stop_id": "de:8215:32550"
+    },
+    {
+        "lat": 49.28787418,
+        "lon": 8.14060334,
+        "name": "Edenkoben Staatsstr./Aldi",
+        "stop_id": "de:7337:6846"
+    },
+    {
+        "lat": 49.28558397,
+        "lon": 8.12182562,
+        "name": "Edenkoben In der Halde",
+        "stop_id": "de:7337:6845"
+    },
+    {
+        "lat": 49.27635645,
+        "lon": 8.11919967,
+        "name": "Edenkoben Betriebshof",
+        "stop_id": "de:7337:6486"
+    },
+    {
+        "lat": 48.65673983,
+        "lon": 8.24052211,
+        "name": "Sand Mehliskopf",
+        "stop_id": "de:8216:33117"
+    },
+    {
+        "lat": 49.19614178,
+        "lon": 8.15056341,
+        "name": "Queichheim Nikolaus-Moll-Str.",
+        "stop_id": "de:7313:5659"
+    },
+    {
+        "lat": 48.84114788,
+        "lon": 8.22145784,
+        "name": "Niederb\u00fchl Siedlung",
+        "stop_id": "de:8216:31995"
+    },
+    {
+        "lat": 48.9079855,
+        "lon": 8.25236835,
+        "name": "Bietigheim Siedlung",
+        "stop_id": "de:8216:32071"
+    },
+    {
+        "lat": 49.11731794,
+        "lon": 8.5079284,
+        "name": "Sp\u00f6ck Siedlungsstra\u00dfe",
+        "stop_id": "de:8215:32054"
+    },
+    {
+        "lat": 49.21515983,
+        "lon": 7.9928559,
+        "name": "Queichhambach Siedlung",
+        "stop_id": "de:7337:5756"
+    },
+    {
+        "lat": 49.11417801,
+        "lon": 8.27121851,
+        "name": "Rheinzabern Siedlung",
+        "stop_id": "de:7334:32454"
+    },
+    {
+        "lat": 49.24441132,
+        "lon": 8.27336892,
+        "name": "Lustadt Siedlung",
+        "stop_id": "de:7334:32469"
+    },
+    {
+        "lat": 49.2426817,
+        "lon": 8.34659359,
+        "name": "Lingenfeld Siedlung",
+        "stop_id": "de:7334:32473"
+    },
+    {
+        "lat": 49.18444608,
+        "lon": 8.05047554,
+        "name": "Ilbesheim Siedlung",
+        "stop_id": "de:7337:5751"
+    },
+    {
+        "lat": 48.8110543,
+        "lon": 8.21805719,
+        "name": "Haueneberstein Siemensstra\u00dfe",
+        "stop_id": "de:8211:31930"
+    },
+    {
+        "lat": 48.63719376,
+        "lon": 8.34674339,
+        "name": "Raum\u00fcnzach Siedlung",
+        "stop_id": "de:8216:30169"
+    },
+    {
+        "lat": 49.12700365,
+        "lon": 8.58875297,
+        "name": "Bruchsal Siemens",
+        "stop_id": "de:8215:32593"
+    },
+    {
+        "lat": 49.21075618,
+        "lon": 8.05594197,
+        "name": "Siebeldingen Bismarckstra\u00dfe",
+        "stop_id": "de:7337:8068"
+    },
+    {
+        "lat": 49.20958256,
+        "lon": 8.04226736,
+        "name": "Siebeldingen-Birkweiler",
+        "stop_id": "de:7337:8052"
+    },
+    {
+        "lat": 48.69626653,
+        "lon": 8.12215243,
+        "name": "B\u00fchl Siemensstr./O.-Haef.-Str",
+        "stop_id": "de:8216:34732"
+    },
+    {
+        "lat": 49.09600139,
+        "lon": 8.08163128,
+        "name": "Hergersweiler Aussiedlerhof",
+        "stop_id": "de:7337:4055"
+    },
+    {
+        "lat": 49.11445792,
+        "lon": 8.57330954,
+        "name": "Bruchsal Siemens Wohnheim",
+        "stop_id": "de:8215:32295"
+    },
+    {
+        "lat": 49.12191408,
+        "lon": 8.59123365,
+        "name": "Bruchsal Salinenstra\u00dfe",
+        "stop_id": "de:8215:12630"
+    },
+    {
+        "lat": 49.12466253,
+        "lon": 8.59547199,
+        "name": "Bruchsal Friedrichsplatz",
+        "stop_id": "de:8215:12622"
+    },
+    {
+        "lat": 49.11998801,
+        "lon": 8.59582509,
+        "name": "Bruchsal Hochstra\u00dfe",
+        "stop_id": "de:8215:32312"
+    },
+    {
+        "lat": 49.12502265,
+        "lon": 8.60337444,
+        "name": "Bruchsal Altenzentrum",
+        "stop_id": "de:8215:12658"
+    },
+    {
+        "lat": 49.11774091,
+        "lon": 8.61718612,
+        "name": "Bruchsal Schwabenbr\u00fccke",
+        "stop_id": "de:8215:12652"
+    },
+    {
+        "lat": 49.13301548,
+        "lon": 8.60050155,
+        "name": "Bruchsal Asamstra\u00dfe",
+        "stop_id": "de:8215:12635"
+    },
+    {
+        "lat": 49.12426352,
+        "lon": 8.61284762,
+        "name": "Bruchsal Bussardweg",
+        "stop_id": "de:8215:32327"
+    },
+    {
+        "lat": 49.13486069,
+        "lon": 8.60628332,
+        "name": "Bruchsal Weitenru\u00df",
+        "stop_id": "de:8215:12636"
+    },
+    {
+        "lat": 49.11799183,
+        "lon": 8.58819733,
+        "name": "Bruchsal Karlsruher Str.",
+        "stop_id": "de:8215:32306"
+    },
+    {
+        "lat": 49.13858491,
+        "lon": 8.59376896,
+        "name": "Bruchsal K.-Berberich-Sch.",
+        "stop_id": "de:8215:32553"
+    },
+    {
+        "lat": 49.11876891,
+        "lon": 8.60999988,
+        "name": "Bruchsal Schlachthof",
+        "stop_id": "de:8215:1832"
+    },
+    {
+        "lat": 49.13022857,
+        "lon": 8.60066097,
+        "name": "Bruchsal Sch\u00f6nbornstra\u00dfe",
+        "stop_id": "de:8215:32551"
+    },
+    {
+        "lat": 49.12606359,
+        "lon": 8.59499475,
+        "name": "Bruchsal Schlo\u00dfstra\u00dfe",
+        "stop_id": "de:8215:32548"
+    },
+    {
+        "lat": 49.12849805,
+        "lon": 8.59948281,
+        "name": "Bruchsal Schlo\u00df",
+        "stop_id": "de:8215:32547"
+    },
+    {
+        "lat": 49.11216709,
+        "lon": 8.56663121,
+        "name": "Bruchsal Eschenweg",
+        "stop_id": "de:8215:34854"
+    },
+    {
+        "lat": 49.12299446,
+        "lon": 8.61248759,
+        "name": "Bruchsal Habichtweg",
+        "stop_id": "de:8215:12657"
+    },
+    {
+        "lat": 49.12773028,
+        "lon": 8.58576001,
+        "name": "Bruchsal Schwetzinger Str.",
+        "stop_id": "de:8215:12641"
+    },
+    {
+        "lat": 49.13332981,
+        "lon": 8.58760439,
+        "name": "Bruchsal Schwimmbad",
+        "stop_id": "de:8215:12638"
+    },
+    {
+        "lat": 49.22111585,
+        "lon": 8.63842069,
+        "name": "Kronau Bahnhofstr.",
+        "stop_id": "de:8215:32582"
+    },
+    {
+        "lat": 49.21214832,
+        "lon": 8.62347107,
+        "name": "Kronau Gew. Gebiet Heidig",
+        "stop_id": "de:8215:32581"
+    },
+    {
+        "lat": 49.21985314,
+        "lon": 8.62869744,
+        "name": "Kronau Mozartstra\u00dfe",
+        "stop_id": "de:8215:32580"
+    },
+    {
+        "lat": 49.22069892,
+        "lon": 8.63451146,
+        "name": "Kronau Raiffeisen",
+        "stop_id": "de:8215:32578"
+    },
+    {
+        "lat": 49.21901128,
+        "lon": 8.63256098,
+        "name": "Kronau Post",
+        "stop_id": "de:8215:32579"
+    },
+    {
+        "lat": 49.15814728,
+        "lon": 8.5826136,
+        "name": "Forst Kronauer Allee",
+        "stop_id": "de:8215:32564"
+    },
+    {
+        "lat": 49.21980244,
+        "lon": 8.64694101,
+        "name": "Bad Sch\u00f6nborn-Kronau Bf",
+        "stop_id": "de:8215:1863"
+    },
+    {
+        "lat": 48.83928402,
+        "lon": 8.20008523,
+        "name": "Rastatt Donaustra\u00dfe",
+        "stop_id": "de:8216:31879"
+    },
+    {
+        "lat": 48.9964804,
+        "lon": 8.81175663,
+        "name": "Maulbronn Schefenacker 2",
+        "stop_id": "de:8236:2217"
+    },
+    {
+        "lat": 48.99711733,
+        "lon": 8.81083863,
+        "name": "Maulbronn Schefenacker 1",
+        "stop_id": "de:8236:2216"
+    },
+    {
+        "lat": 48.72485939,
+        "lon": 8.42369388,
+        "name": "Kaltenbronn Kreuzle",
+        "stop_id": "de:8216:34779"
+    },
+    {
+        "lat": 49.1400463,
+        "lon": 9.23655967,
+        "name": "Heilbronn Finanzamt",
+        "stop_id": "de:8121:3033"
+    },
+    {
+        "lat": 48.84615723,
+        "lon": 8.13692048,
+        "name": "Wintersdorf Bannwaldstra\u00dfe",
+        "stop_id": "de:8216:34616"
+    },
+    {
+        "lat": 48.86259081,
+        "lon": 8.15943958,
+        "name": "Ottersdorf Lindenallee",
+        "stop_id": "de:8216:34859"
+    },
+    {
+        "lat": 49.04903632,
+        "lon": 8.03003327,
+        "name": "Steinfeld Oberdorf",
+        "stop_id": "de:7337:4601"
+    },
+    {
+        "lat": 49.25678896,
+        "lon": 8.10034297,
+        "name": "Hainfeld Dorfbrunnen",
+        "stop_id": "de:7337:7540"
+    },
+    {
+        "lat": 49.06640884,
+        "lon": 8.12210934,
+        "name": "Freckenfeld Unterdorf",
+        "stop_id": "de:7334:32643"
+    },
+    {
+        "lat": 49.28626264,
+        "lon": 8.21619099,
+        "name": "Altdorf Mitte",
+        "stop_id": "de:7337:9098"
+    },
+    {
+        "lat": 49.24420568,
+        "lon": 7.96864268,
+        "name": "Eu\u00dferthal Dorfgemeinschaftsh",
+        "stop_id": "de:7337:8940"
+    },
+    {
+        "lat": 49.17028268,
+        "lon": 8.49401945,
+        "name": "Neudorf Amalienstra\u00dfe",
+        "stop_id": "de:8215:32242"
+    },
+    {
+        "lat": 49.049528,
+        "lon": 8.261083,
+        "name": "W\u00f6rth Bienwaldhalle",
+        "stop_id": "de:7334:1734"
+    },
+    {
+        "lat": 49.2225867,
+        "lon": 8.1099559,
+        "name": "Nu\u00dfdorf Ort",
+        "stop_id": "de:7313:5527"
+    },
+    {
+        "lat": 49.17577275,
+        "lon": 8.49312689,
+        "name": "Graben-Neudorf Nord",
+        "stop_id": "de:8215:32591"
+    },
+    {
+        "lat": 48.48244736,
+        "lon": 8.72321215,
+        "name": "Hochdorf (b. Horb)",
+        "stop_id": "de:8235:9070"
+    },
+    {
+        "lat": 48.65904961,
+        "lon": 8.26527388,
+        "name": "Herrenwies Dorfplatz",
+        "stop_id": "de:8216:32178"
+    },
+    {
+        "lat": 49.13611917,
+        "lon": 8.54501694,
+        "name": "Karlsdorf Rathaus",
+        "stop_id": "de:8215:32047"
+    },
+    {
+        "lat": 48.7163135,
+        "lon": 8.36659311,
+        "name": "Weisenbach Neudorf",
+        "stop_id": "de:8216:31974"
+    },
+    {
+        "lat": 49.15002471,
+        "lon": 9.42314169,
+        "name": "Wieslensdorf",
+        "stop_id": "de:8125:1565"
+    },
+    {
+        "lat": 49.16331847,
+        "lon": 8.49093679,
+        "name": "Graben-Neudorf Bahnhof",
+        "stop_id": "de:8215:32585"
+    },
+    {
+        "lat": 49.22104634,
+        "lon": 8.71658467,
+        "name": "\u00d6stringen Oberdorf",
+        "stop_id": "de:8215:32532"
+    },
+    {
+        "lat": 49.1977279,
+        "lon": 8.03430477,
+        "name": "Ranschbach Unterdorf",
+        "stop_id": "de:7337:2724"
+    },
+    {
+        "lat": 49.14412163,
+        "lon": 8.54953523,
+        "name": "Karlsdorf Bahnhof",
+        "stop_id": "de:8215:32592"
+    },
+    {
+        "lat": 49.13752921,
+        "lon": 8.13436646,
+        "name": "Rohrbach Dorfgem.haus",
+        "stop_id": "de:7337:2703"
+    },
+    {
+        "lat": 48.86213392,
+        "lon": 8.16214579,
+        "name": "Ottersdorf Streibelgrund",
+        "stop_id": "de:8216:34873"
+    },
+    {
+        "lat": 49.14094557,
+        "lon": 8.54674074,
+        "name": "Karlsdorf Br\u00fchlstra\u00dfe",
+        "stop_id": "de:8215:32611"
+    },
+    {
+        "lat": 48.8689675,
+        "lon": 8.20916741,
+        "name": "Rastatt Handelslehranstalt",
+        "stop_id": "de:8216:32610"
+    },
+    {
+        "lat": 48.86323057,
+        "lon": 8.21182013,
+        "name": "Rastatt Stadtfriedhof",
+        "stop_id": "de:8216:33110"
+    },
+    {
+        "lat": 48.86065618,
+        "lon": 8.23141767,
+        "name": "Rastatt Rauentaler Str. West",
+        "stop_id": "de:8216:31985"
+    },
+    {
+        "lat": 48.85968147,
+        "lon": 8.23629792,
+        "name": "Rastatt Rauentaler Str. Ost",
+        "stop_id": "de:8216:31831"
+    },
+    {
+        "lat": 48.86851855,
+        "lon": 8.2132092,
+        "name": "Rastatt R\u00f6ttererbergstra\u00dfe",
+        "stop_id": "de:8216:34651"
+    },
+    {
+        "lat": 48.86149601,
+        "lon": 8.19891356,
+        "name": "Rastatt Oranger Platz",
+        "stop_id": "de:8216:32338"
+    },
+    {
+        "lat": 48.87251615,
+        "lon": 8.20476291,
+        "name": "Rastatt Sparkassenakademie",
+        "stop_id": "de:8216:32014"
+    },
+    {
+        "lat": 48.86340307,
+        "lon": 8.2029038,
+        "name": "Rastatt Am Hasenw\u00e4ldchen",
+        "stop_id": "de:8216:32048"
+    },
+    {
+        "lat": 48.87161199,
+        "lon": 8.21585976,
+        "name": "Rastatt Richard-Strau\u00df-Str.",
+        "stop_id": "de:8216:34656"
+    },
+    {
+        "lat": 48.85736685,
+        "lon": 8.20256356,
+        "name": "Rastatt Marktplatz",
+        "stop_id": "de:8216:33113"
+    },
+    {
+        "lat": 48.94205594,
+        "lon": 8.39306302,
+        "name": "Ettlingen Goethe-/Bachstr.",
+        "stop_id": "de:8215:8020"
+    },
+    {
+        "lat": 48.94604005,
+        "lon": 8.40875524,
+        "name": "Ettlingen Huttenkreuzstr.",
+        "stop_id": "de:8215:4804"
+    },
+    {
+        "lat": 48.94624902,
+        "lon": 8.37671182,
+        "name": "Ettlingen Englerstra\u00dfe",
+        "stop_id": "de:8215:8801"
+    },
+    {
+        "lat": 48.94134567,
+        "lon": 8.38123661,
+        "name": "Ettlingen Einsteinstra\u00dfe",
+        "stop_id": "de:8215:8404"
+    },
+    {
+        "lat": 48.94092991,
+        "lon": 8.39782702,
+        "name": "Ettlingen B.v.Suttner-Schule",
+        "stop_id": "de:8215:1250"
+    },
+    {
+        "lat": 48.94831853,
+        "lon": 8.40071434,
+        "name": "Ettlingen Gabelsberger Str.",
+        "stop_id": "de:8215:37217"
+    },
+    {
+        "lat": 48.93452618,
+        "lon": 8.44227588,
+        "name": "Ettlingen Spinnerei",
+        "stop_id": "de:8215:1237"
+    },
+    {
+        "lat": 48.95301179,
+        "lon": 8.40058986,
+        "name": "Ettlingen Neuwiesenreben",
+        "stop_id": "de:8215:1220"
+    },
+    {
+        "lat": 48.94517016,
+        "lon": 8.39877257,
+        "name": "Ettlingen Wasen",
+        "stop_id": "de:8215:1221"
+    },
+    {
+        "lat": 48.93031848,
+        "lon": 8.38915199,
+        "name": "Ettlingenweier Scheibenh.Str.",
+        "stop_id": "de:8215:9001"
+    },
+    {
+        "lat": 48.92432635,
+        "lon": 8.37510156,
+        "name": "Ettlingenweier Eisenstock",
+        "stop_id": "de:8215:8204"
+    },
+    {
+        "lat": 48.94572213,
+        "lon": 8.39086158,
+        "name": "Ettlingen Zehntwiesenstr.",
+        "stop_id": "de:8215:8010"
     }
 ]

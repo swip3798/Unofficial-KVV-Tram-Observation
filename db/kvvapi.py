@@ -74,11 +74,14 @@ def get_departure(stop_id):
 
 def search_stop(name):
 	url = API_BASE + SEARCH_BASE + name + "?key=" + API_KEY
-	data = json.loads(requests.get(url).text)
-	stops = []
-	for i in data["stops"]:
-		stops.append(Stop.from_json(i))
-	return stops
+	try:
+		data = json.loads(requests.get(url).text)
+		stops = []
+		for i in data["stops"]:
+			stops.append(Stop.from_json(i))
+		return stops
+	except:
+		return None
 
 def get_stop_by_id(stop_id):
 	url = API_BASE + SEARCH_STOP_BASE + stop_id + "?key=" + API_KEY

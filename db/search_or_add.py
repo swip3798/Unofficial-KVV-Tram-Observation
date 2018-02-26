@@ -19,8 +19,9 @@ def main():
 	else:
 		result = kvvapi.get_stop_by_id(input("Enter the id you want to add: "))
 		if result != None:
-			obj = {"stop_id":result.stop_id, "name":result.name, "lat":result.lat, "lon":result.lon}
-			data += obj
+			print(result.stop_id)
+			obj = [{"stop_id":result.stop_id, "name":result.name, "lat":result.lat, "lon":result.lon}]
+			data = data + obj
 			with open("stations_db.json", "w") as f:
 				f.write(json.dumps(data, indent = 4, sort_keys = True))
 
