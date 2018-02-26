@@ -1,5 +1,6 @@
 import requests
 from datetime import datetime,timedelta
+import time
 import re
 import json
 import re
@@ -17,24 +18,25 @@ class Departure(object):
 		self.route = route
 		self.destination = destination
 		self.direction = direction
-		self.time = time
+		self.time = self._str_to_time(time)
+		self.strtime = time
 		self.lowfloor = lowfloor
 		self.realtime = realtime
 		self.traction = traction
 		self.stopPosition = stopPosition
 	def _str_to_time(self, timestr):
-		time = datetime.now()
+		dt = datetime.now()
 
 		# "0" ("sofort")
 		if timestr == "sofort":
-			return time
+			return time.mktime(dt.timetuple())
 
 		# "5 min"
 		re_min = re.compile("^([1-9]) min$")
 		match = re_min.match(timestr)
 		if match:
-			time += timedelta(minutes=int(match.group(1)))
-			return time
+			dt += timedelta(minutes=int(match.group(1)))
+			return time.mktime(dt.timetuple())
 
 		# 14:23
 		re_time = re.compile("^([0-2]?[0-9]):([0-5][0-9])$")
@@ -42,11 +44,11 @@ class Departure(object):
 		if match:
 			hours = int(match.group(1))
 			mins = int(match.group(2))
-			time_new = time.replace(hour=hours, minute=mins)
-			if time_new < time:
+			time_new = dt.replace(hour=hours, minute=mins)
+			if time_new < dt:
 				time_new += timedelta(days=1)
-			time = time_new
-			return time
+			dt = time_new
+			return time.mktime(dt.timetuple())
 	@staticmethod
 	def from_json(json):
 		return Departure(json["route"], json["destination"], json["direction"], json["time"], json["lowfloor"], json["realtime"], json["traction"], json["stopPosition"])
@@ -64,7 +66,7 @@ class 	Stop(object):
 		return Stop(json["name"], json["id"], json["lat"], json["lon"])
 
 
-def get_departure(stop_id):
+def get_departures(stop_id):
 	url = API_BASE + DEPARTURE_BASE + stop_id + "?maxInfos= 10&key=" + API_KEY
 	data = json.loads(requests.get(url).text)
 	dep = []
@@ -93,5 +95,7 @@ def get_stop_by_id(stop_id):
 
 
 if __name__ == '__main__':
-	answer = get_stop_by_id("de:8212:12")
-	print(answer)
+	answer = get_departures("de:8212:12")
+	for i in answer:
+		if (i.destination == "Tivoli über Hbf" and i.route == "3"):
+			print(i.time, i.strtime)

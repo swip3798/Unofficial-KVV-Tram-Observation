@@ -1,0 +1,98 @@
+[
+    {
+        "lat": 49.03623923,
+        "lon": 8.38796542,
+        "name": "Neureut-Heide",
+        "stop_id": "de:8212:13"
+    },
+    {
+        "lat": 49.0313254,
+        "lon": 8.38717784,
+        "name": "Karlsruhe Heidehof",
+        "stop_id": "de:8212:7009"
+    },
+    {
+        "lat": 49.02693241,
+        "lon": 8.38626094,
+        "name": "Karlsruhe Duale Hochschule",
+        "stop_id": "de:8212:12"
+    },
+    {
+        "lat": 49.02234124,
+        "lon": 8.38527828,
+        "name": "Karlsruhe Lilienthalstra\u00dfe",
+        "stop_id": "de:8212:8"
+    },
+    {
+        "lat": 49.0177632,
+        "lon": 8.3850749,
+        "name": "Karlsruhe Synagoge",
+        "stop_id": "de:8212:5"
+    },
+    {
+        "lat": 49.01440389,
+        "lon": 8.38577247,
+        "name": "Karlsruhe Kunstak./Hochschule",
+        "stop_id": "de:8212:7003"
+    },
+    {
+        "lat": 49.010814,
+        "lon": 8.384552,
+        "name": "Karlsruhe M\u00fchlburger Tor (Grashofstr.)",
+        "stop_id": "de:8212:321"
+    },
+    {
+        "lat": 49.00994599,
+        "lon": 8.39640733,
+        "name": "Karlsruhe Europaplatz (Kaiserstr)",
+        "stop_id": "de:8212:31"
+    },
+    {
+        "lat": 49.00827448,
+        "lon": 8.39488296,
+        "name": "Karlsruhe Europaplatz (Karlstr.)",
+        "stop_id": "de:8212:60"
+    },
+    {
+        "lat": 49.00580067,
+        "lon": 8.39469425,
+        "name": "Karlsruhe Karlstor",
+        "stop_id": "de:8212:61"
+    },
+    {
+        "lat": 49.00231931,
+        "lon": 8.3944221,
+        "name": "Karlsruhe Mathystra\u00dfe",
+        "stop_id": "de:8212:62"
+    },
+    {
+        "lat": 48.99746937,
+        "lon": 8.39381127,
+        "name": "Karlsruhe Kolpingplatz",
+        "stop_id": "de:8212:63"
+    },
+    {
+        "lat": 48.99449236,
+        "lon": 8.39540521,
+        "name": "Karlsruhe Ebertstra\u00dfe",
+        "stop_id": "de:8212:91"
+    },
+    {
+        "lat": 48.99449035,
+        "lon": 8.400188,
+        "name": "Karlsruhe Hbf Vorplatz",
+        "stop_id": "de:8212:89"
+    },
+    {
+        "lat": 48.99520111,
+        "lon": 8.40373243,
+        "name": "Karlsruhe Poststra\u00dfe",
+        "stop_id": "de:8212:98"
+    },
+    {
+        "lat": 48.99655965,
+        "lon": 8.410877,
+        "name": "Karlsruhe Tivoli",
+        "stop_id": "de:8212:84"
+    }
+]
