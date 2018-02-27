@@ -8800,5 +8800,707 @@
         "lon": 7.96818171,
         "name": "Annweiler Grundschule",
         "stop_id": "de:7337:4474"
+    },
+    {
+        "lat": 48.75482089,
+        "lon": 8.23901752,
+        "name": "BAD Lichtentaler All./Museen",
+        "stop_id": "de:8211:31901"
+    },
+    {
+        "lat": 49.04926668,
+        "lon": 8.52066611,
+        "name": "Weingarten Walzbachhalle",
+        "stop_id": "de:8215:32244"
+    },
+    {
+        "lat": 48.63910339,
+        "lon": 8.33941871,
+        "name": "Raum\u00fcnzach Wasserfall",
+        "stop_id": "de:8216:32192"
+    },
+    {
+        "lat": 49.03594,
+        "lon": 8.35043,
+        "name": "Egon-Eiermann-Allee",
+        "stop_id": "de:0000:0002"
+    },
+    {
+        "lat": 48.73966749,
+        "lon": 8.17988657,
+        "name": "Gallenbach",
+        "stop_id": "de:8211:31938"
+    },
+    {
+        "lat": 48.85640769,
+        "lon": 8.20691234,
+        "name": "Rastatt Badner Halle",
+        "stop_id": "de:8216:33114"
+    },
+    {
+        "lat": 48.86125385,
+        "lon": 8.50238905,
+        "name": "Ittersbach Wasenhalle",
+        "stop_id": "de:8215:34823"
+    },
+    {
+        "lat": 49.20287169,
+        "lon": 8.13896241,
+        "name": "Landau Hallenbad",
+        "stop_id": "de:7313:5676"
+    },
+    {
+        "lat": 49.21722044,
+        "lon": 8.70406073,
+        "name": "\u00d6stringen Alte Post",
+        "stop_id": "de:8215:32531"
+    },
+    {
+        "lat": 49.20846267,
+        "lon": 8.36170185,
+        "name": "Germersheim Posthius-/H.S.-St",
+        "stop_id": "de:7334:35023"
+    },
+    {
+        "lat": 49.25790939,
+        "lon": 8.00871892,
+        "name": "Ramberg Post",
+        "stop_id": "de:7337:5760"
+    },
+    {
+        "lat": 49.24723966,
+        "lon": 8.0059933,
+        "name": "Dernbach Post",
+        "stop_id": "de:7337:2722"
+    },
+    {
+        "lat": 48.74114262,
+        "lon": 8.12848203,
+        "name": "Weitenung Post",
+        "stop_id": "de:8216:34742"
+    },
+    {
+        "lat": 48.84409798,
+        "lon": 8.37687697,
+        "name": "Freiolsheim Post",
+        "stop_id": "de:8216:8120"
+    },
+    {
+        "lat": 49.15902281,
+        "lon": 8.48338534,
+        "name": "Graben Post",
+        "stop_id": "de:8215:7804"
+    },
+    {
+        "lat": 48.89264775,
+        "lon": 8.42004946,
+        "name": "Sch\u00f6llbronn Post",
+        "stop_id": "de:8215:8112"
+    },
+    {
+        "lat": 48.87026452,
+        "lon": 8.39183266,
+        "name": "V\u00f6lkersbach Post",
+        "stop_id": "de:8215:8117"
+    },
+    {
+        "lat": 49.24432945,
+        "lon": 8.11236688,
+        "name": "Roschbach Ost",
+        "stop_id": "de:7337:4540"
+    },
+    {
+        "lat": 48.86439068,
+        "lon": 8.22109734,
+        "name": "Rastatt Niederwaldstra\u00dfe",
+        "stop_id": "de:8216:34665"
+    },
+    {
+        "lat": 48.86775518,
+        "lon": 8.19382485,
+        "name": "Rastatt Oberwaldstra\u00dfe",
+        "stop_id": "de:8216:34650"
+    },
+    {
+        "lat": 48.80291854,
+        "lon": 8.45044785,
+        "name": "Bad Herrenalb Eichenwaldstr.",
+        "stop_id": "de:8235:9756"
+    },
+    {
+        "lat": 48.67683009,
+        "lon": 8.19558602,
+        "name": "B\u00fchlertal Eichwaldstra\u00dfe",
+        "stop_id": "de:8216:30168"
+    },
+    {
+        "lat": 49.1626209,
+        "lon": 8.62875532,
+        "name": "Ubstadt Uhlandstra\u00dfe",
+        "stop_id": "de:8215:32603"
+    },
+    {
+        "lat": 49.15830274,
+        "lon": 8.6281021,
+        "name": "Ubstadt Stachus",
+        "stop_id": "de:8215:32560"
+    },
+    {
+        "lat": 49.15689208,
+        "lon": 8.62564493,
+        "name": "Ubstadt Ort",
+        "stop_id": "de:8215:31002"
+    },
+    {
+        "lat": 49.16296193,
+        "lon": 8.63135792,
+        "name": "Ubstadt Schulzentrum",
+        "stop_id": "de:8215:32263"
+    },
+    {
+        "lat": 49.16686523,
+        "lon": 8.62326607,
+        "name": "Ubstadt-Weiher",
+        "stop_id": "de:8215:1861"
+    },
+    {
+        "lat": 49.15847321,
+        "lon": 8.63078799,
+        "name": "Ubstadt Rathaus",
+        "stop_id": "de:8215:3181"
+    },
+    {
+        "lat": 49.19286908,
+        "lon": 8.08811229,
+        "name": "Landau Schlettstadter Str.",
+        "stop_id": "de:7313:5687"
+    },
+    {
+        "lat": 48.66840859,
+        "lon": 8.14020478,
+        "name": "Waldmatt Haus Glaser",
+        "stop_id": "de:8216:32208"
+    },
+    {
+        "lat": 49.14414918,
+        "lon": 7.87765452,
+        "name": "Gleichmann",
+        "stop_id": "de:7337:2739"
+    },
+    {
+        "lat": 49.13120013,
+        "lon": 8.00716448,
+        "name": "Gleiszellen",
+        "stop_id": "de:7337:4554"
+    },
+    {
+        "lat": 48.74664742,
+        "lon": 8.24459365,
+        "name": "Baden-Baden Voglergasse",
+        "stop_id": "de:8211:31844"
+    },
+    {
+        "lat": 49.30145978,
+        "lon": 8.03458919,
+        "name": "Edenkoben Lolosruhe (Sch\u00e4nzel)",
+        "stop_id": "de:7337:4480"
+    },
+    {
+        "lat": 49.2830719,
+        "lon": 8.12731316,
+        "name": "Edenkoben Goldenes Eck",
+        "stop_id": "de:7337:5830"
+    },
+    {
+        "lat": 49.29858812,
+        "lon": 8.01396659,
+        "name": "Edenkoben Forsthaus Heldenst.",
+        "stop_id": "de:7337:4481"
+    },
+    {
+        "lat": 49.28086412,
+        "lon": 8.12430092,
+        "name": "Edenkoben Radeburger Str.",
+        "stop_id": "de:7337:5831"
+    },
+    {
+        "lat": 49.28309302,
+        "lon": 8.12892093,
+        "name": "Edenkoben Kath. Kirche",
+        "stop_id": "de:7337:5837"
+    },
+    {
+        "lat": 49.27863053,
+        "lon": 8.11909045,
+        "name": "Edenkoben Abzw. Ludwigsh\u00f6he",
+        "stop_id": "de:7337:5832"
+    },
+    {
+        "lat": 49.28563788,
+        "lon": 8.13974875,
+        "name": "Edenkoben SBK-Markt",
+        "stop_id": "de:7337:4920"
+    },
+    {
+        "lat": 48.81823792,
+        "lon": 8.35114809,
+        "name": "Michelbach Kirche",
+        "stop_id": "de:8216:32149"
+    },
+    {
+        "lat": 49.14695951,
+        "lon": 8.21851415,
+        "name": "Herxheim Kirche",
+        "stop_id": "de:7337:4494"
+    },
+    {
+        "lat": 49.0695636,
+        "lon": 8.68283654,
+        "name": "Neibsheim Kirche",
+        "stop_id": "de:8215:14101"
+    },
+    {
+        "lat": 49.13558383,
+        "lon": 8.08046166,
+        "name": "Ingenheim Kirche",
+        "stop_id": "de:7337:4650"
+    },
+    {
+        "lat": 49.19127363,
+        "lon": 8.22954628,
+        "name": "Ottersheim Kirche",
+        "stop_id": "de:7334:32458"
+    },
+    {
+        "lat": 49.19677202,
+        "lon": 8.46596493,
+        "name": "Huttenheim Kirche",
+        "stop_id": "de:8215:7713"
+    },
+    {
+        "lat": 48.93697982,
+        "lon": 8.25149864,
+        "name": "W\u00fcrmersheim Kirche",
+        "stop_id": "de:8216:32084"
+    },
+    {
+        "lat": 49.06496791,
+        "lon": 8.47152516,
+        "name": "Blankenloch Kirche",
+        "stop_id": "de:8215:32031"
+    },
+    {
+        "lat": 48.69854905,
+        "lon": 8.16178052,
+        "name": "Altschweier Kirche",
+        "stop_id": "de:8216:32230"
+    },
+    {
+        "lat": 48.83786069,
+        "lon": 8.28452623,
+        "name": "Bischweier Kirche",
+        "stop_id": "de:8216:32235"
+    },
+    {
+        "lat": 49.08397255,
+        "lon": 8.56056574,
+        "name": "Untergrombach Steigweg",
+        "stop_id": "de:8215:32267"
+    },
+    {
+        "lat": 49.09073389,
+        "lon": 8.54191314,
+        "name": "Untergrombach Im Sand",
+        "stop_id": "de:8215:32269"
+    },
+    {
+        "lat": 49.0771996,
+        "lon": 8.58180033,
+        "name": "Obergrombach Alter Kindergar.",
+        "stop_id": "de:8215:32278"
+    },
+    {
+        "lat": 49.07822114,
+        "lon": 8.58832091,
+        "name": "Obergrombach Friedhof",
+        "stop_id": "de:8215:32276"
+    },
+    {
+        "lat": 48.68824141,
+        "lon": 8.15533716,
+        "name": "Kappelwindeck Brombachweg",
+        "stop_id": "de:8216:34723"
+    },
+    {
+        "lat": 49.089623,
+        "lon": 8.555933,
+        "name": "Untergromb. Ev. Kirche",
+        "stop_id": "de:8215:3271"
+    },
+    {
+        "lat": 49.089623,
+        "lon": 8.555933,
+        "name": "Untergromb. Bruchs. Str.",
+        "stop_id": "de:8215:3272"
+    },
+    {
+        "lat": 49.089623,
+        "lon": 8.555933,
+        "name": "Untergromb. Bf Ost",
+        "stop_id": "de:8215:3274"
+    },
+    {
+        "lat": 49.06994955,
+        "lon": 7.9705851,
+        "name": "Oberotterbach",
+        "stop_id": "de:7337:4565"
+    },
+    {
+        "lat": 48.86244083,
+        "lon": 8.50239091,
+        "name": "Ittersbach Oberer Wasen",
+        "stop_id": "de:8215:34874"
+    },
+    {
+        "lat": 48.67744469,
+        "lon": 8.14362233,
+        "name": "Rittersbach Haus Roth",
+        "stop_id": "de:8216:34601"
+    },
+    {
+        "lat": 48.74597329,
+        "lon": 8.34770057,
+        "name": "Obertsrot Bahnhof",
+        "stop_id": "de:8216:32153"
+    },
+    {
+        "lat": 48.73764267,
+        "lon": 8.2849572,
+        "name": "Lichtental Oberbeuern",
+        "stop_id": "de:8211:31887"
+    },
+    {
+        "lat": 48.74244012,
+        "lon": 8.26423587,
+        "name": "Lichtental Lichtental",
+        "stop_id": "de:8211:31902"
+    },
+    {
+        "lat": 48.74145974,
+        "lon": 8.2712795,
+        "name": "Lichtental Bildeiche",
+        "stop_id": "de:8211:31959"
+    },
+    {
+        "lat": 48.73909109,
+        "lon": 8.28072198,
+        "name": "Lichtental Lerchenbergweg",
+        "stop_id": "de:8211:31903"
+    },
+    {
+        "lat": 48.73908907,
+        "lon": 8.25771804,
+        "name": "Lichtental H\u00f6llh\u00e4userweg",
+        "stop_id": "de:8211:31920"
+    },
+    {
+        "lat": 48.74442369,
+        "lon": 8.2594343,
+        "name": "Lichtental Brahmsplatz",
+        "stop_id": "de:8211:32370"
+    },
+    {
+        "lat": 48.72748088,
+        "lon": 8.00917048,
+        "name": "Lichtenau Schwanen",
+        "stop_id": "de:8216:34637"
+    },
+    {
+        "lat": 48.72540851,
+        "lon": 8.02026162,
+        "name": "Ulm (Lichtenau) Zinken",
+        "stop_id": "de:8216:37234"
+    },
+    {
+        "lat": 48.72729752,
+        "lon": 8.01295284,
+        "name": "Ulm (Lichtenau) Rathaus",
+        "stop_id": "de:8216:34696"
+    },
+    {
+        "lat": 48.72342251,
+        "lon": 8.00260391,
+        "name": "Lichtenau Sommerfeldstra\u00dfe",
+        "stop_id": "de:8216:34638"
+    },
+    {
+        "lat": 49.20848462,
+        "lon": 8.13802777,
+        "name": "Landau Fichtenstra\u00dfe",
+        "stop_id": "de:7313:6045"
+    },
+    {
+        "lat": 48.81664333,
+        "lon": 8.34903086,
+        "name": "Michelbach Wiesental",
+        "stop_id": "de:8216:32147"
+    },
+    {
+        "lat": 48.7299719,
+        "lon": 8.39139233,
+        "name": "Reichental Rathaus",
+        "stop_id": "de:8216:3200"
+    },
+    {
+        "lat": 49.03974286,
+        "lon": 8.68485897,
+        "name": "Diedelsheim Eichholz",
+        "stop_id": "de:8215:12603"
+    },
+    {
+        "lat": 49.24705774,
+        "lon": 8.3242033,
+        "name": "Westheim S\u00e4ngerheim",
+        "stop_id": "de:7334:30829"
+    },
+    {
+        "lat": 49.18748789,
+        "lon": 8.42746209,
+        "name": "Ru\u00dfheim Huttenheimer Str.",
+        "stop_id": "de:8215:7711"
+    },
+    {
+        "lat": 49.17833218,
+        "lon": 8.42523606,
+        "name": "Ru\u00dfheim Liedolsheimer Stra\u00dfe",
+        "stop_id": "de:8215:7708"
+    },
+    {
+        "lat": 48.90694305,
+        "lon": 8.24831882,
+        "name": "Bietigheim \u00d6tigheimer Weg",
+        "stop_id": "de:8216:32616"
+    },
+    {
+        "lat": 49.2707144,
+        "lon": 8.22528675,
+        "name": "Freimersheim Rathaus",
+        "stop_id": "de:7337:4625"
+    },
+    {
+        "lat": 49.12224597,
+        "lon": 8.34669777,
+        "name": "Leimersheim Festplatz",
+        "stop_id": "de:7334:32477"
+    },
+    {
+        "lat": 49.26881698,
+        "lon": 8.21991635,
+        "name": "Freimersheim Friedhof",
+        "stop_id": "de:7337:9105"
+    },
+    {
+        "lat": 49.12665111,
+        "lon": 8.33707635,
+        "name": "Leimersheim Seelhof",
+        "stop_id": "de:7334:32992"
+    },
+    {
+        "lat": 49.22910726,
+        "lon": 8.41599758,
+        "name": "Rheinsheim Bahnhof",
+        "stop_id": "de:8215:32588"
+    },
+    {
+        "lat": 49.23263581,
+        "lon": 8.40966735,
+        "name": "Rheinsheim Schule",
+        "stop_id": "de:8215:32576"
+    },
+    {
+        "lat": 49.23165918,
+        "lon": 8.41388048,
+        "name": "Rheinsheim O.-Frey-Stra\u00dfe",
+        "stop_id": "de:8215:32577"
+    },
+    {
+        "lat": 49.10518754,
+        "lon": 8.64509798,
+        "name": "Heidelsheim Nord",
+        "stop_id": "de:8215:1833"
+    },
+    {
+        "lat": 49.10149668,
+        "lon": 8.64961604,
+        "name": "Heidelsheim Bahnhof",
+        "stop_id": "de:8215:1834"
+    },
+    {
+        "lat": 49.09721212,
+        "lon": 8.64230667,
+        "name": "Heidelsheim Brettener Str.",
+        "stop_id": "de:8215:12609"
+    },
+    {
+        "lat": 49.10145135,
+        "lon": 8.64361824,
+        "name": "Heidelsheim Marktplatz",
+        "stop_id": "de:8215:12611"
+    },
+    {
+        "lat": 49.28280758,
+        "lon": 9.15835254,
+        "name": "Gundelsheim (Neckar)",
+        "stop_id": "de:8125:4569"
+    },
+    {
+        "lat": 49.04112853,
+        "lon": 8.67866787,
+        "name": "Diedelsheim Rathaus",
+        "stop_id": "de:8215:12604"
+    },
+    {
+        "lat": 49.05968918,
+        "lon": 8.66026794,
+        "name": "Gondelsheim Bahnhof",
+        "stop_id": "de:8215:1837"
+    },
+    {
+        "lat": 49.03929181,
+        "lon": 8.67461756,
+        "name": "Diedelsheim Bahnhof",
+        "stop_id": "de:8215:1838"
+    },
+    {
+        "lat": 49.05975278,
+        "lon": 8.65744884,
+        "name": "Gondelsheim Marktplatz",
+        "stop_id": "de:8215:12606"
+    },
+    {
+        "lat": 49.0456755,
+        "lon": 8.68084089,
+        "name": "Diedelsheim Friedhof",
+        "stop_id": "de:8215:14614"
+    },
+    {
+        "lat": 49.0436726,
+        "lon": 8.67843262,
+        "name": "Diedelsheim J. S. Bach Str.",
+        "stop_id": "de:8215:14615"
+    },
+    {
+        "lat": 49.04303903,
+        "lon": 8.68344296,
+        "name": "Diedelsheim Schule",
+        "stop_id": "de:8215:14605"
+    },
+    {
+        "lat": 49.08502875,
+        "lon": 8.64251739,
+        "name": "Helmsheim Verwaltungsstelle",
+        "stop_id": "de:8215:32279"
+    },
+    {
+        "lat": 49.08459451,
+        "lon": 8.63878322,
+        "name": "Helmsheim Dossentalstra\u00dfe",
+        "stop_id": "de:8215:12647"
+    },
+    {
+        "lat": 49.08692301,
+        "lon": 8.64737755,
+        "name": "Helmsheim Kurpfalzstra\u00dfe",
+        "stop_id": "de:8215:32281"
+    },
+    {
+        "lat": 49.08590123,
+        "lon": 8.65142335,
+        "name": "Helmsheim Bahnhof",
+        "stop_id": "de:8215:1835"
+    },
+    {
+        "lat": 49.22174229,
+        "lon": 8.15311733,
+        "name": "Dammheim Speyerer Str.",
+        "stop_id": "de:7313:4619"
+    },
+    {
+        "lat": 49.14309637,
+        "lon": 9.20754534,
+        "name": "Landau Wilhelm-Schech-Str.",
+        "stop_id": "de:7313:6043"
+    },
+    {
+        "lat": 48.88657094,
+        "lon": 8.23260231,
+        "name": "\u00d6tigheim Br\u00fcchelwaldschule",
+        "stop_id": "de:8216:32833"
+    },
+    {
+        "lat": 48.92849465,
+        "lon": 8.21022018,
+        "name": "Elchesheim Gr\u00fcner Baum",
+        "stop_id": "de:8216:6418"
+    },
+    {
+        "lat": 48.94975575,
+        "lon": 8.23339494,
+        "name": "Au Elchesheimer Str.",
+        "stop_id": "de:8216:6413"
+    },
+    {
+        "lat": 48.93045918,
+        "lon": 8.21611227,
+        "name": "Elchesheim Friedhof",
+        "stop_id": "de:8216:32074"
+    },
+    {
+        "lat": 49.18680501,
+        "lon": 8.05303684,
+        "name": "Ilbesheim Schule",
+        "stop_id": "de:7337:2719"
+    },
+    {
+        "lat": 49.26037144,
+        "lon": 8.1313817,
+        "name": "Edesheim Schule",
+        "stop_id": "de:7337:4483"
+    },
+    {
+        "lat": 49.12110642,
+        "lon": 8.71074313,
+        "name": "M\u00fcnzesheim Schulzentrum",
+        "stop_id": "de:8215:37224"
+    },
+    {
+        "lat": 49.12107441,
+        "lon": 8.72714188,
+        "name": "M\u00fcnzesheim Ost",
+        "stop_id": "de:8215:32006"
+    },
+    {
+        "lat": 49.12608284,
+        "lon": 8.715948,
+        "name": "M\u00fcnzesheim Bahnhof",
+        "stop_id": "de:8215:32005"
+    },
+    {
+        "lat": 49.25619369,
+        "lon": 8.10939293,
+        "name": "Edesheim Siedlung",
+        "stop_id": "de:7337:4482"
+    },
+    {
+        "lat": 49.26575542,
+        "lon": 8.13349932,
+        "name": "Edesheim Extra-Markt",
+        "stop_id": "de:7337:4936"
+    },
+    {
+        "lat": 49.26430224,
+        "lon": 8.13396443,
+        "name": "Edesheim Sparkasse",
+        "stop_id": "de:7337:4935"
     }
 ]
