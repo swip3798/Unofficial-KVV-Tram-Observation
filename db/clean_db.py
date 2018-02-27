@@ -17,3 +17,5 @@ if __name__ == '__main__':
 	data = removeDupDicts(data)
 	with open("stations_db.json", "w") as f:
 		f.write(json.dumps(data, indent = 4, sort_keys = True))
+	print(len(data))
+	input()

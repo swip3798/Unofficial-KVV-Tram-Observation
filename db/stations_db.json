@@ -8458,5 +8458,347 @@
         "lon": 8.24125737,
         "name": "Au W\u00fcrmersheimer Str.",
         "stop_id": "de:8216:6419"
+    },
+    {
+        "lat": 48.73206325,
+        "lon": 8.25730491,
+        "name": "Geroldsau Schmiegrankweg",
+        "stop_id": "de:8211:32375"
+    },
+    {
+        "lat": 48.94518478,
+        "lon": 8.24659785,
+        "name": "Au Industriegebiet",
+        "stop_id": "de:8216:32075"
+    },
+    {
+        "lat": 48.70259916,
+        "lon": 8.12594146,
+        "name": "B\u00fchl Industriegebiet",
+        "stop_id": "de:8216:34686"
+    },
+    {
+        "lat": 49.08555324,
+        "lon": 8.40206264,
+        "name": "Eggenstein Schweriner Str.",
+        "stop_id": "de:8215:1123"
+    },
+    {
+        "lat": 49.08825605,
+        "lon": 8.26866816,
+        "name": "Jockgrim Trifelsstra\u00dfe",
+        "stop_id": "de:7334:1765"
+    },
+    {
+        "lat": 48.69175876,
+        "lon": 8.13131785,
+        "name": "B\u00fchl A.-Stifter-Stra\u00dfe",
+        "stop_id": "de:8216:34730"
+    },
+    {
+        "lat": 48.75930726,
+        "lon": 8.14282995,
+        "name": "Halberstung Schiftunger Str.",
+        "stop_id": "de:8216:1817"
+    },
+    {
+        "lat": 48.76766271,
+        "lon": 8.09708878,
+        "name": "Schiftung",
+        "stop_id": "de:8216:34706"
+    },
+    {
+        "lat": 49.17358478,
+        "lon": 7.94000742,
+        "name": "St. Paulus-Stift",
+        "stop_id": "de:7337:6328"
+    },
+    {
+        "lat": 49.20338854,
+        "lon": 8.13472686,
+        "name": "Landau Parkstift",
+        "stop_id": "de:7313:5904"
+    },
+    {
+        "lat": 49.20758942,
+        "lon": 8.73713722,
+        "name": "\u00d6stringen Ullrichsbruch",
+        "stop_id": "de:8215:32599"
+    },
+    {
+        "lat": 49.20607191,
+        "lon": 8.14368257,
+        "name": "Landau Danziger Platz",
+        "stop_id": "de:7313:5674"
+    },
+    {
+        "lat": 49.20638692,
+        "lon": 8.11041141,
+        "name": "Landau Bethesda",
+        "stop_id": "de:7313:4171"
+    },
+    {
+        "lat": 49.20979897,
+        "lon": 8.1156341,
+        "name": "Landau Daimler",
+        "stop_id": "de:7313:5753"
+    },
+    {
+        "lat": 49.20634195,
+        "lon": 8.11861886,
+        "name": "Landau Aug.-Croissant-Str./BBS",
+        "stop_id": "de:7313:6202:2"
+    },
+    {
+        "lat": 49.18842,
+        "lon": 8.1137654,
+        "name": "Landau Quartier Vauban",
+        "stop_id": "de:7313:6501"
+    },
+    {
+        "lat": 49.20343265,
+        "lon": 8.13102097,
+        "name": "Landau Johanneskirche",
+        "stop_id": "de:7313:5694"
+    },
+    {
+        "lat": 49.19515909,
+        "lon": 8.10382121,
+        "name": "Landau Annweiler Str.",
+        "stop_id": "de:7313:6198"
+    },
+    {
+        "lat": 49.20730884,
+        "lon": 8.11453944,
+        "name": "Landau Sch\u00e4nzel (PalatinaBus)",
+        "stop_id": "de:7313:5535"
+    },
+    {
+        "lat": 49.20077499,
+        "lon": 8.11027881,
+        "name": "Landau Universit\u00e4t/Me\u00dfplatz",
+        "stop_id": "de:7313:5529"
+    },
+    {
+        "lat": 49.19477841,
+        "lon": 8.11274626,
+        "name": "Landau Obertorplatz",
+        "stop_id": "de:7313:5667"
+    },
+    {
+        "lat": 49.19823413,
+        "lon": 8.11663616,
+        "name": "Landau Hauptpost",
+        "stop_id": "de:7313:5668"
+    },
+    {
+        "lat": 49.19859531,
+        "lon": 8.12628954,
+        "name": "Landau Hauptbahnhof",
+        "stop_id": "de:7313:8304"
+    },
+    {
+        "lat": 49.2614759,
+        "lon": 8.00938937,
+        "name": "Ramberg Konrad-Adenauer-Platz",
+        "stop_id": "de:7337:5961"
+    },
+    {
+        "lat": 49.12323928,
+        "lon": 8.52188528,
+        "name": "Neuthard B\u00fcchenauer Str.",
+        "stop_id": "de:8215:32059"
+    },
+    {
+        "lat": 49.09240972,
+        "lon": 8.50988612,
+        "name": "Staffort Lutherstra\u00dfe",
+        "stop_id": "de:8215:32038"
+    },
+    {
+        "lat": 49.09318675,
+        "lon": 8.51289073,
+        "name": "Staffort Br\u00fchlstra\u00dfe",
+        "stop_id": "de:8215:99104"
+    },
+    {
+        "lat": 48.86128371,
+        "lon": 8.19425589,
+        "name": "Rastatt Scheffelstra\u00dfe",
+        "stop_id": "de:8216:31050"
+    },
+    {
+        "lat": 48.86069038,
+        "lon": 8.45913757,
+        "name": "Pfaffenrot Karlsruher Stra\u00dfe",
+        "stop_id": "de:8215:9314"
+    },
+    {
+        "lat": 48.85394438,
+        "lon": 8.48225306,
+        "name": "Pfaffenrot Im Strietw\u00e4lle",
+        "stop_id": "de:8215:9313"
+    },
+    {
+        "lat": 48.85932752,
+        "lon": 8.45998358,
+        "name": "Pfaffenrot Kirche",
+        "stop_id": "de:8215:9316"
+    },
+    {
+        "lat": 48.82813025,
+        "lon": 8.1313055,
+        "name": "Iffezheim Oktorfeld",
+        "stop_id": "de:8216:39004"
+    },
+    {
+        "lat": 49.16341159,
+        "lon": 8.63420655,
+        "name": "Ubstadt Stettfelder Str.",
+        "stop_id": "de:8215:3182"
+    },
+    {
+        "lat": 48.86983199,
+        "lon": 8.19634051,
+        "name": "Rastatt Am K\u00f6pfel",
+        "stop_id": "de:8216:34647"
+    },
+    {
+        "lat": 48.79712076,
+        "lon": 8.49416274,
+        "name": "Dobel Ortsmitte",
+        "stop_id": "de:8235:9504"
+    },
+    {
+        "lat": 49.13723172,
+        "lon": 8.41473435,
+        "name": "Hochstetten Mitte",
+        "stop_id": "de:8215:7703"
+    },
+    {
+        "lat": 49.1475226,
+        "lon": 7.95046024,
+        "name": "Silz Ortsmitte",
+        "stop_id": "de:7337:4646"
+    },
+    {
+        "lat": 49.15123142,
+        "lon": 8.24842675,
+        "name": "Herxheimweyher Mitte",
+        "stop_id": "de:7337:5770"
+    },
+    {
+        "lat": 49.12895441,
+        "lon": 8.52099451,
+        "name": "Neuthard Mitte",
+        "stop_id": "de:8215:32044"
+    },
+    {
+        "lat": 49.11748104,
+        "lon": 8.31882843,
+        "name": "Neupotz Mitte",
+        "stop_id": "de:7334:32461"
+    },
+    {
+        "lat": 49.14483798,
+        "lon": 8.31487614,
+        "name": "Kuhardt Ortsmitte",
+        "stop_id": "de:7334:32478"
+    },
+    {
+        "lat": 49.19304527,
+        "lon": 9.22272511,
+        "name": "Neckarsulm Mitte",
+        "stop_id": "de:8125:31503"
+    },
+    {
+        "lat": 49.20228588,
+        "lon": 9.22881821,
+        "name": "Neckarsulm Nord",
+        "stop_id": "de:8125:31504"
+    },
+    {
+        "lat": 49.18005571,
+        "lon": 9.22089733,
+        "name": "Neckarsulm S\u00fcd",
+        "stop_id": "de:8125:31502"
+    },
+    {
+        "lat": 49.18898568,
+        "lon": 9.22029243,
+        "name": "Neckarsulm Bahnhof",
+        "stop_id": "de:8125:620"
+    },
+    {
+        "lat": 49.04607315,
+        "lon": 8.76834356,
+        "name": "Gro\u00dfvillars Schule",
+        "stop_id": "de:8215:14200"
+    },
+    {
+        "lat": 49.07859354,
+        "lon": 8.18342315,
+        "name": "Kandel Saarstra\u00dfe",
+        "stop_id": "de:7334:32484"
+    },
+    {
+        "lat": 48.87773298,
+        "lon": 8.50992836,
+        "name": "Ittersbach Becker-G\u00f6ring-Str.",
+        "stop_id": "de:8215:34875"
+    },
+    {
+        "lat": 49.07962369,
+        "lon": 8.39958779,
+        "name": "Eggenstein Sp\u00f6cker Weg",
+        "stop_id": "de:8215:1122"
+    },
+    {
+        "lat": 48.98209439,
+        "lon": 8.75075723,
+        "name": "\u00d6lbronn Hindenburgstra\u00dfe",
+        "stop_id": "de:8236:2203"
+    },
+    {
+        "lat": 49.23313812,
+        "lon": 8.0549937,
+        "name": "Frankweiler Am Steigert",
+        "stop_id": "de:7337:4469"
+    },
+    {
+        "lat": 49.20745146,
+        "lon": 7.97724378,
+        "name": "Annweiler Arbeiterheim",
+        "stop_id": "de:7337:4177"
+    },
+    {
+        "lat": 49.20438012,
+        "lon": 7.97059658,
+        "name": "Annweiler Volksgarten",
+        "stop_id": "de:7337:4178"
+    },
+    {
+        "lat": 49.21317864,
+        "lon": 7.98225894,
+        "name": "Annweiler In den Bruchwiesen",
+        "stop_id": "de:7337:4212"
+    },
+    {
+        "lat": 49.21000454,
+        "lon": 7.98022424,
+        "name": "Annweiler Stadion",
+        "stop_id": "de:7337:8917"
+    },
+    {
+        "lat": 49.21573829,
+        "lon": 8.02997335,
+        "name": "Albersweiler Weinstra\u00dfe",
+        "stop_id": "de:7337:8921"
+    },
+    {
+        "lat": 49.20172394,
+        "lon": 7.96818171,
+        "name": "Annweiler Grundschule",
+        "stop_id": "de:7337:4474"
     }
 ]
