@@ -1,0 +1,559 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script>L_PREFER_CANVAS = false; L_NO_TOUCH = false; L_DISABLE_3D = false;</script>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.2.0/dist/leaflet.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.2.0/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css" />
+    <link rel="stylesheet" href="https://rawgit.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css" />
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+            <style> #map_83a04ac9e9bd481187be8d5784a98cd2 {
+                position : relative;
+                width : 100.0%;
+                height: 100.0%;
+                left: 0.0%;
+                top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_83a04ac9e9bd481187be8d5784a98cd2" ></div>
+        
+</body>
+<script>    
+    
+
+            
+                var bounds = null;
+            
+
+            var map_83a04ac9e9bd481187be8d5784a98cd2 = L.map(
+                                  'map_83a04ac9e9bd481187be8d5784a98cd2',
+                                  {center: [25,0],
+                                  zoom: 3,
+                                  maxBounds: bounds,
+                                  layers: [],
+                                  worldCopyJump: false,
+                                  crs: L.CRS.EPSG3857
+                                 });
+            
+        
+    
+            var tile_layer_89eab3af311e4695bfb4842f25835152 = L.tileLayer(
+                'https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png',
+                {
+  "attribution": null,
+  "detectRetina": false,
+  "maxZoom": 18,
+  "minZoom": 1,
+  "noWrap": false,
+  "subdomains": "abc"
+}
+                ).addTo(map_83a04ac9e9bd481187be8d5784a98cd2);
+        
+    
+            var circle_marker_0038396474ea40a7bc5a90dbb8f43f82 = L.circleMarker(
+                [49.03623923,8.38796542],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 5,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_83a04ac9e9bd481187be8d5784a98cd2);
+            
+    
+            var popup_2e224df144a749c0b25383d53842a393 = L.popup({maxWidth: '300'});
+
+            
+                var html_9fd78548a42f4ce69bd6421e7660b3c6 = $('<div id="html_9fd78548a42f4ce69bd6421e7660b3c6" style="width: 100.0%; height: 100.0%;">Neureut\-Heide</div>')[0];
+                popup_2e224df144a749c0b25383d53842a393.setContent(html_9fd78548a42f4ce69bd6421e7660b3c6);
+            
+
+            circle_marker_0038396474ea40a7bc5a90dbb8f43f82.bindPopup(popup_2e224df144a749c0b25383d53842a393);
+
+            
+        
+    
+            var circle_marker_5dacfe233f834491add7a9826456b584 = L.circleMarker(
+                [49.0313254,8.38717784],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 5,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_83a04ac9e9bd481187be8d5784a98cd2);
+            
+    
+            var popup_3f73f0dc830246eb8be1226a2ffac8b4 = L.popup({maxWidth: '300'});
+
+            
+                var html_120c93aa044a476f87f2d94a1ac811a9 = $('<div id="html_120c93aa044a476f87f2d94a1ac811a9" style="width: 100.0%; height: 100.0%;">Karlsruhe\ Heidehof</div>')[0];
+                popup_3f73f0dc830246eb8be1226a2ffac8b4.setContent(html_120c93aa044a476f87f2d94a1ac811a9);
+            
+
+            circle_marker_5dacfe233f834491add7a9826456b584.bindPopup(popup_3f73f0dc830246eb8be1226a2ffac8b4);
+
+            
+        
+    
+            var circle_marker_8a4a75345a5b495dbc574c087749267e = L.circleMarker(
+                [49.02693241,8.38626094],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 5,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_83a04ac9e9bd481187be8d5784a98cd2);
+            
+    
+            var popup_a44085f8c86b4c16947fe77a45cf795c = L.popup({maxWidth: '300'});
+
+            
+                var html_e8a1761aac954a7cbd9d44128436df0f = $('<div id="html_e8a1761aac954a7cbd9d44128436df0f" style="width: 100.0%; height: 100.0%;">Karlsruhe\ Duale\ Hochschule</div>')[0];
+                popup_a44085f8c86b4c16947fe77a45cf795c.setContent(html_e8a1761aac954a7cbd9d44128436df0f);
+            
+
+            circle_marker_8a4a75345a5b495dbc574c087749267e.bindPopup(popup_a44085f8c86b4c16947fe77a45cf795c);
+
+            
+        
+    
+            var circle_marker_332ff5332d1c4846a589b4d4e793237a = L.circleMarker(
+                [49.02234124,8.38527828],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 5,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_83a04ac9e9bd481187be8d5784a98cd2);
+            
+    
+            var popup_39cf88b4d67c4931990fc32822f0c602 = L.popup({maxWidth: '300'});
+
+            
+                var html_7f785b58d7db4e6e86ad2721d2bb7d5f = $('<div id="html_7f785b58d7db4e6e86ad2721d2bb7d5f" style="width: 100.0%; height: 100.0%;">Karlsruhe\ Lilienthalstra\ße</div>')[0];
+                popup_39cf88b4d67c4931990fc32822f0c602.setContent(html_7f785b58d7db4e6e86ad2721d2bb7d5f);
+            
+
+            circle_marker_332ff5332d1c4846a589b4d4e793237a.bindPopup(popup_39cf88b4d67c4931990fc32822f0c602);
+
+            
+        
+    
+            var circle_marker_fb227db590814e71a6243f05acbf423d = L.circleMarker(
+                [49.0177632,8.3850749],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 5,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_83a04ac9e9bd481187be8d5784a98cd2);
+            
+    
+            var popup_916ff72c81094f989b87709370010853 = L.popup({maxWidth: '300'});
+
+            
+                var html_ed6949f177f244b28899f04064d829d5 = $('<div id="html_ed6949f177f244b28899f04064d829d5" style="width: 100.0%; height: 100.0%;">Karlsruhe\ Synagoge</div>')[0];
+                popup_916ff72c81094f989b87709370010853.setContent(html_ed6949f177f244b28899f04064d829d5);
+            
+
+            circle_marker_fb227db590814e71a6243f05acbf423d.bindPopup(popup_916ff72c81094f989b87709370010853);
+
+            
+        
+    
+            var circle_marker_b62c4de4bcd14185814f184055fdffe9 = L.circleMarker(
+                [49.01440389,8.38577247],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 5,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_83a04ac9e9bd481187be8d5784a98cd2);
+            
+    
+            var popup_f14f3da83a464e25a2cdf6c7ef09565b = L.popup({maxWidth: '300'});
+
+            
+                var html_3128706c22d14a1c98d992b4bcbd2a5f = $('<div id="html_3128706c22d14a1c98d992b4bcbd2a5f" style="width: 100.0%; height: 100.0%;">Karlsruhe\ Kunstak\.\/Hochschule</div>')[0];
+                popup_f14f3da83a464e25a2cdf6c7ef09565b.setContent(html_3128706c22d14a1c98d992b4bcbd2a5f);
+            
+
+            circle_marker_b62c4de4bcd14185814f184055fdffe9.bindPopup(popup_f14f3da83a464e25a2cdf6c7ef09565b);
+
+            
+        
+    
+            var circle_marker_c82fcc3d13594e2bb008d1f8d6c419f8 = L.circleMarker(
+                [49.010814,8.384552],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 5,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_83a04ac9e9bd481187be8d5784a98cd2);
+            
+    
+            var popup_fcad6e0c8fa64499be065a16404e0a94 = L.popup({maxWidth: '300'});
+
+            
+                var html_631e2ede5dfe45cbaa976ba9bf2d5ea0 = $('<div id="html_631e2ede5dfe45cbaa976ba9bf2d5ea0" style="width: 100.0%; height: 100.0%;">Karlsruhe\ M\ühlburger\ Tor\ \(Grashofstr\.\)</div>')[0];
+                popup_fcad6e0c8fa64499be065a16404e0a94.setContent(html_631e2ede5dfe45cbaa976ba9bf2d5ea0);
+            
+
+            circle_marker_c82fcc3d13594e2bb008d1f8d6c419f8.bindPopup(popup_fcad6e0c8fa64499be065a16404e0a94);
+
+            
+        
+    
+            var circle_marker_f23f4254a46f4b4898776085690531bc = L.circleMarker(
+                [49.00994599,8.39640733],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 5,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_83a04ac9e9bd481187be8d5784a98cd2);
+            
+    
+            var popup_5afae88dd8f74042bb9e065eff46d8ca = L.popup({maxWidth: '300'});
+
+            
+                var html_31e29f39394847758e144754a4d7fe3c = $('<div id="html_31e29f39394847758e144754a4d7fe3c" style="width: 100.0%; height: 100.0%;">Karlsruhe\ Europaplatz\ \(Kaiserstr\)</div>')[0];
+                popup_5afae88dd8f74042bb9e065eff46d8ca.setContent(html_31e29f39394847758e144754a4d7fe3c);
+            
+
+            circle_marker_f23f4254a46f4b4898776085690531bc.bindPopup(popup_5afae88dd8f74042bb9e065eff46d8ca);
+
+            
+        
+    
+            var circle_marker_10ea062a71e34998ba2a34bb34abeaf4 = L.circleMarker(
+                [49.00827448,8.39488296],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 5,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_83a04ac9e9bd481187be8d5784a98cd2);
+            
+    
+            var popup_746bf6b97748471195ef4dd1de3a4860 = L.popup({maxWidth: '300'});
+
+            
+                var html_7e663c33f64945b7a2b262ef61c7d588 = $('<div id="html_7e663c33f64945b7a2b262ef61c7d588" style="width: 100.0%; height: 100.0%;">Karlsruhe\ Europaplatz\ \(Karlstr\.\)</div>')[0];
+                popup_746bf6b97748471195ef4dd1de3a4860.setContent(html_7e663c33f64945b7a2b262ef61c7d588);
+            
+
+            circle_marker_10ea062a71e34998ba2a34bb34abeaf4.bindPopup(popup_746bf6b97748471195ef4dd1de3a4860);
+
+            
+        
+    
+            var circle_marker_028106377cab42be9e81ce4ec8400940 = L.circleMarker(
+                [49.00580067,8.39469425],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 5,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_83a04ac9e9bd481187be8d5784a98cd2);
+            
+    
+            var popup_f65863d8b1d24a63a851849d4ec0591d = L.popup({maxWidth: '300'});
+
+            
+                var html_32b4822d08e649d4a8babe951e752b41 = $('<div id="html_32b4822d08e649d4a8babe951e752b41" style="width: 100.0%; height: 100.0%;">Karlsruhe\ Karlstor</div>')[0];
+                popup_f65863d8b1d24a63a851849d4ec0591d.setContent(html_32b4822d08e649d4a8babe951e752b41);
+            
+
+            circle_marker_028106377cab42be9e81ce4ec8400940.bindPopup(popup_f65863d8b1d24a63a851849d4ec0591d);
+
+            
+        
+    
+            var circle_marker_26c1f3da0c59492c836d0349f5e4682a = L.circleMarker(
+                [49.00231931,8.3944221],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 5,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_83a04ac9e9bd481187be8d5784a98cd2);
+            
+    
+            var popup_635508a137ea4b98bd69eb627dfd6bf7 = L.popup({maxWidth: '300'});
+
+            
+                var html_0f59ed095f364922ac2b7da891c7c9f9 = $('<div id="html_0f59ed095f364922ac2b7da891c7c9f9" style="width: 100.0%; height: 100.0%;">Karlsruhe\ Mathystra\ße</div>')[0];
+                popup_635508a137ea4b98bd69eb627dfd6bf7.setContent(html_0f59ed095f364922ac2b7da891c7c9f9);
+            
+
+            circle_marker_26c1f3da0c59492c836d0349f5e4682a.bindPopup(popup_635508a137ea4b98bd69eb627dfd6bf7);
+
+            
+        
+    
+            var circle_marker_16f787c4872d45029fac7d7850010500 = L.circleMarker(
+                [48.99746937,8.39381127],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 5,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_83a04ac9e9bd481187be8d5784a98cd2);
+            
+    
+            var popup_0bba19e2e3a942bd9699a44a24dda16b = L.popup({maxWidth: '300'});
+
+            
+                var html_ec6e49e3134c456da7f88f1fd2fad4f4 = $('<div id="html_ec6e49e3134c456da7f88f1fd2fad4f4" style="width: 100.0%; height: 100.0%;">Karlsruhe\ Kolpingplatz</div>')[0];
+                popup_0bba19e2e3a942bd9699a44a24dda16b.setContent(html_ec6e49e3134c456da7f88f1fd2fad4f4);
+            
+
+            circle_marker_16f787c4872d45029fac7d7850010500.bindPopup(popup_0bba19e2e3a942bd9699a44a24dda16b);
+
+            
+        
+    
+            var circle_marker_1edab7f9ecca44de8dd34387a72ab322 = L.circleMarker(
+                [48.99449236,8.39540521],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 5,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_83a04ac9e9bd481187be8d5784a98cd2);
+            
+    
+            var popup_c9d4dab9b7af44d692a806b849949357 = L.popup({maxWidth: '300'});
+
+            
+                var html_4da6bdbba3834afd95a0a22e1dfd8c2d = $('<div id="html_4da6bdbba3834afd95a0a22e1dfd8c2d" style="width: 100.0%; height: 100.0%;">Karlsruhe\ Ebertstra\ße</div>')[0];
+                popup_c9d4dab9b7af44d692a806b849949357.setContent(html_4da6bdbba3834afd95a0a22e1dfd8c2d);
+            
+
+            circle_marker_1edab7f9ecca44de8dd34387a72ab322.bindPopup(popup_c9d4dab9b7af44d692a806b849949357);
+
+            
+        
+    
+            var circle_marker_7e66dd83e35845eca61e1d6dbadb4ffd = L.circleMarker(
+                [48.99449035,8.400188],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 5,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_83a04ac9e9bd481187be8d5784a98cd2);
+            
+    
+            var popup_fc15be23be7c4ed8aea00c2af6c0c288 = L.popup({maxWidth: '300'});
+
+            
+                var html_4ce2fef0bc4f49dc88794dadc8cb9f38 = $('<div id="html_4ce2fef0bc4f49dc88794dadc8cb9f38" style="width: 100.0%; height: 100.0%;">Karlsruhe\ Hbf\ Vorplatz</div>')[0];
+                popup_fc15be23be7c4ed8aea00c2af6c0c288.setContent(html_4ce2fef0bc4f49dc88794dadc8cb9f38);
+            
+
+            circle_marker_7e66dd83e35845eca61e1d6dbadb4ffd.bindPopup(popup_fc15be23be7c4ed8aea00c2af6c0c288);
+
+            
+        
+    
+            var circle_marker_6a2692b692164d3e9e74fe1eedb4057e = L.circleMarker(
+                [48.99520111,8.40373243],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 5,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_83a04ac9e9bd481187be8d5784a98cd2);
+            
+    
+            var popup_075b6fbd1cd84ba590c38fc9e8c56a6b = L.popup({maxWidth: '300'});
+
+            
+                var html_abd85e46fd74422e8a7abb09175810d6 = $('<div id="html_abd85e46fd74422e8a7abb09175810d6" style="width: 100.0%; height: 100.0%;">Karlsruhe\ Poststra\ße</div>')[0];
+                popup_075b6fbd1cd84ba590c38fc9e8c56a6b.setContent(html_abd85e46fd74422e8a7abb09175810d6);
+            
+
+            circle_marker_6a2692b692164d3e9e74fe1eedb4057e.bindPopup(popup_075b6fbd1cd84ba590c38fc9e8c56a6b);
+
+            
+        
+</script>

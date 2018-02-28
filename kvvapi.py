@@ -5,6 +5,7 @@ import re
 import json
 import re
 import sys
+from time import mktime
 
 
 API_KEY = "377d840e54b59adbe53608ba1aad70e8"
@@ -14,7 +15,7 @@ SEARCH_BASE = "stops/byname/"
 SEARCH_STOP_BASE ="stops/bystop/"
 
 class Departure(object):
-	def __init__(self, route, destination, direction, time, lowfloor, realtime, traction, stopPosition):
+	def __init__(self, route, destination, direction, time, lowfloor, realtime, traction, stopPosition, stop_id):
 		self.route = route
 		self.destination = destination
 		self.direction = direction
@@ -24,11 +25,12 @@ class Departure(object):
 		self.realtime = realtime
 		self.traction = traction
 		self.stopPosition = stopPosition
+		self.stop_id = stop_id
 	def _str_to_time(self, timestr):
 		dt = datetime.now()
 
 		# "0" ("sofort")
-		if timestr == "sofort":
+		if timestr == "0":
 			return time.mktime(dt.timetuple())
 
 		# "5 min"
@@ -51,7 +53,7 @@ class Departure(object):
 			return time.mktime(dt.timetuple())
 	@staticmethod
 	def from_json(json):
-		return Departure(json["route"], json["destination"], json["direction"], json["time"], json["lowfloor"], json["realtime"], json["traction"], json["stopPosition"])
+		return Departure(json["route"], json["destination"], json["direction"], json["time"], json["lowfloor"], json["realtime"], json["traction"], json["stopPosition"], json["stop_id"])
 
 
 class 	Stop(object):
@@ -67,10 +69,11 @@ class 	Stop(object):
 
 
 def get_departures(stop_id):
-	url = API_BASE + DEPARTURE_BASE + stop_id + "?maxInfos= 10&key=" + API_KEY
+	url = API_BASE + DEPARTURE_BASE + stop_id + "?maxInfos=30&key=" + API_KEY
 	data = json.loads(requests.get(url).text)
 	dep = []
 	for i in data["departures"]:
+		i["stop_id"] = data["stopName"]
 		dep.append(Departure.from_json(i))
 	return dep
 
@@ -95,6 +98,6 @@ def get_stop_by_id(stop_id):
 
 
 if __name__ == '__main__':
-	answer = get_departures("de:8212:23")
+	answer = get_departures("de:8212:31")
 	for i in answer:
 		print(i.route, i.destination, i.time, i.strtime)

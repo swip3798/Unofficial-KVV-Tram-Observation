@@ -88,11 +88,5 @@
         "lon": 8.40373243,
         "name": "Karlsruhe Poststra\u00dfe",
         "stop_id": "de:8212:98"
-    },
-    {
-        "lat": 48.99655965,
-        "lon": 8.410877,
-        "name": "Karlsruhe Tivoli",
-        "stop_id": "de:8212:84"
     }
 ]

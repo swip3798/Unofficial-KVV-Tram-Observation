@@ -1,0 +1,580 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script>L_PREFER_CANVAS = false; L_NO_TOUCH = false; L_DISABLE_3D = false;</script>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.2.0/dist/leaflet.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.2.0/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css" />
+    <link rel="stylesheet" href="https://rawgit.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css" />
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+            <style> #map_3044c8cda42241f4954c0d007c09a3c7 {
+                position : relative;
+                width : 100.0%;
+                height: 100.0%;
+                left: 0.0%;
+                top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_3044c8cda42241f4954c0d007c09a3c7" ></div>
+        
+</body>
+<script>    
+    
+
+            
+                var bounds = null;
+            
+
+            var map_3044c8cda42241f4954c0d007c09a3c7 = L.map(
+                                  'map_3044c8cda42241f4954c0d007c09a3c7',
+                                  {center: [49.00994599,8.39640733],
+                                  zoom: 14,
+                                  maxBounds: bounds,
+                                  layers: [],
+                                  worldCopyJump: false,
+                                  crs: L.CRS.EPSG3857
+                                 });
+            
+        
+    
+            var tile_layer_522b94f785be4fc984f68563a9ca8e05 = L.tileLayer(
+                'https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png',
+                {
+  "attribution": null,
+  "detectRetina": false,
+  "maxZoom": 18,
+  "minZoom": 1,
+  "noWrap": false,
+  "subdomains": "abc"
+}
+                ).addTo(map_3044c8cda42241f4954c0d007c09a3c7);
+        
+    
+            var circle_marker_30bbc1955251487896164f46e1937907 = L.circleMarker(
+                [49.03623923,8.38796542],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 8,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_3044c8cda42241f4954c0d007c09a3c7);
+            
+    
+            var popup_091399998de04032ad660425c01385f7 = L.popup({maxWidth: '300'});
+
+            
+                var html_0774f4def7db4e3b8503ec4c6be7f990 = $('<div id="html_0774f4def7db4e3b8503ec4c6be7f990" style="width: 100.0%; height: 100.0%;">Neureut\-Heide\<br\>3\ Tivoli\ \über\ Hbf\ 8\ min\<br\>3\ Tivoli\ \über\ Hbf\ 12\:05\<br\>3\ Tivoli\ \über\ Hbf\ 12\:15\<br\>3\ Tivoli\ \über\ Hbf\ 12\:25\<br\>3\ Tivoli\ \über\ Hbf\ 12\:35\<br\>3\ Tivoli\ \über\ Hbf\ 12\:45\<br\></div>')[0];
+                popup_091399998de04032ad660425c01385f7.setContent(html_0774f4def7db4e3b8503ec4c6be7f990);
+            
+
+            circle_marker_30bbc1955251487896164f46e1937907.bindPopup(popup_091399998de04032ad660425c01385f7);
+
+            
+        
+    
+            var circle_marker_133b3c80347041b8b04ad9a7f75b08d9 = L.circleMarker(
+                [49.0313254,8.38717784],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 8,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_3044c8cda42241f4954c0d007c09a3c7);
+            
+    
+            var popup_2dee0e13c9f547adb4746acb54b04f9a = L.popup({maxWidth: '300'});
+
+            
+                var html_edc298ddc7de4f1ea0807166f29a756f = $('<div id="html_edc298ddc7de4f1ea0807166f29a756f" style="width: 100.0%; height: 100.0%;">Karlsruhe\ Heidehof\<br\>3\ Tivoli\ \über\ Hbf\ 0\<br\>3\ Tivoli\ \über\ Hbf\ 9\ min\<br\>3\ Tivoli\ \über\ Hbf\ 12\:06\<br\>3\ Tivoli\ \über\ Hbf\ 12\:16\<br\></div>')[0];
+                popup_2dee0e13c9f547adb4746acb54b04f9a.setContent(html_edc298ddc7de4f1ea0807166f29a756f);
+            
+
+            circle_marker_133b3c80347041b8b04ad9a7f75b08d9.bindPopup(popup_2dee0e13c9f547adb4746acb54b04f9a);
+
+            
+        
+    
+            var circle_marker_8e17e6c986f94a2d96b7fb41fe8b4e8d = L.circleMarker(
+                [49.02693241,8.38626094],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 8,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_3044c8cda42241f4954c0d007c09a3c7);
+            
+    
+            var popup_d32cbc431bb2494c85a86ec30666f834 = L.popup({maxWidth: '300'});
+
+            
+                var html_394c4dc9124346899f48e290ba467bad = $('<div id="html_394c4dc9124346899f48e290ba467bad" style="width: 100.0%; height: 100.0%;">Karlsruhe\ Duale\ Hochschule\<br\>3\ Tivoli\ \über\ Hbf\ 1\ min\<br\>3\ Tivoli\ \über\ Hbf\ 11\:57\<br\>3\ Tivoli\ \über\ Hbf\ 12\:07\<br\>3\ Tivoli\ \über\ Hbf\ 12\:17\<br\>3\ Tivoli\ \über\ Hbf\ 12\:27\<br\></div>')[0];
+                popup_d32cbc431bb2494c85a86ec30666f834.setContent(html_394c4dc9124346899f48e290ba467bad);
+            
+
+            circle_marker_8e17e6c986f94a2d96b7fb41fe8b4e8d.bindPopup(popup_d32cbc431bb2494c85a86ec30666f834);
+
+            
+        
+    
+            var circle_marker_dc8ca6aab3c24ba684a9980e82a715a9 = L.circleMarker(
+                [49.02234124,8.38527828],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 8,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_3044c8cda42241f4954c0d007c09a3c7);
+            
+    
+            var popup_74cbb004072f44348777f570ed530a7b = L.popup({maxWidth: '300'});
+
+            
+                var html_8bb6e93176db4235b306db219a6da250 = $('<div id="html_8bb6e93176db4235b306db219a6da250" style="width: 100.0%; height: 100.0%;">Karlsruhe\ Lilienthalstra\ße\<br\>3\ Tivoli\ \über\ Hbf\ 2\ min\<br\>3\ Tivoli\ \über\ Hbf\ 11\:58\<br\>3\ Tivoli\ \über\ Hbf\ 12\:08\<br\>3\ Tivoli\ \über\ Hbf\ 12\:18\<br\>3\ Tivoli\ \über\ Hbf\ 12\:28\<br\></div>')[0];
+                popup_74cbb004072f44348777f570ed530a7b.setContent(html_8bb6e93176db4235b306db219a6da250);
+            
+
+            circle_marker_dc8ca6aab3c24ba684a9980e82a715a9.bindPopup(popup_74cbb004072f44348777f570ed530a7b);
+
+            
+        
+    
+            var circle_marker_3e944999aa36423696c9cb9a05b022f4 = L.circleMarker(
+                [49.0177632,8.3850749],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 8,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_3044c8cda42241f4954c0d007c09a3c7);
+            
+    
+            var popup_57910f6af4944442a54d0fe155b56c14 = L.popup({maxWidth: '300'});
+
+            
+                var html_c0269e1aeec74daeaa30d1b9602e1bdf = $('<div id="html_c0269e1aeec74daeaa30d1b9602e1bdf" style="width: 100.0%; height: 100.0%;">Karlsruhe\ Synagoge\<br\>3\ Tivoli\ \über\ Hbf\ 3\ min\<br\>3\ Tivoli\ \über\ Hbf\ 11\:59\<br\>3\ Tivoli\ \über\ Hbf\ 12\:09\<br\>3\ Tivoli\ \über\ Hbf\ 12\:19\<br\>3\ Tivoli\ \über\ Hbf\ 12\:29\<br\></div>')[0];
+                popup_57910f6af4944442a54d0fe155b56c14.setContent(html_c0269e1aeec74daeaa30d1b9602e1bdf);
+            
+
+            circle_marker_3e944999aa36423696c9cb9a05b022f4.bindPopup(popup_57910f6af4944442a54d0fe155b56c14);
+
+            
+        
+    
+            var circle_marker_074c83955169463cb9b987e5ff695868 = L.circleMarker(
+                [49.01440389,8.38577247],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 8,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_3044c8cda42241f4954c0d007c09a3c7);
+            
+    
+            var popup_6f266ed815294019905ff04d34afd0cd = L.popup({maxWidth: '300'});
+
+            
+                var html_a93b45dd50534ab8b5236ac54b52be58 = $('<div id="html_a93b45dd50534ab8b5236ac54b52be58" style="width: 100.0%; height: 100.0%;">Karlsruhe\ Kunstak\.\/Hochschule\<br\>3\ Tivoli\ \über\ Hbf\ 4\ min\<br\>3\ Tivoli\ \über\ Hbf\ 12\:00\<br\>3\ Tivoli\ \über\ Hbf\ 12\:10\<br\>3\ Tivoli\ \über\ Hbf\ 12\:20\<br\>3\ Tivoli\ \über\ Hbf\ 12\:30\<br\></div>')[0];
+                popup_6f266ed815294019905ff04d34afd0cd.setContent(html_a93b45dd50534ab8b5236ac54b52be58);
+            
+
+            circle_marker_074c83955169463cb9b987e5ff695868.bindPopup(popup_6f266ed815294019905ff04d34afd0cd);
+
+            
+        
+    
+            var circle_marker_cb3c8d2426744f32bf5efa378b13e22d = L.circleMarker(
+                [49.010814,8.384552],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 8,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_3044c8cda42241f4954c0d007c09a3c7);
+            
+    
+            var popup_a9a54112e89a498d9a6524b28360f8bd = L.popup({maxWidth: '300'});
+
+            
+                var html_46a3a631d3a1463fb5a490aa9267e0d2 = $('<div id="html_46a3a631d3a1463fb5a490aa9267e0d2" style="width: 100.0%; height: 100.0%;">Karlsruhe\ M\ühlburger\ Tor\ \(Grashofstr\.\)\<br\>3\ Tivoli\ \über\ Hbf\ 6\ min\<br\>3\ Tivoli\ \über\ Hbf\ 12\:02\<br\>3\ Tivoli\ \über\ Hbf\ 12\:12\<br\>3\ Tivoli\ \über\ Hbf\ 12\:22\<br\>3\ Tivoli\ \über\ Hbf\ 12\:32\<br\></div>')[0];
+                popup_a9a54112e89a498d9a6524b28360f8bd.setContent(html_46a3a631d3a1463fb5a490aa9267e0d2);
+            
+
+            circle_marker_cb3c8d2426744f32bf5efa378b13e22d.bindPopup(popup_a9a54112e89a498d9a6524b28360f8bd);
+
+            
+        
+    
+            var circle_marker_5861e4de71a44555923503208c8f8f36 = L.circleMarker(
+                [49.00994599,8.39640733],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 8,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_3044c8cda42241f4954c0d007c09a3c7);
+            
+    
+            var popup_eaa2fc011a8f4506ac22c4c5577b254f = L.popup({maxWidth: '300'});
+
+            
+                var html_68f1e03f483f41248f9d935b60a6cad9 = $('<div id="html_68f1e03f483f41248f9d935b60a6cad9" style="width: 100.0%; height: 100.0%;">Karlsruhe\ Europaplatz\ \(Kaiserstr\)\<br\>3\ Tivoli\ \über\ Hbf\ 0\<br\></div>')[0];
+                popup_eaa2fc011a8f4506ac22c4c5577b254f.setContent(html_68f1e03f483f41248f9d935b60a6cad9);
+            
+
+            circle_marker_5861e4de71a44555923503208c8f8f36.bindPopup(popup_eaa2fc011a8f4506ac22c4c5577b254f);
+
+            
+        
+    
+            var circle_marker_120a949a26294a858ba5f941d10a3909 = L.circleMarker(
+                [49.00827448,8.39488296],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 8,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_3044c8cda42241f4954c0d007c09a3c7);
+            
+    
+            var popup_a130b7d06f2041468e6db3dc93f433c6 = L.popup({maxWidth: '300'});
+
+            
+                var html_f02ef26be5d24a5b9330f91343091895 = $('<div id="html_f02ef26be5d24a5b9330f91343091895" style="width: 100.0%; height: 100.0%;">Karlsruhe\ Europaplatz\ \(Karlstr\.\)\<br\>3\ Tivoli\ \über\ Hbf\ 1\ min\<br\></div>')[0];
+                popup_a130b7d06f2041468e6db3dc93f433c6.setContent(html_f02ef26be5d24a5b9330f91343091895);
+            
+
+            circle_marker_120a949a26294a858ba5f941d10a3909.bindPopup(popup_a130b7d06f2041468e6db3dc93f433c6);
+
+            
+        
+    
+            var circle_marker_ec2b5252e98e43e189454ad125699fff = L.circleMarker(
+                [49.00580067,8.39469425],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 8,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_3044c8cda42241f4954c0d007c09a3c7);
+            
+    
+            var popup_3746199d4e164b409ed0661c95a67261 = L.popup({maxWidth: '300'});
+
+            
+                var html_f33e4fd45dbd48899927e03639c329ee = $('<div id="html_f33e4fd45dbd48899927e03639c329ee" style="width: 100.0%; height: 100.0%;">Karlsruhe\ Karlstor\<br\>3\ Tivoli\ \über\ Hbf\ 3\ min\<br\></div>')[0];
+                popup_3746199d4e164b409ed0661c95a67261.setContent(html_f33e4fd45dbd48899927e03639c329ee);
+            
+
+            circle_marker_ec2b5252e98e43e189454ad125699fff.bindPopup(popup_3746199d4e164b409ed0661c95a67261);
+
+            
+        
+    
+            var circle_marker_4fddb947c79440b6a3fd5b9eb449f770 = L.circleMarker(
+                [49.00231931,8.3944221],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 8,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_3044c8cda42241f4954c0d007c09a3c7);
+            
+    
+            var popup_c4158aca27d24e18bffffdd1b6e381ca = L.popup({maxWidth: '300'});
+
+            
+                var html_617040948d184902b8a4f650bc01f7d3 = $('<div id="html_617040948d184902b8a4f650bc01f7d3" style="width: 100.0%; height: 100.0%;">Karlsruhe\ Mathystra\ße\<br\>3\ Tivoli\ \über\ Hbf\ 3\ min\<br\></div>')[0];
+                popup_c4158aca27d24e18bffffdd1b6e381ca.setContent(html_617040948d184902b8a4f650bc01f7d3);
+            
+
+            circle_marker_4fddb947c79440b6a3fd5b9eb449f770.bindPopup(popup_c4158aca27d24e18bffffdd1b6e381ca);
+
+            
+        
+    
+            var circle_marker_8952f8191a664d449b1bc97fa789fea2 = L.circleMarker(
+                [48.99746937,8.39381127],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 8,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_3044c8cda42241f4954c0d007c09a3c7);
+            
+    
+            var popup_4e066e9fbc724067a45c2b989f0f1f52 = L.popup({maxWidth: '300'});
+
+            
+                var html_37e2e97068f4443699ab55c95dfdb631 = $('<div id="html_37e2e97068f4443699ab55c95dfdb631" style="width: 100.0%; height: 100.0%;">Karlsruhe\ Kolpingplatz\<br\>3\ Tivoli\ \über\ Hbf\ 4\ min\<br\>3\ Tivoli\ \über\ Hbf\ 12\:00\<br\></div>')[0];
+                popup_4e066e9fbc724067a45c2b989f0f1f52.setContent(html_37e2e97068f4443699ab55c95dfdb631);
+            
+
+            circle_marker_8952f8191a664d449b1bc97fa789fea2.bindPopup(popup_4e066e9fbc724067a45c2b989f0f1f52);
+
+            
+        
+    
+            var circle_marker_dcde0ca656e74aac8f53279d84a97db5 = L.circleMarker(
+                [48.99449236,8.39540521],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 8,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_3044c8cda42241f4954c0d007c09a3c7);
+            
+    
+            var popup_ab504f71af9a48bbb4814fc933cb88aa = L.popup({maxWidth: '300'});
+
+            
+                var html_7166f4ff5f02439db0f257b25eb36583 = $('<div id="html_7166f4ff5f02439db0f257b25eb36583" style="width: 100.0%; height: 100.0%;">Karlsruhe\ Ebertstra\ße\<br\>3\ Tivoli\ \über\ Hbf\ 0\<br\>3\ Tivoli\ \über\ Hbf\ 7\ min\<br\></div>')[0];
+                popup_ab504f71af9a48bbb4814fc933cb88aa.setContent(html_7166f4ff5f02439db0f257b25eb36583);
+            
+
+            circle_marker_dcde0ca656e74aac8f53279d84a97db5.bindPopup(popup_ab504f71af9a48bbb4814fc933cb88aa);
+
+            
+        
+    
+            var circle_marker_b943c378266140e2a2a61f49e3731805 = L.circleMarker(
+                [48.99449035,8.400188],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 8,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_3044c8cda42241f4954c0d007c09a3c7);
+            
+    
+            var popup_238a00edb0e4494eb4c844cac5cadaa0 = L.popup({maxWidth: '300'});
+
+            
+                var html_a5aaec68c0cc4b9281df3f69bebbb1a8 = $('<div id="html_a5aaec68c0cc4b9281df3f69bebbb1a8" style="width: 100.0%; height: 100.0%;">Karlsruhe\ Hbf\ Vorplatz\<br\>3\ Tivoli\ 1\ min\<br\></div>')[0];
+                popup_238a00edb0e4494eb4c844cac5cadaa0.setContent(html_a5aaec68c0cc4b9281df3f69bebbb1a8);
+            
+
+            circle_marker_b943c378266140e2a2a61f49e3731805.bindPopup(popup_238a00edb0e4494eb4c844cac5cadaa0);
+
+            
+        
+    
+            var circle_marker_91caf85b1ea34bca819f3a11854c1b83 = L.circleMarker(
+                [48.99520111,8.40373243],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 8,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_3044c8cda42241f4954c0d007c09a3c7);
+            
+    
+            var popup_dd1f95f124ba423d874ec1c7adf94aa6 = L.popup({maxWidth: '300'});
+
+            
+                var html_9123a78b1dfc4523a635a48d6ca73a0b = $('<div id="html_9123a78b1dfc4523a635a48d6ca73a0b" style="width: 100.0%; height: 100.0%;">Karlsruhe\ Poststra\ße\<br\>3\ Tivoli\ 2\ min\<br\></div>')[0];
+                popup_dd1f95f124ba423d874ec1c7adf94aa6.setContent(html_9123a78b1dfc4523a635a48d6ca73a0b);
+            
+
+            circle_marker_91caf85b1ea34bca819f3a11854c1b83.bindPopup(popup_dd1f95f124ba423d874ec1c7adf94aa6);
+
+            
+        
+    
+                var poly_line_da7b82f7b15d4512924a6b7a3bc64344 = L.polyline(
+                    [[49.03623923, 8.38796542], [49.0313254, 8.38717784], [49.02693241, 8.38626094], [49.02234124, 8.38527828], [49.0177632, 8.3850749], [49.01440389, 8.38577247], [49.010814, 8.384552], [49.00994599, 8.39640733], [49.00827448, 8.39488296], [49.00580067, 8.39469425], [49.00231931, 8.3944221], [48.99746937, 8.39381127], [48.99449236, 8.39540521], [48.99449035, 8.400188], [48.99520111, 8.40373243]],
+                    {
+  "bubblingMouseEvents": true,
+  "color": "#03f",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#03f",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "noClip": false,
+  "opacity": 1.0,
+  "smoothFactor": 1.0,
+  "stroke": true,
+  "weight": 3
+}).addTo(map_3044c8cda42241f4954c0d007c09a3c7);
+            
+</script>
