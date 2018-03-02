@@ -45,7 +45,7 @@ def find_trams(route_id, destination1, destination2):
 
 def load_observation(route_id, destination1, destination2, map_style, filename):
 	answer = find_trams(str(route_id), destination1, destination2)
-	map = interactive_map.Map(answer[0], map_style, [49.00994599, 8.39640733])
+	map = interactive_map.Map(answer[0], map_style, [49.0177632, 8.3850749])
 	map.render_marker(answer[2])
 	for i in answer[3]:
 		map.render_single_marker(i, color = "#aaa")

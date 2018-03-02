@@ -4,6 +4,42 @@
 		"selected_items":
 		[
 			[
+				"map",
+				"map_style"
+			],
+			[
+				"de",
+				"destination2"
+			],
+			[
+				"des",
+				"destination1"
+			],
+			[
+				"r",
+				"route"
+			],
+			[
+				"load",
+				"load_observation"
+			],
+			[
+				"re",
+				"reloadIFrame"
+			],
+			[
+				"vi",
+				"visibilityState"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"loca",
+				"location"
+			],
+			[
 				"po",
 				"positions"
 			],
@@ -36,10 +72,6 @@
 				"results"
 			],
 			[
-				"de",
-				"destination2"
-			],
-			[
 				"rou",
 				"route_id"
 			],
@@ -66,10 +98,6 @@
 			[
 				"cl",
 				"cleanCSV"
-			],
-			[
-				"re",
-				"removeDupDicts"
 			],
 			[
 				"read",
@@ -198,10 +226,6 @@
 			[
 				"ra",
 				"range"
-			],
-			[
-				"r",
-				"ratio"
 			],
 			[
 				"He",
@@ -490,30 +514,6 @@
 			[
 				"o",
 				"oColumn"
-			],
-			[
-				"size",
-				"sizeNames"
-			],
-			[
-				"szie",
-				"sizeNames"
-			],
-			[
-				"pass",
-				"passwords_"
-			],
-			[
-				"filn",
-				"finalName"
-			],
-			[
-				"fil",
-				"finalText"
-			],
-			[
-				"token",
-				"token_hex"
 			]
 		]
 	},
@@ -523,7 +523,7 @@
 			"file": "/C/Users/d070527/Documents/Private/Programming/Python/Unofficial-KVV-Tram-Observation/kvvapi.py",
 			"settings":
 			{
-				"buffer_size": 2805,
+				"buffer_size": 2793,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -541,7 +541,25 @@
 			"file": "/C/Users/d070527/Documents/Private/Programming/Python/Unofficial-KVV-Tram-Observation/find_tram_position.py",
 			"settings":
 			{
-				"buffer_size": 1501,
+				"buffer_size": 2143,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/d070527/Documents/Private/Programming/Python/Unofficial-KVV-Tram-Observation/index.html",
+			"settings":
+			{
+				"buffer_size": 603,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/d070527/Documents/Private/Programming/Python/Unofficial-KVV-Tram-Observation/style.css",
+			"settings":
+			{
+				"buffer_size": 39,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -550,7 +568,7 @@
 			"file": "/C/Users/d070527/Documents/Private/Programming/Python/Unofficial-KVV-Tram-Observation/interactive_map.py",
 			"settings":
 			{
-				"buffer_size": 1369,
+				"buffer_size": 1830,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -834,6 +852,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"i",
 			"\"\\n\"",
 			"loc_data",
 			"time",
@@ -867,7 +886,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -876,15 +895,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2805,
+						"buffer_size": 2793,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1980,
-								1980
+								1969,
+								1969
 							]
 						],
 						"settings":
@@ -893,10 +912,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 644.0,
+						"translation.y": 698.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
@@ -925,7 +944,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
@@ -934,48 +953,49 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1501,
+						"buffer_size": 2143,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1475,
-								1475
+								1457,
+								1457
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 126.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "/C/Users/d070527/Documents/Private/Programming/Python/Unofficial-KVV-Tram-Observation/interactive_map.py",
+					"file": "/C/Users/d070527/Documents/Private/Programming/Python/Unofficial-KVV-Tram-Observation/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1369,
+						"buffer_size": 603,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								830,
-								830
+								203,
+								203
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -986,6 +1006,63 @@
 				},
 				{
 					"buffer": 4,
+					"file": "/C/Users/d070527/Documents/Private/Programming/Python/Unofficial-KVV-Tram-Observation/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 39,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36,
+								36
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/d070527/Documents/Private/Programming/Python/Unofficial-KVV-Tram-Observation/interactive_map.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1830,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								133,
+								133
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
 					"file": "3_Tivoli.json",
 					"semi_transient": false,
 					"settings":
@@ -997,8 +1074,8 @@
 						"selection":
 						[
 							[
-								1596,
-								1596
+								628,
+								584
 							]
 						],
 						"settings":
@@ -1015,7 +1092,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 7,
 					"file": "create_route.py",
 					"semi_transient": false,
 					"settings":
@@ -1040,7 +1117,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 7,
 					"type": "text"
 				}
 			]

@@ -6,7 +6,7 @@ import scipy
 
 
 class Map(object):
-	def __init__(self, loc_data, tiles, location, zoom_start = 13.5):
+	def __init__(self, loc_data, tiles, location, zoom_start = 13):
 		self.map = folium.Map(location = location,
 								zoom_start = zoom_start,
 								tiles=tiles)
