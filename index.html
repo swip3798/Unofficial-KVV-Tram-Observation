@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Map view</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<iframe src="map_int.html" id="map" frameborder="0">Your browser does not support iframes!</iframe>
+	<script>
+	window.setInterval("reloadIFrame();", 30000);
+
+	function reloadIFrame() {
+	 document.getElementById("map").src="map_int.html";	}
+	document.addEventListener("visibilitychange", function() {
+	   console.log( document.visibilityState );
+	   if(document.visibilityState==="visible"){
+	   	reloadIFrame();
+	   }
+	 });
+	</script>
+</body>
+</html>
