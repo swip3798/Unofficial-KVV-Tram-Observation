@@ -1,7 +1,9 @@
 import kvvapi
 import requests
 import json
+import time
 import interactive_map
+import os
 
 
 def find_trams(route_id, destination1, destination2):
@@ -22,35 +24,51 @@ def find_trams(route_id, destination1, destination2):
 				#print(i.route, i.destination, i.stopPosition)
 		if departures != []:
 			stations.append(departures)
+			route[n]["no data"]=False
 		else:
-			route.pop(n)
-	interactive_map.createInteractiveMap(route, "map.html", "CartoDB Positron")
-
+			route[n]["no data"]= True
+	final_route = []
+	for i in route:
+		if not i["no data"]:
+			final_route.append(i)
+	killed_route = []
+	for i in route:
+		if i not in final_route:
+			killed_route.append(i)
 	print("Analyse postitions of trams...")
 	results = []
 	for n, i in enumerate(stations):
 		if n<=len(stations)-2:
 			if i[0].time > stations[n+1][0].time:
-				results.append([route[n], route[n+1]])
-	return [route, results, stations]
+				results.append([final_route[n], final_route[n+1]])
+	return [final_route, results, stations, killed_route, route]
 
-
+def load_observation(route_id, destination1, destination2, map_style, filename):
+	answer = find_trams(str(route_id), destination1, destination2)
+	map = interactive_map.Map(answer[0], map_style, [49.0177632, 8.3850749])
+	map.render_marker(answer[2])
+	for i in answer[3]:
+		map.render_single_marker(i, color = "#aaa")
+	positions = []
+	for i in answer[4]:
+		positions.append([i["lat"],i["lon"]])
+	map.render_poly_paths(positions, color="#03f")
+	for i in answer[1]:
+		map.render_color_paths([i[0]["lat"],i[0]["lon"]], [i[1]["lat"],i[1]["lon"]], "#f00")
+		print("Bahn zwischen", i[0]["name"], "und", i[1]["name"])
+	map.save(filename)
 
 
 
 
 
 if __name__ == '__main__':
-	answer = find_trams("3", "Tivoli über Hbf", "Tivoli")
-	map = interactive_map.Map(answer[0], "CartoDB Positron", [49.00994599, 8.39640733])
-	map.render_marker(answer[2])
-	positions = []
-	for i in answer[0]:
-		positions.append([i["lat"],i["lon"]])
-	map.render_paths(positions, color="#03f")
-	'''
-	positions = []
-	for i in results:
-		positions.append([i[0]["lat"],i["lon"]])
-	'''
-	map.save("map_int.html")
+	try:
+		while True:
+			load_observation(3, "Tivoli über Hbf", "Tivoli", "CartoDB Positron", "map_int.html")
+			print("Wait for refresh...")
+			time.sleep(30)
+			os.system("cls")
+	except KeyboardInterrupt as e:
+		exit()
+
