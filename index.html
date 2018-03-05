@@ -22,18 +22,32 @@
 		</script>
 	</div>
 	<div class="dropdown">
-	<button onclick="myFunction()" class="dropbtn">Wähle deine Route aus</button>
+	<button onclick="onDropDownMenu()" class="dropbtn" id="btndrop">Wähle deine Route aus</button>
 	  <div id="myDropdown" class="dropdown-content">
-	    <a href="#3tivoli">3 Tivoli</a>
-	    <a href="#3heide">3 Heide</a>
+	    <a href="#3tivoli" onclick="tivoli3()">3 Tivoli</a>
+	    <a href="#3heide" onclick="heide3()">3 Heide</a>
 	    <a href="#s4bretten">S4 Heilbronn</a>
 	    <a href="#s4karlsruhe">S4 Karlsruhe</a>
 	  </div>
 	</div>
 	<script>
+	function tivoli3() {
+		document.getElementById("map").src = "map_3_tivoli.html";
+		document.getElementById("btndrop").innerHTML = "3 Tivoli";
+	}
+	function heide3() {
+		document.getElementById("map").src = "map_3_heide.html";
+		document.getElementById("btndrop").innerHTML = "3 Heide";
+	}
+	function s4karlsruhe() {
+		document.getElementById("btndrop").innerHTML = "3 Heide";
+	}
+	function s4bretten() {
+		document.getElementById("btndrop").innerHTML = "3 Heide";
+	}
 	/* When the user clicks on the button, 
 	toggle between hiding and showing the dropdown content */
-	function myFunction() {
+	function onDropDownMenu() {
 	    document.getElementById("myDropdown").classList.toggle("show");
 	}
 	window.onclick = onOutside;

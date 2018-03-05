@@ -71,6 +71,7 @@ if __name__ == '__main__':
 		while True:
 			try:
 				load_observation(3, "Tivoli über Hbf", "Tivoli", "CartoDB Positron", "map_3_tivoli.html")
+				load_observation(3, "Heide", "Heide", "CartoDB Positron", "map_3_heide.html")
 				logger.info("Full script execution was managed")
 			except Exception as e:
 				logger.info("Error %s was raised on script execution, retry in 30 sec...", str(e))

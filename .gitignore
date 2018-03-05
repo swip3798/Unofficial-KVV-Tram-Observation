@@ -4,3 +4,5 @@ db/kvvliveapi_old.py
 *.pyc
 map_int.html
 messages.log
+map_3_tivoli.html
+index.html
