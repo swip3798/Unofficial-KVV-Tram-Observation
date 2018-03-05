@@ -2,7 +2,4 @@
 kvvapi(old).py
 db/kvvliveapi_old.py
 *.pyc
-<<<<<<< HEAD
-*.pyc
-=======
->>>>>>> e59d614d244547083012f9c54b3d44f5d981610c
+
