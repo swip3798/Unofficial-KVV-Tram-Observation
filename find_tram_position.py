@@ -90,11 +90,12 @@ if __name__ == '__main__':
 					logger.info("Full script execution was managed")
 				except Exception as e:
 					logger.info("Error %s was raised on script execution, retry in 30 sec...", str(e))
+					print("Error ", e, "was raised on script execution")
 				print("Wait for refresh...")
 				time.sleep(30)
-				os.system("cls")
 		except KeyboardInterrupt as e:
 			continue
 		except Exception as e:
 			logger.info("%s was raised and killed the script", str(e))
+			exit()
 
