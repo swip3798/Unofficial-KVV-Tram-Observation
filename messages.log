@@ -1,0 +1,17 @@
+2018-03-05 08:39:49,448 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): live.kvv.de
+2018-03-05 08:39:49,808 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): live.kvv.de
+2018-03-05 08:39:49,901 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): live.kvv.de
+2018-03-05 08:39:49,995 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): live.kvv.de
+2018-03-05 08:39:50,104 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): live.kvv.de
+2018-03-05 08:39:50,198 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): live.kvv.de
+2018-03-05 08:39:50,292 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): live.kvv.de
+2018-03-05 08:39:50,385 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): live.kvv.de
+2018-03-05 08:39:50,464 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): live.kvv.de
+2018-03-05 08:39:50,557 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): live.kvv.de
+2018-03-05 08:39:50,636 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): live.kvv.de
+2018-03-05 08:39:50,729 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): live.kvv.de
+2018-03-05 08:39:50,823 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): live.kvv.de
+2018-03-05 08:39:50,917 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): live.kvv.de
+2018-03-05 08:39:51,010 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): live.kvv.de
+2018-03-05 08:39:51,135 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): live.kvv.de
+2018-03-05 08:39:51,651 - __main__ - INFO - Full script execution was managed

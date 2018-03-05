@@ -4,6 +4,7 @@ import json
 import time
 import interactive_map
 import os
+import logging
 
 
 def find_trams(route_id, destination1, destination2):
@@ -63,12 +64,17 @@ def load_observation(route_id, destination1, destination2, map_style, filename):
 
 
 if __name__ == '__main__':
+	logging.basicConfig(format = '%(asctime)s - %(name)s - %(levelname)s - %(message)s', level = logging.INFO, filename="messages.log")
+	logger = logging.getLogger(__name__)
 	try:
 		while True:
 			load_observation(3, "Tivoli über Hbf", "Tivoli", "CartoDB Positron", "map_int.html")
+			logger.info("Full script execution was managed")
 			print("Wait for refresh...")
 			time.sleep(30)
 			os.system("cls")
 	except KeyboardInterrupt as e:
 		exit()
+	except Exception as e:
+		logger.info("%s was raised and killed the script", str(e))
 
