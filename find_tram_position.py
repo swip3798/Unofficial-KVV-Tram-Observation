@@ -1,10 +1,23 @@
+from __future__ import print_function
+import builtins
 import kvvapi
 import requests
 import json
 import time
 import interactive_map
 import os
+import sys
 import logging
+
+
+def print(*args, **kwargs):
+	formatted_time = time.ctime()
+	output_str = formatted_time + ": "
+	for i in args:
+		output_str += str(i)
+	with open("output.log", "a") as f:
+		f.write(output_str)
+	builtins.print(formatted_time  + ": ", *args, **kwargs)
 
 
 def find_trams(route_id, destination1, destination2):
@@ -65,21 +78,23 @@ def load_observation(route_id, destination1, destination2, map_style, filename):
 
 
 if __name__ == '__main__':
+	os.system("")
 	logging.basicConfig(format = '%(asctime)s - %(name)s - %(levelname)s - %(message)s', level = logging.INFO, filename="messages.log")
 	logger = logging.getLogger(__name__)
-	try:
-		while True:
-			try:
-				load_observation(3, "Tivoli über Hbf", "Tivoli", "CartoDB Positron", "map_3_tivoli.html")
-				load_observation(3, "Heide", "Heide", "CartoDB Positron", "map_3_heide.html")
-				logger.info("Full script execution was managed")
-			except Exception as e:
-				logger.info("Error %s was raised on script execution, retry in 30 sec...", str(e))
-			print("Wait for refresh...")
-			time.sleep(30)
-			os.system("cls")
-	except KeyboardInterrupt as e:
-		exit()
-	except Exception as e:
-		logger.info("%s was raised and killed the script", str(e))
+	while True:
+		try:
+			while True:
+				try:
+					load_observation(3, "Tivoli über Hbf", "Tivoli", "CartoDB Positron", "map_3_tivoli.html")
+					load_observation(3, "Heide", "Heide", "CartoDB Positron", "map_3_heide.html")
+					logger.info("Full script execution was managed")
+				except Exception as e:
+					logger.info("Error %s was raised on script execution, retry in 30 sec...", str(e))
+				print("Wait for refresh...")
+				time.sleep(30)
+				os.system("cls")
+		except KeyboardInterrupt as e:
+			continue
+		except Exception as e:
+			logger.info("%s was raised and killed the script", str(e))
 
