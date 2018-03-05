@@ -57,6 +57,7 @@ def load_observation(route_id, destination1, destination2, map_style, filename):
 	for i in answer[1]:
 		map.render_color_paths([i[0]["lat"],i[0]["lon"]], [i[1]["lat"],i[1]["lon"]], "#f00")
 		print("Bahn zwischen", i[0]["name"], "und", i[1]["name"])
+		logger.info("Tram found between %s and %s", i[0]["name"], i[1]["name"])
 	map.save(filename)
 
 
@@ -69,7 +70,7 @@ if __name__ == '__main__':
 	try:
 		while True:
 			try:
-				load_observation(3, "Tivoli über Hbf", "Tivoli", "CartoDB Positron", "map_int.html")
+				load_observation(3, "Tivoli über Hbf", "Tivoli", "CartoDB Positron", "map_3_tivoli.html")
 				logger.info("Full script execution was managed")
 			except Exception as e:
 				logger.info("Error %s was raised on script execution, retry in 30 sec...", str(e))
