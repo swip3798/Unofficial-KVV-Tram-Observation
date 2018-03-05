@@ -8,6 +8,7 @@ import interactive_map
 import os
 import sys
 import logging
+import ftpupload
 
 
 def print(*args, **kwargs):
@@ -78,7 +79,7 @@ def load_observation(route_id, destination1, destination2, map_style, filename):
 
 
 if __name__ == '__main__':
-	os.system("")
+	os.system("cls")
 	logging.basicConfig(format = '%(asctime)s - %(name)s - %(levelname)s - %(message)s', level = logging.INFO, filename="messages.log")
 	logger = logging.getLogger(__name__)
 	while True:
@@ -91,6 +92,8 @@ if __name__ == '__main__':
 				except Exception as e:
 					logger.info("Error %s was raised on script execution, retry in 30 sec...", str(e))
 					print("Error ", e, "was raised on script execution")
+				print("Upload maps...")
+				ftpupload.uploadFile("ftp-server.com", "username", "ftword.pass", [["map_3_heide.html","KVV/map_3_heide.html"],["map_3_tivoli.html","KVV/map_3_tivoli.html"]])
 				print("Wait for refresh...")
 				time.sleep(30)
 		except KeyboardInterrupt as e:
