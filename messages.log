@@ -15,3 +15,20 @@
 2018-03-05 08:39:51,010 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): live.kvv.de
 2018-03-05 08:39:51,135 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): live.kvv.de
 2018-03-05 08:39:51,651 - __main__ - INFO - Full script execution was managed
+2018-03-05 08:43:21,064 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): live.kvv.de
+2018-03-05 08:43:21,408 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): live.kvv.de
+2018-03-05 08:43:21,502 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): live.kvv.de
+2018-03-05 08:43:21,611 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): live.kvv.de
+2018-03-05 08:43:21,721 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): live.kvv.de
+2018-03-05 08:43:21,830 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): live.kvv.de
+2018-03-05 08:43:21,939 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): live.kvv.de
+2018-03-05 08:43:22,033 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): live.kvv.de
+2018-03-05 08:43:22,127 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): live.kvv.de
+2018-03-05 08:43:22,205 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): live.kvv.de
+2018-03-05 08:43:22,299 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): live.kvv.de
+2018-03-05 08:43:22,392 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): live.kvv.de
+2018-03-05 08:43:22,471 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): live.kvv.de
+2018-03-05 08:43:22,580 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): live.kvv.de
+2018-03-05 08:43:22,674 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): live.kvv.de
+2018-03-05 08:43:22,768 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): live.kvv.de
+2018-03-05 08:43:23,221 - __main__ - INFO - Full script execution was managed

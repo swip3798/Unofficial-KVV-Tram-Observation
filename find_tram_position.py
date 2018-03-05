@@ -68,8 +68,11 @@ if __name__ == '__main__':
 	logger = logging.getLogger(__name__)
 	try:
 		while True:
-			load_observation(3, "Tivoli über Hbf", "Tivoli", "CartoDB Positron", "map_int.html")
-			logger.info("Full script execution was managed")
+			try:
+				load_observation(3, "Tivoli über Hbf", "Tivoli", "CartoDB Positron", "map_int.html")
+				logger.info("Full script execution was managed")
+			except Exception as e:
+				logger.info("Error %s was raised on script execution, retry in 30 sec...", str(e))
 			print("Wait for refresh...")
 			time.sleep(30)
 			os.system("cls")
