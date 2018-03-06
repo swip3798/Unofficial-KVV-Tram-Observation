@@ -10,3 +10,5 @@ map_3_heide.html
 output.log
 *.pass
 productive/
+*.sublime-project
+*.sublime-workspace
