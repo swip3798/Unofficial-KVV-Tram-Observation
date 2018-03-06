@@ -10,7 +10,7 @@
 	<div id="map_container">
 		<iframe src="map_3_tivoli.html" id="map" frameborder="0">Your browser does not support iframes!</iframe>
 		<script>
-		window.setInterval("reloadIFrame();", 30000);
+		window.setInterval("reloadIFrame();", 60000);
 
 		function reloadIFrame() {
 		 document.getElementById("map").src="map_3_tivoli.html";	}
@@ -30,6 +30,7 @@
 	    <a href="#s4bretten" onclick="s4bretten()">S4 Heilbronn</a>
 	    <a href="#s4karlsruhe" onclick="s4karlsruhe()">S4 Karlsruhe</a>
 	  </div>
+	  <button onclick="reloadIFrame()" class="dropbtn" id="btnRefresh"><img src="refreshicon.png" width="16" height="16" alt="Refresh Icon konnte nicht geladen werden" id="refreshicon">Neu Laden</button>
 	</div>
 	<script>
 	function tivoli3() {
