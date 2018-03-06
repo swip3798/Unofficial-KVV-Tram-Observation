@@ -9502,5 +9502,581 @@
         "lon": 8.13396443,
         "name": "Edesheim Sparkasse",
         "stop_id": "de:7337:4935"
+    },
+    {
+        "lat": 48.66915402,
+        "lon": 8.14733357,
+        "name": "Waldmatt Panoramastra\u00dfe",
+        "stop_id": "de:8216:34603"
+    },
+    {
+        "lat": 49.20684725,
+        "lon": 8.07514716,
+        "name": "Godramstein Bahnhof",
+        "stop_id": "de:7313:8051"
+    },
+    {
+        "lat": 49.21128337,
+        "lon": 8.07105674,
+        "name": "Godramstein West",
+        "stop_id": "de:7313:4175"
+    },
+    {
+        "lat": 49.2108489,
+        "lon": 8.07968402,
+        "name": "Godramstein Steingasse",
+        "stop_id": "de:7313:4174"
+    },
+    {
+        "lat": 49.21070058,
+        "lon": 8.08591779,
+        "name": "Godramstein Schl\u00f6ssel",
+        "stop_id": "de:7313:4173"
+    },
+    {
+        "lat": 49.2120351,
+        "lon": 8.07959337,
+        "name": "Godramstein Pl\u00f6ck",
+        "stop_id": "de:7313:6200"
+    },
+    {
+        "lat": 49.21326078,
+        "lon": 8.07881572,
+        "name": "Godramstein Friedhof",
+        "stop_id": "de:7313:6199"
+    },
+    {
+        "lat": 49.26544427,
+        "lon": 8.01183807,
+        "name": "Ramberg Buswendeplatz",
+        "stop_id": "de:7337:4459"
+    },
+    {
+        "lat": 49.03225804,
+        "lon": 8.28804695,
+        "name": "Maximiliansau Kath. Pfarramt",
+        "stop_id": "de:7334:35107"
+    },
+    {
+        "lat": 49.15307486,
+        "lon": 8.57984596,
+        "name": "Forst Hambr\u00fccker Stra\u00dfe",
+        "stop_id": "de:8215:32565"
+    },
+    {
+        "lat": 49.17459434,
+        "lon": 8.49712985,
+        "name": "Neudorf Kirche",
+        "stop_id": "de:8215:7807"
+    },
+    {
+        "lat": 49.17243168,
+        "lon": 8.49606836,
+        "name": "Neudorf Polizei",
+        "stop_id": "de:8215:7806"
+    },
+    {
+        "lat": 49.17130181,
+        "lon": 8.50092073,
+        "name": "Neudorf Festplatz",
+        "stop_id": "de:8215:7808"
+    },
+    {
+        "lat": 49.16228252,
+        "lon": 8.48645015,
+        "name": "Graben-Neudorf Zentrum",
+        "stop_id": "de:8215:99103"
+    },
+    {
+        "lat": 49.13517269,
+        "lon": 7.93238519,
+        "name": "Silz Wildpark",
+        "stop_id": "de:7337:5963"
+    },
+    {
+        "lat": 49.11929722,
+        "lon": 8.59885824,
+        "name": "Bruchsal Silberh\u00f6lle",
+        "stop_id": "de:8215:12624"
+    },
+    {
+        "lat": 49.23509108,
+        "lon": 8.46129524,
+        "name": "Philippsburg Schulzentrum",
+        "stop_id": "de:8215:7718"
+    },
+    {
+        "lat": 49.21843574,
+        "lon": 8.02462198,
+        "name": "Albersweiler (Pfalz) Bahnhof",
+        "stop_id": "de:7337:8053"
+    },
+    {
+        "lat": 49.20293368,
+        "lon": 7.97376909,
+        "name": "Annweiler Schulzentrum",
+        "stop_id": "de:7337:4475"
+    },
+    {
+        "lat": 49.15027699,
+        "lon": 8.28794737,
+        "name": "R\u00fclzheim Schulzentrum",
+        "stop_id": "de:7334:32572"
+    },
+    {
+        "lat": 49.34872473,
+        "lon": 9.11228041,
+        "name": "Mosbach-Neckarelz",
+        "stop_id": "de:8225:9180"
+    },
+    {
+        "lat": 48.82182158,
+        "lon": 8.14993523,
+        "name": "Iffezheim Schulzentrum",
+        "stop_id": "de:8216:31914"
+    },
+    {
+        "lat": 48.91666078,
+        "lon": 8.37931762,
+        "name": "Oberweier Neuwiesenstr",
+        "stop_id": "de:8215:8205"
+    },
+    {
+        "lat": 49.23909456,
+        "lon": 8.50814781,
+        "name": "Wiesental Weinbrenner Stra\u00dfe",
+        "stop_id": "de:8215:32516"
+    },
+    {
+        "lat": 49.22770192,
+        "lon": 8.51235222,
+        "name": "Wiesental Friedhof",
+        "stop_id": "de:8215:32519"
+    },
+    {
+        "lat": 49.21290601,
+        "lon": 8.52858363,
+        "name": "Wiesental Einkaufszentrum",
+        "stop_id": "de:8215:32512"
+    },
+    {
+        "lat": 48.69102999,
+        "lon": 8.12532677,
+        "name": "B\u00fchl M.-Luther-Str./Arndtstr.",
+        "stop_id": "de:8216:34731"
+    },
+    {
+        "lat": 48.69011695,
+        "lon": 8.12944453,
+        "name": "B\u00fchl Arndtstr./Berliner Str.",
+        "stop_id": "de:8216:34736"
+    },
+    {
+        "lat": 49.12400324,
+        "lon": 8.57465251,
+        "name": "Bruchsal Industriestr./L558",
+        "stop_id": "de:8215:32311"
+    },
+    {
+        "lat": 48.75193348,
+        "lon": 8.24848537,
+        "name": "BAD Maximilianstr./Falkenstr.",
+        "stop_id": "de:8211:31893"
+    },
+    {
+        "lat": 49.23720243,
+        "lon": 8.54220787,
+        "name": "Kirrlach Obere Bachstra\u00dfe",
+        "stop_id": "de:8215:33104"
+    },
+    {
+        "lat": 48.93253983,
+        "lon": 8.53363116,
+        "name": "Mutschelbach Baum",
+        "stop_id": "de:8215:2216"
+    },
+    {
+        "lat": 48.52626394,
+        "lon": 8.39875166,
+        "name": "Klosterreichenbach Bahnhof",
+        "stop_id": "de:8237:9600"
+    },
+    {
+        "lat": 48.92053,
+        "lon": 8.47983226,
+        "name": "Reichenbach Bahnhof",
+        "stop_id": "de:8215:1402"
+    },
+    {
+        "lat": 48.92117876,
+        "lon": 8.48012571,
+        "name": "Reichenbach Abzw. Bahnhof",
+        "stop_id": "de:8215:1405"
+    },
+    {
+        "lat": 49.1616466,
+        "lon": 8.41513224,
+        "name": "Liedolsheim Mitte",
+        "stop_id": "de:8215:7706"
+    },
+    {
+        "lat": 48.83283923,
+        "lon": 8.3669098,
+        "name": "Freiolsheim Mayersbild",
+        "stop_id": "de:8216:34783"
+    },
+    {
+        "lat": 48.84002686,
+        "lon": 8.38066017,
+        "name": "Freiolsheim Waldparkplatz",
+        "stop_id": "de:8216:8121"
+    },
+    {
+        "lat": 48.8458728,
+        "lon": 8.37417091,
+        "name": "Freiolsheim Rathaus",
+        "stop_id": "de:8216:8119"
+    },
+    {
+        "lat": 48.83976441,
+        "lon": 8.38035008,
+        "name": "Freiolsheim Friedhof",
+        "stop_id": "de:8216:32161"
+    },
+    {
+        "lat": 48.44440292,
+        "lon": 8.58921079,
+        "name": "Bittelbronn",
+        "stop_id": "de:8237:4322"
+    },
+    {
+        "lat": 49.02528497,
+        "lon": 8.75164914,
+        "name": "Knittlingen Ziegelh\u00fctte",
+        "stop_id": "de:8236:2304"
+    },
+    {
+        "lat": 49.19138993,
+        "lon": 8.25133069,
+        "name": "Knittelsheim",
+        "stop_id": "de:7334:32479"
+    },
+    {
+        "lat": 48.8564411,
+        "lon": 8.248135,
+        "name": "Rauental Bischweierer Str.",
+        "stop_id": "de:8216:31984"
+    },
+    {
+        "lat": 48.75378058,
+        "lon": 8.23401494,
+        "name": "Baden-Baden Bismarckstr.",
+        "stop_id": "de:8211:31957"
+    },
+    {
+        "lat": 48.75717419,
+        "lon": 8.10474356,
+        "name": "Leiberstung J\u00e4gerstra\u00dfe",
+        "stop_id": "de:8216:34681"
+    },
+    {
+        "lat": 48.95136337,
+        "lon": 8.23716594,
+        "name": "Au Wehrstra\u00dfe",
+        "stop_id": "de:8216:6412"
+    },
+    {
+        "lat": 48.63542561,
+        "lon": 8.32549187,
+        "name": "Erbersbronn",
+        "stop_id": "de:8216:32190"
+    },
+    {
+        "lat": 48.92722072,
+        "lon": 8.36175992,
+        "name": "Bruchhausen Fere-Champenoise",
+        "stop_id": "de:8215:8322"
+    },
+    {
+        "lat": 49.09455209,
+        "lon": 8.28037864,
+        "name": "Jockgrim Maximilianstra\u00dfe",
+        "stop_id": "de:7334:32350"
+    },
+    {
+        "lat": 49.09175907,
+        "lon": 8.27232717,
+        "name": "Jockgrim Bahnhof",
+        "stop_id": "de:7334:35004"
+    },
+    {
+        "lat": 49.22336092,
+        "lon": 8.03828073,
+        "name": "St. Johann (Pfalz)",
+        "stop_id": "de:7337:4471"
+    },
+    {
+        "lat": 49.11633829,
+        "lon": 8.56875923,
+        "name": "Bruchsal Josef-Heid-Str.",
+        "stop_id": "de:8215:32309"
+    },
+    {
+        "lat": 49.09243693,
+        "lon": 8.26860674,
+        "name": "Jockgrim Marienstra\u00dfe",
+        "stop_id": "de:7334:1764"
+    },
+    {
+        "lat": 49.09215981,
+        "lon": 8.28175503,
+        "name": "Jockgrim Kindergarten",
+        "stop_id": "de:7334:1763"
+    },
+    {
+        "lat": 48.87227145,
+        "lon": 8.19027617,
+        "name": "Rastatt Josef-Kilmarx-Str.",
+        "stop_id": "de:8216:34648"
+    },
+    {
+        "lat": 48.93996859,
+        "lon": 8.53171918,
+        "name": "Mutschelbach Wiesenstra\u00dfe",
+        "stop_id": "de:8215:2214"
+    },
+    {
+        "lat": 49.23536158,
+        "lon": 8.51632757,
+        "name": "Wiesental Stefanstra\u00dfe",
+        "stop_id": "de:8215:32517"
+    },
+    {
+        "lat": 49.22361899,
+        "lon": 8.52078027,
+        "name": "Wiesental Kirchstra\u00dfe",
+        "stop_id": "de:8215:32518"
+    },
+    {
+        "lat": 49.22355224,
+        "lon": 8.52203017,
+        "name": "Wiesental Karlsruher Stra\u00dfe",
+        "stop_id": "de:8215:32513"
+    },
+    {
+        "lat": 49.23208556,
+        "lon": 8.51346243,
+        "name": "Wiesental Mannh. Stra\u00dfe",
+        "stop_id": "de:8215:32515"
+    },
+    {
+        "lat": 49.22571759,
+        "lon": 8.50247338,
+        "name": "Wiesental Bahnhof",
+        "stop_id": "de:8215:32584"
+    },
+    {
+        "lat": 48.86173497,
+        "lon": 8.23951037,
+        "name": "Rastatt Untere Wiesen",
+        "stop_id": "de:8216:31054"
+    },
+    {
+        "lat": 48.90925399,
+        "lon": 8.46610292,
+        "name": "Etzenrot Vogesenstra\u00dfe",
+        "stop_id": "de:8215:8517"
+    },
+    {
+        "lat": 48.69359527,
+        "lon": 8.06384395,
+        "name": "Zell Wiesenweg",
+        "stop_id": "de:8216:32423"
+    },
+    {
+        "lat": 49.22711242,
+        "lon": 8.51757507,
+        "name": "Wiesental Marktplatz",
+        "stop_id": "de:8215:32514"
+    },
+    {
+        "lat": 48.67818289,
+        "lon": 8.14494059,
+        "name": "Rittersbach Haus Schneider",
+        "stop_id": "de:8216:34715"
+    },
+    {
+        "lat": 49.14883403,
+        "lon": 8.80858941,
+        "name": "Landshausen R\u00f6hrbrunnen",
+        "stop_id": "de:8215:13801"
+    },
+    {
+        "lat": 48.70231184,
+        "lon": 8.35519374,
+        "name": "Langenbrand StoraEnso",
+        "stop_id": "de:8216:34828"
+    },
+    {
+        "lat": 48.70224979,
+        "lon": 8.3601941,
+        "name": "Langenbrand Schule",
+        "stop_id": "de:8216:34793"
+    },
+    {
+        "lat": 48.70216994,
+        "lon": 8.35554879,
+        "name": "Langenbrand Bahnhof",
+        "stop_id": "de:8216:34670"
+    },
+    {
+        "lat": 49.19936952,
+        "lon": 8.64571435,
+        "name": "Langenbr\u00fccken S\u00fcdring",
+        "stop_id": "de:8215:32544"
+    },
+    {
+        "lat": 49.20437569,
+        "lon": 8.64792911,
+        "name": "Langenbr\u00fccken Ochsen",
+        "stop_id": "de:8215:32541"
+    },
+    {
+        "lat": 48.766588,
+        "lon": 8.23028333,
+        "name": "Baden-Baden Otto-Flake-Str.",
+        "stop_id": "de:8211:31922"
+    },
+    {
+        "lat": 48.80900414,
+        "lon": 8.17548882,
+        "name": "Sandweier Autobahnkirche",
+        "stop_id": "de:8211:31871"
+    },
+    {
+        "lat": 48.91452068,
+        "lon": 8.4578063,
+        "name": "Etzenrot Bahnhof",
+        "stop_id": "de:8215:1301"
+    },
+    {
+        "lat": 49.19653573,
+        "lon": 8.47325312,
+        "name": "Huttenheim Bahnhof",
+        "stop_id": "de:8215:32590"
+    },
+    {
+        "lat": 48.86917763,
+        "lon": 8.51117054,
+        "name": "Ittersbach Bahnhof",
+        "stop_id": "de:8215:1409"
+    },
+    {
+        "lat": 48.94712632,
+        "lon": 8.3877318,
+        "name": "Ettlingen Westbahnhof",
+        "stop_id": "de:8215:1840"
+    },
+    {
+        "lat": 48.8603684,
+        "lon": 8.21671685,
+        "name": "Rastatt Bahnhof Ost",
+        "stop_id": "de:8216:31821"
+    },
+    {
+        "lat": 48.86119015,
+        "lon": 8.21589993,
+        "name": "Rastatt Bahnhof",
+        "stop_id": "de:8216:1844"
+    },
+    {
+        "lat": 48.95637537,
+        "lon": 8.91938248,
+        "name": "Illingen (W\u00fcrtt) Bahnhof",
+        "stop_id": "de:8236:2590"
+    },
+    {
+        "lat": 49.20302303,
+        "lon": 9.50362266,
+        "name": "\u00d6hringen Hauptbahnhof",
+        "stop_id": "de:8126:10220"
+    },
+    {
+        "lat": 48.92362474,
+        "lon": 8.3734046,
+        "name": "Bruchhausen Bahnhof",
+        "stop_id": "de:8215:1841"
+    },
+    {
+        "lat": 49.00563247,
+        "lon": 8.53039302,
+        "name": "Berghausen Bahnhof",
+        "stop_id": "de:8215:2008"
+    },
+    {
+        "lat": 48.75924428,
+        "lon": 8.25123256,
+        "name": "Baden-Baden Hauptfriedhof",
+        "stop_id": "de:8211:31853"
+    },
+    {
+        "lat": 48.83408433,
+        "lon": 8.25617936,
+        "name": "Kuppenheim Bahnhof",
+        "stop_id": "de:8216:34763"
+    },
+    {
+        "lat": 49.11944002,
+        "lon": 8.76489232,
+        "name": "Bahnbr\u00fccken Bahnhof",
+        "stop_id": "de:8215:32008"
+    },
+    {
+        "lat": 49.15020001,
+        "lon": 8.01659977,
+        "name": "Pfalzklinikum",
+        "stop_id": "de:7337:4553"
+    },
+    {
+        "lat": 49.03075265,
+        "lon": 8.28598982,
+        "name": "Maximiliansau Denkmal",
+        "stop_id": "de:7334:32437"
+    },
+    {
+        "lat": 48.73423982,
+        "lon": 8.05917427,
+        "name": "Hildmannsfeld Denkmal",
+        "stop_id": "de:8216:34695"
+    },
+    {
+        "lat": 48.66949169,
+        "lon": 8.15043702,
+        "name": "Waldmatt Waldmattstra\u00dfe",
+        "stop_id": "de:8216:32207"
+    },
+    {
+        "lat": 48.69156308,
+        "lon": 8.35955529,
+        "name": "Gausbach Montana",
+        "stop_id": "de:8216:32181"
+    },
+    {
+        "lat": 48.9227759,
+        "lon": 8.47538781,
+        "name": "Reichenbach Monmouthplatz/Kurh",
+        "stop_id": "de:8215:8519"
+    },
+    {
+        "lat": 48.82112096,
+        "lon": 8.35052531,
+        "name": "Michelbach Moosbronner Str.",
+        "stop_id": "de:8216:32712"
+    },
+    {
+        "lat": 48.83798413,
+        "lon": 8.38711515,
+        "name": "Moosbronn Kirche",
+        "stop_id": "de:8216:32146"
     }
 ]
