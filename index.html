@@ -14,13 +14,28 @@
 		window.setInterval("reloadIFrame();", 60000);
 
 		function reloadIFrame() {
-		 document.getElementById("map").src="map_3_tivoli.html";	}
-		document.addEventListener("visibilitychange", function() {
-		   console.log( document.visibilityState );
-		   if(document.visibilityState==="visible"){
-		   	reloadIFrame();
-		   }
+			if(getAnchor()===null||getAnchor()==="3tivoli") {
+				document.getElementById("map").src = "map_3_tivoli.html";
+			} else if (getAnchor()==="3heide") {
+				document.getElementById("map").src = "map_3_heide.html";
+			} else if (getAnchor()==="s4karlsruhe") {
+				document.getElementById("map").src = "map_s4_karlsruhe.html";
+			} else if (getAnchor()==="s4bretten") {
+				document.getElementById("map").src = "map_s4_heilbronn.html";
+			} 
+		}
+			document.addEventListener("visibilitychange", function() {
+		    console.log( document.visibilityState );
+		    if(document.visibilityState==="visible"){
+		   		reloadIFrame();
+		   	}
 		 });
+		function getAnchor() {
+		    var currentUrl = document.URL,
+			urlParts   = currentUrl.split('#');
+			console.log((urlParts.length > 1) ? urlParts[1] : null)
+		    return (urlParts.length > 1) ? urlParts[1] : null;
+		}
 		</script>
 	</div>
 	<div class="dropdown">
@@ -35,19 +50,19 @@
 	</div>
 	<script>
 	function tivoli3() {
-		document.getElementById("map").src = "map_3_tivoli.html";
+		setTimeout("reloadIFrame();", 300);
 		document.getElementById("btndrop").innerHTML = "3 Tivoli";
 	}
 	function heide3() {
-		document.getElementById("map").src = "map_3_heide.html";
+		setTimeout("reloadIFrame();", 300);
 		document.getElementById("btndrop").innerHTML = "3 Heide";
 	}
 	function s4karlsruhe() {
-		document.getElementById("map").src = "map_s4_karlsruhe.html";
+		setTimeout("reloadIFrame();", 300);
 		document.getElementById("btndrop").innerHTML = "S4 Karlsruhe";
 	}
 	function s4bretten() {
-		document.getElementById("map").src = "map_s4_heilbronn.html";
+		setTimeout("reloadIFrame();", 300);
 		document.getElementById("btndrop").innerHTML = "S4 Heilbronn";
 	}
 	/* When the user clicks on the button, 
