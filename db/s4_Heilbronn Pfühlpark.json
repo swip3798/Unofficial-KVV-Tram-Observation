@@ -1,0 +1,332 @@
+[
+    {
+        "lat": 48.99365987,
+        "lon": 8.39612585,
+        "name": "Karlsruhe Albtalbahnhof",
+        "stop_id": "de:8212:1201"
+    },
+    {
+        "lat": 48.99449035,
+        "lon": 8.400188,
+        "name": "Karlsruhe Hbf Vorplatz",
+        "stop_id": "de:8212:89"
+    },
+    {
+        "lat": 48.99520111,
+        "lon": 8.40373243,
+        "name": "Karlsruhe Poststra\u00dfe",
+        "stop_id": "de:8212:98"
+    },
+    {
+        "lat": 48.99655965,
+        "lon": 8.410877,
+        "name": "Karlsruhe Tivoli",
+        "stop_id": "de:8212:84"
+    },
+    {
+        "lat": 49.0011891,
+        "lon": 8.41059006,
+        "name": "Karlsruhe Werderstra\u00dfe",
+        "stop_id": "de:8212:83"
+    },
+    {
+        "lat": 49.00646594,
+        "lon": 8.41029542,
+        "name": "Karlsruhe R\u00fcppurrer Tor",
+        "stop_id": "de:8212:85"
+    },
+    {
+        "lat": 49.00892899,
+        "lon": 8.41014331,
+        "name": "Karlsruhe Kronenplatz (Erler-Str)",
+        "stop_id": "de:8212:80"
+    },
+    {
+        "lat": 49.009255,
+        "lon": 8.413622,
+        "name": "Karlsruhe Durlacher Tor",
+        "stop_id": "de:8212:3"
+    },
+    {
+        "lat": 49.00772929,
+        "lon": 8.42363479,
+        "name": "Karlsruhe Gottesauer Platz/BGV",
+        "stop_id": "de:8212:6"
+    },
+    {
+        "lat": 49.00625912,
+        "lon": 8.43179805,
+        "name": "Karlsruhe Tullastra\u00dfe / VBK",
+        "stop_id": "de:8212:7"
+    },
+    {
+        "lat": 49.00432947,
+        "lon": 8.44175644,
+        "name": "Karlsruhe Weinweg",
+        "stop_id": "de:8212:9"
+    },
+    {
+        "lat": 49.00240748,
+        "lon": 8.4630851,
+        "name": "Karlsruhe-Durlach",
+        "stop_id": "de:8212:801"
+    },
+    {
+        "lat": 49.0068899,
+        "lon": 8.4718257,
+        "name": "Durlach Hubstra\u00dfe",
+        "stop_id": "de:8212:1510"
+    },
+    {
+        "lat": 49.00597032,
+        "lon": 8.49334912,
+        "name": "Gr\u00f6tzingen Bahnhof",
+        "stop_id": "de:8212:1521"
+    },
+    {
+        "lat": 49.005313,
+        "lon": 8.503676,
+        "name": "Gr\u00f6tzingen Oberausstra\u00dfe",
+        "stop_id": "de:8212:1525"
+    },
+    {
+        "lat": 49.00975357,
+        "lon": 8.52666358,
+        "name": "Berghausen Hummelberg",
+        "stop_id": "de:8215:1526"
+    },
+    {
+        "lat": 49.03082057,
+        "lon": 8.56997747,
+        "name": "J\u00f6hlingen West",
+        "stop_id": "de:8215:1530"
+    },
+    {
+        "lat": 49.0280976,
+        "lon": 8.5752655,
+        "name": "J\u00f6hlingen Bahnhof",
+        "stop_id": "de:8215:1531"
+    },
+    {
+        "lat": 49.01548771,
+        "lon": 8.6047649,
+        "name": "W\u00f6ssingen Bahnhof",
+        "stop_id": "de:8215:1541"
+    },
+    {
+        "lat": 49.01589291,
+        "lon": 8.61021636,
+        "name": "W\u00f6ssingen Ost",
+        "stop_id": "de:8215:1543"
+    },
+    {
+        "lat": 49.02388,
+        "lon": 8.64797,
+        "name": "D\u00fcrrenb\u00fcchig",
+        "stop_id": "de:8215:1548"
+    },
+    {
+        "lat": 49.03666,
+        "lon": 8.673819,
+        "name": "Rinklingen",
+        "stop_id": "de:8215:1550"
+    },
+    {
+        "lat": 49.0371,
+        "lon": 8.693919,
+        "name": "Bretten Bahnhof",
+        "stop_id": "de:8215:1551"
+    },
+    {
+        "lat": 49.033771,
+        "lon": 8.703133,
+        "name": "Bretten Stadtmitte",
+        "stop_id": "de:8215:1553"
+    },
+    {
+        "lat": 49.030479,
+        "lon": 8.709246,
+        "name": "Bretten Wannenweg",
+        "stop_id": "de:8215:1554"
+    },
+    {
+        "lat": 49.031901,
+        "lon": 8.718488,
+        "name": "Bretten Schulzentrum",
+        "stop_id": "de:8215:1555"
+    },
+    {
+        "lat": 49.0371,
+        "lon": 8.72369,
+        "name": "Bretten Kupferh\u00e4lde",
+        "stop_id": "de:8215:1556"
+    },
+    {
+        "lat": 49.04516,
+        "lon": 8.72505,
+        "name": "G\u00f6lshausen",
+        "stop_id": "de:8215:1557"
+    },
+    {
+        "lat": 49.05274905,
+        "lon": 8.7405813,
+        "name": "G\u00f6lshausen Industrie",
+        "stop_id": "de:8215:32831"
+    },
+    {
+        "lat": 49.07367267,
+        "lon": 8.74843801,
+        "name": "Bauerbach Bahnhof",
+        "stop_id": "de:8215:32617"
+    },
+    {
+        "lat": 49.08399,
+        "lon": 8.774853,
+        "name": "Oberderdingen-Flehingen",
+        "stop_id": "de:8215:1561"
+    },
+    {
+        "lat": 49.08485989,
+        "lon": 8.78464564,
+        "name": "Flehingen Bahnhof",
+        "stop_id": "de:8215:32092"
+    },
+    {
+        "lat": 49.1028955,
+        "lon": 8.81451793,
+        "name": "Zaisenhausen Bahnhof",
+        "stop_id": "de:8215:32618"
+    },
+    {
+        "lat": 49.10786999,
+        "lon": 8.85342361,
+        "name": "Sulzfeld Bahnhof",
+        "stop_id": "de:8215:32093"
+    },
+    {
+        "lat": 49.132646,
+        "lon": 8.904734,
+        "name": "Eppingen West",
+        "stop_id": "de:8125:1110"
+    },
+    {
+        "lat": 49.13605766,
+        "lon": 8.91430885,
+        "name": "Eppingen Bahnhof",
+        "stop_id": "de:8125:5404"
+    },
+    {
+        "lat": 49.15450244,
+        "lon": 8.97747513,
+        "name": "Gemmingen West",
+        "stop_id": "de:8125:4405"
+    },
+    {
+        "lat": 49.15107789,
+        "lon": 8.98571517,
+        "name": "Gemmingen Bahnhof",
+        "stop_id": "de:8125:3900"
+    },
+    {
+        "lat": 49.13678994,
+        "lon": 9.01429217,
+        "name": "Stetten am Heuchelberg",
+        "stop_id": "de:8125:1700"
+    },
+    {
+        "lat": 49.13917575,
+        "lon": 9.0398795,
+        "name": "Schwaigern West",
+        "stop_id": "de:8125:1705"
+    },
+    {
+        "lat": 49.13841339,
+        "lon": 9.05673539,
+        "name": "Schwaigern Bahnhof",
+        "stop_id": "de:8125:693"
+    },
+    {
+        "lat": 49.1407618,
+        "lon": 9.07026503,
+        "name": "Schwaigern Ost",
+        "stop_id": "de:8125:4391"
+    },
+    {
+        "lat": 49.14593221,
+        "lon": 9.10552559,
+        "name": "Leingarten West",
+        "stop_id": "de:8125:7404"
+    },
+    {
+        "lat": 49.14557432,
+        "lon": 9.11314562,
+        "name": "Leingarten Mitte",
+        "stop_id": "de:8125:7403"
+    },
+    {
+        "lat": 49.14500882,
+        "lon": 9.12103916,
+        "name": "Leingarten bahnhof",
+        "stop_id": "de:8125:7401"
+    },
+    {
+        "lat": 49.14387266,
+        "lon": 9.13215194,
+        "name": "Leingarten Ost",
+        "stop_id": "de:8125:8402"
+    },
+    {
+        "lat": 49.139214,
+        "lon": 9.165567,
+        "name": "B\u00f6ckingen West",
+        "stop_id": "de:8121:2001"
+    },
+    {
+        "lat": 49.14063452,
+        "lon": 9.19080114,
+        "name": "B\u00f6ckingen Sonnenbrunnen",
+        "stop_id": "de:8121:77"
+    },
+    {
+        "lat": 49.1428342,
+        "lon": 9.20832547,
+        "name": "Heilbronn Hauptbahnhof",
+        "stop_id": "de:8121:1114"
+    },
+    {
+        "lat": 49.14259924,
+        "lon": 9.21388898,
+        "name": "Heilbronn Neckarturm",
+        "stop_id": "de:8121:137"
+    },
+    {
+        "lat": 49.14199698,
+        "lon": 9.21858736,
+        "name": "Heilbronn Rathaus",
+        "stop_id": "de:8121:55"
+    },
+    {
+        "lat": 49.14158245,
+        "lon": 9.22375246,
+        "name": "Heilbronn Harmonie/Kunsthalle",
+        "stop_id": "de:8121:1123"
+    },
+    {
+        "lat": 49.14126734,
+        "lon": 9.22854789,
+        "name": "Heilbronn Friedensplatz",
+        "stop_id": "de:8121:3032"
+    },
+    {
+        "lat": 49.1400463,
+        "lon": 9.23655967,
+        "name": "Heilbronn Finanzamt",
+        "stop_id": "de:8121:3033"
+    },
+    {
+        "lat": 49.1396187,
+        "lon": 9.2432867,
+        "name": "Heilbronn Pf\u00fchlpark",
+        "stop_id": "de:8121:173"
+    }
+]

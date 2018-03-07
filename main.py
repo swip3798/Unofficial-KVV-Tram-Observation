@@ -21,7 +21,7 @@ def print(*args, **kwargs):
 	builtins.print(formatted_time  + ": ", *args, **kwargs)
 
 
-def find_trams(route_id, destination1, destination2):
+def find_trams(route_id, destination1, destination2, destinationlist = []):
 	destination = destination1
 	destination_file = destination2
 	filename = "db/" + str(route_id) + "_" + destination_file + ".json"
@@ -32,7 +32,7 @@ def find_trams(route_id, destination1, destination2):
 		all_departures = kvvapi.get_departures(i["stop_id"])
 		departures = []
 		for i in all_departures:
-			if i.route == str(route_id) and (i.destination == destination or destination_file == i.destination):
+			if i.route == str(route_id) and (i.destination == destination or destination_file == i.destination or i.destination in destinationlist):
 				departures.append(i)
 			else:
 				pass
@@ -58,8 +58,8 @@ def find_trams(route_id, destination1, destination2):
 				results.append([final_route[n], final_route[n+1]])
 	return [final_route, results, stations, killed_route, route]
 
-def load_observation(route_id, destination1, destination2, map_style, filename):
-	answer = find_trams(str(route_id), destination1, destination2)
+def load_observation(route_id, destination1, destination2, map_style, filename, destinationlist = []):
+	answer = find_trams(str(route_id), destination1, destination2, destinationlist = destinationlist)
 	map = interactive_map.Map(answer[0], map_style, [49.0177632, 8.3850749])
 	map.render_marker(answer[2])
 	for i in answer[3]:
@@ -69,7 +69,7 @@ def load_observation(route_id, destination1, destination2, map_style, filename):
 		positions.append([i["lat"],i["lon"]])
 	map.render_poly_paths(positions, color="#03f")
 	for i in answer[1]:
-		map.render_color_paths([i[0]["lat"],i[0]["lon"]], [i[1]["lat"],i[1]["lon"]], "#f00")
+		map.render_color_paths([i[0]["lat"],i[0]["lon"]], [i[1]["lat"],i[1]["lon"]], "#f00", i[1]["depar"][0].destination)
 		print("Bahn zwischen", i[0]["name"], "und", i[1]["name"])
 		logger.info("Tram found between %s and %s", i[0]["name"], i[1]["name"])
 	map.save(filename)
@@ -88,12 +88,17 @@ if __name__ == '__main__':
 				try:
 					load_observation(3, "Tivoli über Hbf", "Tivoli", "CartoDB Positron", "map_3_tivoli.html")
 					load_observation(3, "Heide", "Heide", "CartoDB Positron", "map_3_heide.html")
+					load_observation("S4", "Karlsruhe Hbf", "Karlsruhe Hbf", "CartoDB Positron", "map_s4_karlsruhe.html", ["Karlsruhe Albtalbahnhof"])
+					load_observation("S4", "Heilbronn Hbf", "Heilbronn Pfühlpark", "CartoDB Positron", "map_s4_heilbronn.html", ["Öhringen Cappel EILZUG", "Flehingen", "Weinsberg", "Heilbronn Pfühlpark", "Bretten Gölshausen"])
 					logger.info("Full script execution was managed")
 				except Exception as e:
 					logger.info("Error %s was raised on script execution, retry in 30 sec...", str(e))
 					print("Error ", e, "was raised on script execution")
 				print("Upload maps...")
-				ftpupload.uploadFile("ftp-server.com", "username", "ftword.pass", [["map_3_heide.html","KVV/map_3_heide.html"],["map_3_tivoli.html","KVV/map_3_tivoli.html"]])
+				try:
+					ftpupload.uploadFile("ftp-server.com", "username", "ftword.pass", [["map_3_heide.html","KVV/map_3_heide.html"],["map_3_tivoli.html","KVV/map_3_tivoli.html"]])
+				except:
+					print("no upload")
 				print("Wait for refresh...")
 				time.sleep(30)
 		except KeyboardInterrupt as e:

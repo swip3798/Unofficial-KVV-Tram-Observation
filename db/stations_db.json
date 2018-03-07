@@ -10078,5 +10078,299 @@
         "lon": 8.38711515,
         "name": "Moosbronn Kirche",
         "stop_id": "de:8216:32146"
+    },
+    {
+        "lat": 49.14063452,
+        "lon": 9.19080114,
+        "name": "B\u00f6ckingen Sonnenbrunnen",
+        "stop_id": "de:8121:77"
+    },
+    {
+        "lat": 49.139214,
+        "lon": 9.165567,
+        "name": "B\u00f6ckingen West",
+        "stop_id": "de:8121:2001"
+    },
+    {
+        "lat": 48.92160711,
+        "lon": 8.37443959,
+        "name": "Ettlingenweier Im St\u00f6ck",
+        "stop_id": "de:8215:8212"
+    },
+    {
+        "lat": 49.2832494,
+        "lon": 8.23346093,
+        "name": "B\u00f6bingen Kirche",
+        "stop_id": "de:7337:5505"
+    },
+    {
+        "lat": 49.28423042,
+        "lon": 8.23767919,
+        "name": "B\u00f6bingen Ort",
+        "stop_id": "de:7337:9101"
+    },
+    {
+        "lat": 48.77807848,
+        "lon": 8.06027371,
+        "name": "S\u00f6llingen Kirche",
+        "stop_id": "de:8216:34645"
+    },
+    {
+        "lat": 49.09680134,
+        "lon": 8.00457811,
+        "name": "Bad Bergzabern Berufsschule",
+        "stop_id": "de:7337:5779"
+    },
+    {
+        "lat": 49.20768106,
+        "lon": 8.12444141,
+        "name": "Landau Berufsschule",
+        "stop_id": "de:7313:2706"
+    },
+    {
+        "lat": 49.10577876,
+        "lon": 8.28113391,
+        "name": "Rheinzabern Schulzentrum",
+        "stop_id": "de:7334:33132"
+    },
+    {
+        "lat": 48.94285326,
+        "lon": 8.40981671,
+        "name": "Ettlingen Volkshochschule",
+        "stop_id": "de:8215:37211"
+    },
+    {
+        "lat": 49.18019816,
+        "lon": 8.057703,
+        "name": "Ilbesheim Ost",
+        "stop_id": "de:7337:4597"
+    },
+    {
+        "lat": 49.18260342,
+        "lon": 8.05384401,
+        "name": "Ilbesheim Rathaus",
+        "stop_id": "de:7337:4596"
+    },
+    {
+        "lat": 49.14261271,
+        "lon": 8.20872802,
+        "name": "Herxheim Schulzentrum",
+        "stop_id": "de:7337:6767"
+    },
+    {
+        "lat": 49.06631887,
+        "lon": 8.47594469,
+        "name": "Blankenloch Schulzentrum",
+        "stop_id": "de:8215:32237"
+    },
+    {
+        "lat": 49.12727798,
+        "lon": 8.41301552,
+        "name": "Linkenheim Schulzentrum",
+        "stop_id": "de:8215:1154"
+    },
+    {
+        "lat": 49.14387266,
+        "lon": 9.13215194,
+        "name": "Leingarten Ost",
+        "stop_id": "de:8125:8402"
+    },
+    {
+        "lat": 49.14500882,
+        "lon": 9.12103916,
+        "name": "Leingarten bahnhof",
+        "stop_id": "de:8125:7401"
+    },
+    {
+        "lat": 49.14593221,
+        "lon": 9.10552559,
+        "name": "Leingarten West",
+        "stop_id": "de:8125:7404"
+    },
+    {
+        "lat": 49.1407618,
+        "lon": 9.07026503,
+        "name": "Schwaigern Ost",
+        "stop_id": "de:8125:4391"
+    },
+    {
+        "lat": 49.13917575,
+        "lon": 9.0398795,
+        "name": "Schwaigern West",
+        "stop_id": "de:8125:1705"
+    },
+    {
+        "lat": 49.13841339,
+        "lon": 9.05673539,
+        "name": "Schwaigern Bahnhof",
+        "stop_id": "de:8125:693"
+    },
+    {
+        "lat": 48.68784952,
+        "lon": 8.23031612,
+        "name": "Geroldsau Schwanenwasen",
+        "stop_id": "de:8211:34756"
+    },
+    {
+        "lat": 49.05112157,
+        "lon": 7.9527648,
+        "name": "Schweigen Kirche",
+        "stop_id": "de:7337:4568"
+    },
+    {
+        "lat": 49.05230592,
+        "lon": 7.9564475,
+        "name": "Schweigen Weintor",
+        "stop_id": "de:7337:4567"
+    },
+    {
+        "lat": 48.86666313,
+        "lon": 8.3961153,
+        "name": "V\u00f6lkersbach Schwarzwaldhstr.",
+        "stop_id": "de:8215:8118"
+    },
+    {
+        "lat": 48.66777217,
+        "lon": 8.12023087,
+        "name": "Ottersweier Schwarzwaldstra\u00dfe",
+        "stop_id": "de:8216:32228"
+    },
+    {
+        "lat": 48.67100049,
+        "lon": 8.18374426,
+        "name": "B\u00fchlertal Schwarzwasen",
+        "stop_id": "de:8216:12015"
+    },
+    {
+        "lat": 48.59865801,
+        "lon": 8.38388761,
+        "name": "Schwarzenberg Bahnhof",
+        "stop_id": "de:8237:1431"
+    },
+    {
+        "lat": 49.12951295,
+        "lon": 8.41577067,
+        "name": "Hochstetten Grenzstra\u00dfe",
+        "stop_id": "de:8215:1155"
+    },
+    {
+        "lat": 49.13882028,
+        "lon": 8.40885004,
+        "name": "Hochstetten West",
+        "stop_id": "de:8215:7704"
+    },
+    {
+        "lat": 49.13356812,
+        "lon": 8.41573671,
+        "name": "Hochstetten",
+        "stop_id": "de:8215:1157"
+    },
+    {
+        "lat": 48.47202508,
+        "lon": 8.49548195,
+        "name": "Dornstetten",
+        "stop_id": "de:8237:4001"
+    },
+    {
+        "lat": 49.13678994,
+        "lon": 9.01429217,
+        "name": "Stetten am Heuchelberg",
+        "stop_id": "de:8125:1700"
+    },
+    {
+        "lat": 49.15450244,
+        "lon": 8.97747513,
+        "name": "Gemmingen West",
+        "stop_id": "de:8125:4405"
+    },
+    {
+        "lat": 49.15107789,
+        "lon": 8.98571517,
+        "name": "Gemmingen Bahnhof",
+        "stop_id": "de:8125:3900"
+    },
+    {
+        "lat": 49.13625376,
+        "lon": 8.06980116,
+        "name": "Ingenheim Schwimmbad",
+        "stop_id": "de:7337:5778"
+    },
+    {
+        "lat": 49.21885668,
+        "lon": 8.71106532,
+        "name": "\u00d6stringen Mitte",
+        "stop_id": "de:8215:32529"
+    },
+    {
+        "lat": 48.88897487,
+        "lon": 8.6664987,
+        "name": "Br\u00f6tzingen Mitte",
+        "stop_id": "de:8231:3991"
+    },
+    {
+        "lat": 48.48914245,
+        "lon": 8.80958323,
+        "name": "Ergenzingen",
+        "stop_id": "de:8416:2052"
+    },
+    {
+        "lat": 48.73549157,
+        "lon": 8.41537475,
+        "name": "Kaltenbronn Orgelfelsenhaus",
+        "stop_id": "de:8216:34777"
+    },
+    {
+        "lat": 48.71178542,
+        "lon": 8.16415605,
+        "name": "Eisental Gasthaus Traube",
+        "stop_id": "de:8216:31833"
+    },
+    {
+        "lat": 48.92441564,
+        "lon": 8.36022638,
+        "name": "Bruchhausen Haselweg",
+        "stop_id": "de:8215:8323"
+    },
+    {
+        "lat": 49.002351,
+        "lon": 8.52871,
+        "name": "Berghausen Dieselstr.",
+        "stop_id": "de:8215:2017"
+    },
+    {
+        "lat": 49.05274905,
+        "lon": 8.7405813,
+        "name": "G\u00f6lshausen Industrie",
+        "stop_id": "de:8215:32831"
+    },
+    {
+        "lat": 49.08151074,
+        "lon": 8.0642807,
+        "name": "Dierbach Jahnstra\u00dfe",
+        "stop_id": "de:7337:4574"
+    },
+    {
+        "lat": 49.04516,
+        "lon": 8.72505,
+        "name": "G\u00f6lshausen",
+        "stop_id": "de:8215:1557"
+    },
+    {
+        "lat": 48.93028387,
+        "lon": 8.36771214,
+        "name": "Bruchhausen Bl\u00fctenstra\u00dfe",
+        "stop_id": "de:8215:8320"
+    },
+    {
+        "lat": 49.26076116,
+        "lon": 8.48268134,
+        "name": "Oberhausen Kirchplatz",
+        "stop_id": "de:8215:32504"
+    },
+    {
+        "lat": 49.002534,
+        "lon": 8.536097,
+        "name": "Berghausen Am Stadion",
+        "stop_id": "de:8215:1634"
     }
 ]

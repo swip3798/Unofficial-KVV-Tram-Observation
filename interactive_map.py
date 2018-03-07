@@ -24,13 +24,13 @@ class Map(object):
 	def render_poly_paths(self, positions, color):
 		lines = folium.PolyLine(positions, color = color)
 		lines.add_to(self.map)
-	def render_color_paths(self, location1, location2, color):
-		line = folium.PolyLine([location1, location2], color = color)
+	def render_color_paths(self, location1, location2, color, popup = None):
+		line = folium.PolyLine([location1, location2], color = color, popup = popup)
 		line.add_to(self.map)
-	def render_single_marker(self, location, color = "#03f"):
+	def render_single_marker(self, location, color = "#03f", radius = 8):
 		popup_text = location["name"] + "<br>"
 		popup_text = re.escape(popup_text)
-		marker = folium.CircleMarker(location = [location["lat"], location["lon"]], popup = popup_text, fill = True, radius = 8, color = color)
+		marker = folium.CircleMarker(location = [location["lat"], location["lon"]], popup = popup_text, fill = True, radius = radius, color = color)
 		marker.add_to(self.map)
 
 	def save(self, filename):

@@ -12,3 +12,5 @@ output.log
 productive/
 *.sublime-project
 *.sublime-workspace
+map_s4_heilbronn.html
+map_s4_karlsruhe.html
