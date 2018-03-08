@@ -96,7 +96,7 @@ if __name__ == '__main__':
 					print("Error ", e, "was raised on script execution")
 				print("Upload maps...")
 				try:
-					ftpupload.uploadFile("ftp-server.com", ".user", ".pass", [["map_3_heide.html","KVV/map_3_heide.html"],["map_3_tivoli.html","KVV/map_3_tivoli.html"]])
+					ftpupload.uploadFile(".ftpurl", ".user", ".pass", [["map_3_heide.html","KVV/map_3_heide.html"],["map_3_tivoli.html","KVV/map_3_tivoli.html"]])
 				except:
 					print("no upload")
 				print("Wait for refresh...")
