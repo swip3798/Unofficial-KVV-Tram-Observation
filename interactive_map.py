@@ -2,6 +2,7 @@ import folium
 import re
 import json
 import scipy
+import time
 
 
 
@@ -17,7 +18,8 @@ class Map(object):
 		for n, i in enumerate(self.loc_data):
 			popup_text = i["name"] + "<br>"
 			for j in i["depar"]:
-				popup_text += j.route + " " + j.destination + " " + j.strtime + "<br>"
+				popup_text += j.route + " " + j.destination + " " + j.strtime + str(j.realtime) + "<br>"
+			popup_text += "<br><i>" + time.ctime() + "</i>"
 			popup_text = re.escape(popup_text)
 			marker = folium.CircleMarker(location = [i["lat"], i["lon"]], popup = popup_text, fill = True, radius = 8, color = color)
 			marker.add_to(self.map)

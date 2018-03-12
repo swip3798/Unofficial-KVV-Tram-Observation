@@ -67,6 +67,13 @@ class 	Stop(object):
 	def from_json(json):
 		return Stop(json["name"], json["id"], json["lat"], json["lon"])
 
+class Ticker(object):
+	def __init__(self, date, title, desc, link):
+		self.date = date
+		self.title = title
+		self.desc = desc
+		self.link = link
+	
 
 def get_departures(stop_id):
 	url = API_BASE + DEPARTURE_BASE + stop_id + "?maxInfos=30&key=" + API_KEY

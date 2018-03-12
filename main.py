@@ -7,18 +7,17 @@ import time
 import interactive_map
 import os
 import sys
-import logging
 import ftpupload
 
 
 def print(*args, **kwargs):
 	formatted_time = time.ctime()
-	output_str = formatted_time + ": "
+	output_str = "[" + formatted_time + "] "
 	for i in args:
-		output_str += str(i)
+		output_str += str(i) + " "
 	with open("output.log", "a") as f:
-		f.write(output_str)
-	builtins.print(formatted_time  + ": ", *args, **kwargs)
+		f.write(output_str + "\n")
+	builtins.print(output_str)
 
 
 def find_trams(route_id, destination1, destination2, destinationlist = []):
@@ -58,9 +57,10 @@ def find_trams(route_id, destination1, destination2, destinationlist = []):
 				results.append([final_route[n], final_route[n+1]])
 	return [final_route, results, stations, killed_route, route]
 
-def load_observation(route_id, destination1, destination2, map_style, filename, destinationlist = []):
+def load_observation(route_id, destination1, destination2, map_style, filename, destinationlist = [], zoom = 13.4):
 	answer = find_trams(str(route_id), destination1, destination2, destinationlist = destinationlist)
-	map = interactive_map.Map(answer[0], map_style, [49.0177632, 8.3850749])
+	middle = answer[4][int(len(answer[4])/2)]
+	map = interactive_map.Map(answer[0], map_style, [middle["lat"], middle["lon"]], zoom_start = zoom)
 	map.render_marker(answer[2])
 	for i in answer[3]:
 		map.render_single_marker(i, color = "#aaa")
@@ -69,9 +69,8 @@ def load_observation(route_id, destination1, destination2, map_style, filename, 
 		positions.append([i["lat"],i["lon"]])
 	map.render_poly_paths(positions, color="#03f")
 	for i in answer[1]:
-		map.render_color_paths([i[0]["lat"],i[0]["lon"]], [i[1]["lat"],i[1]["lon"]], "#f00", i[1]["depar"][0].destination)
+		map.render_color_paths([i[0]["lat"],i[0]["lon"]], [i[1]["lat"],i[1]["lon"]], "#f00",i[1]["depar"][0].route + " " + i[1]["depar"][0].destination)
 		print("Bahn zwischen", i[0]["name"], "und", i[1]["name"])
-		logger.info("Tram found between %s and %s", i[0]["name"], i[1]["name"])
 	map.save(filename)
 
 
@@ -80,30 +79,26 @@ def load_observation(route_id, destination1, destination2, map_style, filename, 
 
 if __name__ == '__main__':
 	os.system("cls")
-	logging.basicConfig(format = '%(asctime)s - %(name)s - %(levelname)s - %(message)s', level = logging.INFO, filename="messages.log")
-	logger = logging.getLogger(__name__)
 	while True:
 		try:
 			while True:
 				try:
 					load_observation(3, "Tivoli über Hbf", "Tivoli", "CartoDB Positron", "map_3_tivoli.html")
 					load_observation(3, "Heide", "Heide", "CartoDB Positron", "map_3_heide.html")
-					load_observation("S4", "Karlsruhe Hbf", "Karlsruhe Hbf", "CartoDB Positron", "map_s4_karlsruhe.html", ["Karlsruhe Albtalbahnhof"])
-					load_observation("S4", "Heilbronn Hbf", "Heilbronn Pfühlpark", "CartoDB Positron", "map_s4_heilbronn.html", ["Öhringen Cappel EILZUG", "Flehingen", "Weinsberg", "Heilbronn Pfühlpark", "Bretten Gölshausen"])
-					logger.info("Full script execution was managed")
+					load_observation("S4", "Karlsruhe Hbf", "Karlsruhe Hbf", "CartoDB Positron", "map_s4_karlsruhe.html", ["Karlsruhe Albtalbahnhof"], 11)
+					load_observation("S4", "Heilbronn Hbf", "Heilbronn Pfühlpark", "CartoDB Positron", "map_s4_heilbronn.html", ["Öhringen Cappel EILZUG", "Flehingen", "Weinsberg", "Heilbronn Pfühlpark", "Bretten Gölshausen"], 11)
 				except Exception as e:
-					logger.info("Error %s was raised on script execution, retry in 30 sec...", str(e))
 					print("Error ", e, "was raised on script execution")
 				print("Upload maps...")
 				try:
 					ftpupload.uploadFile(".ftpurl", ".user", ".pass", [["map_3_heide.html","KVV/map_3_heide.html"],["map_3_tivoli.html","KVV/map_3_tivoli.html"],["map_s4_heilbronn.html", "KVV/map_s4_heilbronn.html"], ["map_s4_karlsruhe.html", "KVV/map_s4_karlsruhe.html"]])
 				except Exception as e:
-					print("no upload", e)
+					print("No upload was possible", e)
 				print("Wait for refresh...")
-				time.sleep(30)
+				time.sleep(15)
 		except KeyboardInterrupt as e:
 			continue
 		except Exception as e:
-			logger.info("%s was raised and killed the script", str(e))
+			print(e, "was raised and killed the script")
 			exit()
 
